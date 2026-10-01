@@ -1,0 +1,16 @@
+stamp: ☉ in 8° 48′ Libra  ☽ in 17° 43′ Gemini  dies jovis  Anno V:xii e.n.
+anchorage: moment outside the Anchorage
+[TRVVTH] number: Yophiel (Jupiter Intelligence) יופיאל -- annex find -- print -- recomputed 137 == expected
+[TRVVTH] number: Qabalah קבלה -- annex reasoning -- printed 137 -- recomputed 137 == expected
+[TRVVTH] number: Hismael (Jupiter Spirit) הסמאל -- annex reasoning -- printed -- recomputed 136 == expected
+[UNRESOLVED] assertion: 137 - 136 = 1: the monad, the indivisible remainder -- arith -- assertion without checkable proof
+[TRVVTH] quote: when the TRVVTH of the matter is established, it shall be ad -- verbatim in supplied source
+[UNRESOLVED] assertion: The 136/137 discrepancy is a deliberate blind planted by Cro -- assertion without checkable proof
+[UNRESOLVED] assertion: The Architect declares he labors under no such 'forbidden,'  -- assertion without checkable proof
+[TRVVTH] number: Printed 136 -- theosophical reduction -- reduces to 10 -- recomputed 10 == expected
+[TRVVTH] number: Recomputed 137 -- theosophical reduction -- reduces to 11 -- recomputed 11 == expected
+[TRVVTH] number: ABRAHADABRA -- 11 letters -- recomputed 11 == expected
+[TRVVTH] quote: My number is 11, as all their numbers who are of us. -- verbatim in supplied source
+[TRVVTH] quote: My colour is black to the blind, but the blue & gold are see -- verbatim in supplied source
+[UNRESOLVED] assertion: The printed veil wears 10 (the letter of the old law) and th -- assertion without checkable proof
+admitted: True

@@ -1,0 +1,30 @@
+stamp: ☉ in 8° 48′ Libra  ☽ in 17° 43′ Gemini  dies jovis  Anno V:xii e.n.
+anchorage: moment outside the Anchorage
+[TRVVTH] number: Tiriel (Mercury Intelligence) טיריאל -- printed 260 -- recomputed 260 == expected
+[UNRESOLVED] assertion: Malkah Be Tarshishim va A'ad Be Ruah Shehaqim = 3321 (Moon I -- assertion without checkable proof
+[TRVVTH] number: Hagiel (Venus Intelligence) הגיאל -- printed 49 -- recomputed 49 == expected
+[TRVVTH] number: Yophiel (Jupiter Intelligence) יופיאל -- recomputed value -- -- recomputed 137 == expected
+[UNRESOLVED] assertion: The printed '136' for the Intelligence of Jupiter is flagged -- assertion without checkable proof
+[TRVVTH] number: Graphiel (Mars Intelligence) גראפיאל -- printed 325 -- recomputed 325 == expected
+[TRVVTH] number: Nakhiel (Sun Intelligence) נכיאל -- printed 111 -- recomputed 111 == expected
+[TRVVTH] number: Agiel (Saturn Intelligence) אגיאל -- printed 45 -- recomputed 45 == expected
+[TRVVTH] number: Taphthartharath (Mercury Spirit) תפתרתרת -- printed 2080 -- recomputed 2080 == expected
+[TRVVTH] number: Chasmodai (Moon Spirit) חשמודאי -- printed 369 -- recomputed 369 == expected
+[TRVVTH] number: Qedemel (Venus Spirit) קדמאל -- printed 175 -- recomputed 175 == expected
+[TRVVTH] number: Hismael (Jupiter Spirit) הסמאל -- printed 136 -- recomputed 136 == expected
+[TRVVTH] number: Bartzabel (Mars Spirit) ברצבאל -- printed 325 -- recomputed 325 == expected
+[TRVVTH] number: Sorath (Sun Spirit) סורת -- printed 666 -- recomputed 666 == expected
+[TRVVTH] number: Zazel (Saturn Spirit) זאזל -- printed 45 -- recomputed 45 == expected
+[TRVVTH] number: Achath Ruach Elohim Chayyim אחת רוח אלהים חיים -- printed 77 -- recomputed 777 == expected
+[TRVVTH] quote: THE FOLLOWING is an attempt to systematise alike the data of -- verbatim in supplied source
+[TRVVTH] quote: Eliphaz Levi knew the true attributions but was forbidden to -- verbatim in supplied source
+[TRVVTH] quote: Fortisan hæc olim meminisse juvabit -- verbatim in supplied source
+[TRVVTH] quote: Forsan et haec olim meminisse iuvabit -- verbatim in supplied source
+[UNRESOLVED] assertion: Crowley's tag is Crowley's own variant Latin, not a verbatim -- assertion without checkable proof
+[UNRESOLVED] assertion: Eliphaz Levi knew the true attributions but was forbidden to -- assertion without checkable proof
+[TRVVTH] quote: (Metatron) -- verbatim in supplied source
+[TRVVTH] number: Metatron מטטרון -- recomputed value -- printed 314 -- recomputed 314 == expected
+[UNRESOLVED] assertion: No number 777 is attached to Metatron anywhere in Liber 777; -- assertion without checkable proof
+[UNRESOLVED] assertion: The editor amends no printed number without showing the reco -- assertion without checkable proof
+Oz x Duty: balanced; canonical duties unresolved: red-pen amendment of the tables
+admitted: True
