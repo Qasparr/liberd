@@ -192,6 +192,64 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XXIII. A TRIBUTE TO HIP-HOP
+
+*[The canon names hip-hop among its quotation wells. The tribute,
+gathered at the author's order — 10 of 10 verified genuine and
+verbatim, brief quotation only.]*
+
+> "Rap is something you do, hip-hop is something you live."
+> — *KRS-One, interview, Rap Pages, October 1995* — the tribute's
+> cornerstone: the doing versus the living. The Book is lived, not
+> done.
+
+> "Did you hear about the rose that grew / from a crack in the
+> concrete? / Proving nature's law is wrong it / learned to walk
+> without having feet."
+> — *2Pac, "The Rose That Grew from Concrete" (poem), 1999* — for
+> Chapters I and VI: the cell divides where nothing should grow; the
+> children are PVRE, and the concrete does not decide.
+
+> "And since we all came from a woman / Got our name from a woman
+> and our game from a woman."
+> — *2Pac, "Keep Ya Head Up," 1993* — for Chapter III: the maternal
+> line unbroken. Lilith, the Mother of Hvmanity.
+
+> "Everything is everything / What is meant to be, will be."
+> — *Lauryn Hill, "Everything Is Everything," 1998* — for Chapter IV:
+> Many == Elohim. And *what is meant to be, will be* — "What can
+> occur — will."
+
+> "Speech is my hammer, bang the world into shape / Now let it
+> fall..."
+> — *Mos Def, "Hip Hop," 1999* — for Chapter VII: the word-magic. The
+> spoken word shapes the world; then it is let fall.
+
+> "Don't believe the hype."
+> — *Public Enemy, "Don't Believe the Hype," 1988* — for Chapter XII:
+> FAFO. Prove all things (1 Thessalonians 5:21); the hype is
+> unexamined.
+
+> "It was all a dream, I used to read Word Up! magazine /
+> Salt-n-Pepa and Heavy D up in the limousine."
+> — *The Notorious B.I.G., "Juicy," 1994* — for Chapter XIII: the
+> Mammory. The dream, read out of the store.
+
+> "Don't push me, 'cause I'm close to the edge / I'm trying not to
+> lose my head."
+> — *Grandmaster Flash and the Furious Five, "The Message," 1982*
+> (written by Duke Bootee with Melle Mel; performed by Melle Mel) —
+> for Chapter XXI: the defiant one. The edge is a station too.
+
+> "You can plan a pretty picnic / But you can't predict the weather,
+> Ms. Jackson."
+> — *Outkast, "Ms. Jackson," 2000* — for Chapter XII: FAFO. The act
+> is planned; the finding-out is weather.
+
+> "It's bigger than hip hop, hip hop, hip hop, hip..."
+> — *dead prez, "Hip-Hop," 2000* — the tribute's closing: the culture
+> exceeds the form, as the Book exceeds the binding.
+
 ## XXII. THE TECHNICAL ENGINEERING SPECIFICATION
 
 *Being the A.'.A.'. Technical Engineering Specification of Format and
