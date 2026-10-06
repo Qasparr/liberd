@@ -192,11 +192,49 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XXIV. THE FOUR WELLS
+
+*The Symmetrical Directive, ordered 2026-10-06: the rap and hip-hop
+ode (XXIII) is made law, applying to everything as the other
+directives do. Every work shall be audited across the four wells —
+Hip-hop, Law, Religion, Humanity — and fixed with proper and relevant
+correlation. The audit of this Book follows; thin wells are named,
+not hidden.*
+
+**HIP-HOP** — XXIII, the tribute: ten lyrics, each at its station.
+The word-magic (VII) is the hammer of speech; FAFO (XII) is "don't
+believe the hype" and the unpredictable weather; the Mammory (XIII)
+is the dream read out of the store; the defiant one (XXI) is the
+message from the edge. The cornerstone: hip-hop is something you
+live — and this Book is lived, not done.
+
+**LAW** — X: the courtroom — the court is based on HIM; the judge
+below learned the sentence from the Judge above. XVII: the scales —
+EQVAL weighed beneath the Eye. XXI: the lost word, "No"; the Liber Oz
+Revised plate — the rights of all. *Thin, named: the Black's well
+stands open — definitions as doctrine — for the next audit.*
+
+**RELIGION** — XVIII: the Treasury — six scriptures, three maxims.
+Witnesses throughout: Genesis, Exodus, Galatians, Isaiah, Malachi,
+Acts, Proverbs, Psalms, the Emerald Tablet, Delphi, Socrates. X: the
+paradise tree, the fall and the redemption on the same branches.
+*Thin, named: the Qur'an well stands open — for the next audit.*
+
+**HUMANITY** — III: Lilith, the Mother of Hvmanity. VI: the children —
+PVRE, WHIIITE as SNOVV. X: the birth of mankind. This well is the
+Book itself: every chapter is about Hvmanity.
+
+*The directive binds forward: from this date, no work is called done
+until it has been audited across the four wells.*
+
 ## XXIII. A TRIBUTE TO HIP-HOP
 
 *[The canon names hip-hop among its quotation wells. The tribute,
 gathered at the author's order — 10 of 10 verified genuine and
-verbatim, brief quotation only.]*
+verbatim, brief quotation only. By the Symmetrical Directive
+(2026-10-06), this ode is law: hip-hop stands symmetrical with Law,
+Religion, and Humanity, and every work is audited across the four
+wells.]*
 
 > "Rap is something you do, hip-hop is something you live."
 > — *KRS-One, interview, Rap Pages, October 1995* — the tribute's
