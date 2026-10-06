@@ -192,6 +192,30 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XIX. THE REIMAGINED — THIRD STATIONS
+
+The author's emblems, continued. The two remaining stations of the
+first gathering are cut here, and the second gathering (20–29) begins:
+
+**The winged judge** — the angel with the eye for a head, sword and
+scales above the burning skulls. Judgment that sees all (XVII) and
+fire that proves (VI) in one figure.
+
+**The kneeling angel** — robed and dignified in the Renaissance hand,
+before the light. Supplication is also a station: the will kneels
+before it stands.
+
+**Babalon with the cup** — the Mother under the red moon, the cup
+raised. The Red Mother's sister-aspect (XI): the cup holds what the
+fire proved and the scales weighed.
+
+**The charm quark** — the vintage physics plate re-cut in the
+Renaissance hand: Q = +2/3 e, the charmed particle with its orbits.
+The cell (I) has its smaller divisions, and the divisions have theirs;
+the pattern does not stop at the edge of the instrument.
+
+Eight stations remain to be cut.
+
 ## XVIII. THE TREASURY
 
 *[Gathered at the author's order: the quotes from every and anything
@@ -447,7 +471,7 @@ crowned, the empire of the halved made whole.
 22, the eye above, the book below; the measure and the measured, the
 Many weighed as one (IV).
 
-Two stations remain to be cut: the winged judge and the kneeling angel.
+Two stations remained to be cut at the writing: they are cut in XIX.
 
 ## X. THE FALL
 

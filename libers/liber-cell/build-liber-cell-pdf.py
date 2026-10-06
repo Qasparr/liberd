@@ -73,6 +73,14 @@ RE_EAGLE = (os.path.join(REN, "double-eagle.webp"),
             "Reimagined VII — the double eagle, the two the one became")
 RE_SIGIL = (os.path.join(REN, "sigil-scales.webp"),
             "Reimagined VIII — the sigil of the scales between the pillars 11 and 22")
+RE_JUDGE = (os.path.join(REN, "judge.webp"),
+            "Reimagined IX — the winged judge, the eye-eyed angel with sword and scales")
+RE_KNEEL = (os.path.join(REN, "kneeling-angel.webp"),
+            "Reimagined X — the kneeling angel, robed, before the light")
+RE_BABALON = (os.path.join(REN, "babalon-cup.webp"),
+              "Reimagined XI — Babalon with the cup under the red moon")
+RE_CHARM = (os.path.join(REN, "charm-quark.webp"),
+            "Reimagined XII — the charm quark plate, Q = +2/3 e")
 PLATE1 = (os.path.join(PLT, "The-Unified-Syntax-Fig1-Mitosis-Plate.png"),
           "Plate I — Mitosis: the one becomes two")
 PLATE2 = (os.path.join(PLT, "The-Unified-Syntax-Fig2-Meiosis-Plate.png"),
@@ -220,7 +228,9 @@ def build():
                 4: (MANY,), 5: (), 6: (), 7: (), 8: (CHARIOT,),
                 9: (RE_OOCYTE, RE_MICRO, RE_MOON, RE_PENTA),
                 10: (),
-                11: (RE_LILITH, RE_REDMOTHER, RE_EAGLE, RE_SIGIL)}
+                11: (RE_LILITH, RE_REDMOTHER, RE_EAGLE, RE_SIGIL),
+                12: (), 13: (), 14: (), 15: (), 16: (), 17: (), 18: (),
+                19: (RE_JUDGE, RE_KNEEL, RE_BABALON, RE_CHARM)}
     ci = 0
     for j in range(1, len(chunks), 2):
         heading, body = chunks[j], chunks[j + 1] if j + 1 < len(chunks) else ""
