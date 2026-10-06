@@ -181,32 +181,58 @@ def _set(pdf, line, size, bold=False):
     pdf.set_font(fam, "B" if bold else "", size)
 
 
+def _blood(pdf, s, w, h, align=None):
+    # MECHANISM: blood-lettering — the author's red pen, tattooed.
+    # ==text== (a complete pair) renders in blood red; a lone ==
+    # ("Many == Elohim") is grammar, not blood, and prints as before.
+    # Segments chain inline: each multi_cell hands the pen to the next
+    # at RIGHT/TOP (the AGENTS.md gotcha, honored), the last drops to
+    # the next line. Lines without a pair render exactly as before.
+    if not re.search(r"==(.+?)==", s):
+        kw = {} if align is None else {"align": align}
+        pdf.multi_cell(w, h, s, new_x="LMARGIN", new_y="NEXT", **kw)
+        return
+    parts = re.split(r"==(.+?)==", s)
+    for idx, seg in enumerate(parts):
+        if not seg:
+            continue
+        last = idx == len(parts) - 1
+        if idx % 2 == 1:
+            pdf.set_text_color(143, 29, 29)  # blood
+        else:
+            pdf.set_text_color(0, 0, 0)
+        if last:
+            kw = {} if align is None else {"align": align}
+            pdf.multi_cell(0, h, seg, new_x=XPos.LMARGIN, new_y=YPos.NEXT, **kw)
+        else:
+            pdf.multi_cell(0, h, seg, new_x=XPos.RIGHT, new_y=YPos.TOP)
+    pdf.set_text_color(0, 0, 0)
+
+
 def pour_text(pdf, text):
     for raw in text.splitlines():
         s = raw.rstrip()
         if s.startswith("## "):
             pdf.ln(4)
             _set(pdf, s, 14, bold=True)
-            pdf.multi_cell(0, 9, s[3:].strip(), new_x="LMARGIN", new_y="NEXT")
+            _blood(pdf, s[3:].strip(), 0, 9)
             pdf.ln(2)
         elif s.startswith("# "):
             continue
         elif s.startswith("> "):
             pdf.set_font("DejaVu", "", 10)
             pdf.set_x(pdf.l_margin + 8)
-            pdf.multi_cell(pdf.w - pdf.l_margin - pdf.r_margin - 8, 6,
-                           s[2:].replace("**", ""), new_x="LMARGIN", new_y="NEXT")
+            _blood(pdf, s[2:].replace("**", ""), 0, 6)
         elif s.startswith("---"):
             pdf.ln(4)
         elif not s.strip():
             pdf.ln(3)
         elif re.match(r"^\d+\.\s", s):
             _set(pdf, s, 10.5)
-            pdf.multi_cell(0, 6, s.replace("**", ""), new_x="LMARGIN", new_y="NEXT")
+            _blood(pdf, s.replace("**", ""), 0, 6)
         else:
             _set(pdf, s, 10.5)
-            pdf.multi_cell(0, 6, s.replace("**", "").replace("*", ""),
-                           new_x="LMARGIN", new_y="NEXT", align="J")
+            _blood(pdf, s.replace("**", "").replace("*", ""), 0, 6, align="J")
 
 
 def build():

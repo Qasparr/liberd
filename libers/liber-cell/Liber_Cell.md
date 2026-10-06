@@ -657,6 +657,19 @@ The chain entire: TRVVTH → TRVVST → unification → WORTH. The truth
 trusted, the trusted unified, the unified worthy. QIRA (X) is the
 treasury named for the worth.
 
+*[Further dictated by the author; his gnosis.]*
+
+"And then when its all penned and audited and passes TRVVTH, attains
+TRVVST. Once all TRVVST is WARRANTED and passes TRVVTH again then it
+is DOCTRINE."
+
+The canonization chain, the scribe notes: the red pen is the penning
+(blood lettering — the changes in red); the audit is the Four Wells
+(XXIV); and TRVVTH gates twice — as the experiment is run twice
+(XII). What is penned, audited, and passes TRVVTH attains TRVVST;
+what is warranted in that trust and passes TRVVTH again is
+DOCTRINE.
+
 ## XIV. THE CROSS SECTION
 
 *[Dictated by the author; his gnosis.]*
