@@ -211,14 +211,41 @@ live — and this Book is lived, not done.
 **LAW** — X: the courtroom — the court is based on HIM; the judge
 below learned the sentence from the Judge above. XVII: the scales —
 EQVAL weighed beneath the Eye. XXI: the lost word, "No"; the Liber Oz
-Revised plate — the rights of all. *Thin, named: the Black's well
-stands open — definitions as doctrine — for the next audit.*
+Revised plate — the rights of all. *The Black's well, filled —
+definitions as doctrine:*
+
+> "A human being considered as capable of having rights and of being
+> charged with duties... Natural persons. Such as are formed by
+> nature, as distinguished from artificial persons."
+> — *Black's Law Dictionary, 2d ed. (1910), s.v. PERSON* — for
+> Chapter XVII: EQVAL. Rights *with* duties — Oz×Duty, the
+> commissioned charter, in Black's own words.
+
+> "The act of being born or wholly brought into separate existence."
+> — *Black's, 2d ed. (1910), s.v. BIRTH* — for Chapter X: the birth
+> of mankind — brought into *separate* existence; the one become two
+> (I).
+
+> "A woman who has borne a child; a female parent."
+> — *Black's, 2d ed. (1910), s.v. MOTHER* — for Chapter III: the
+> maternal line.
+
+> "A person under the age of twenty-one years; a minor."
+> — *Black's, 2d ed. (1910), s.v. INFANT* — for Chapter VI: the
+> children.
+
+> "A public officer, appointed to preside and to administer the law
+> in a court of justice."
+> — *Black's, 2d ed. (1910), s.v. JUDGE* — for Chapter XIX: the
+> winged judge.
 
 **RELIGION** — XVIII: the Treasury — six scriptures, three maxims.
 Witnesses throughout: Genesis, Exodus, Galatians, Isaiah, Malachi,
 Acts, Proverbs, Psalms, the Emerald Tablet, Delphi, Socrates. X: the
 paradise tree, the fall and the redemption on the same branches.
-*Thin, named: the Qur'an well stands open — for the next audit.*
+*Filled: three Qur'an verses entered in the Treasury (XVIII) —
+23:12–14 for the cell, 49:13 for the Many, 4:1 for the one become
+two.*
 
 **HUMANITY** — III: Lilith, the Mother of Hvmanity. VI: the children —
 PVRE, WHIIITE as SNOVV. X: the birth of mankind. This well is the
@@ -405,7 +432,7 @@ the chapters that follow.
 relevant — scriptures, axioms, maxims, psalms and proverbs, and
 Holywood both mainstream and the underground. (His spelling — holy
 wood; the tree again.) Every one verified genuine and verbatim before
-entering the Book — 15 of 15. The station each serves is named.]*
+entering the Book — 18 of 18. The station each serves is named.]*
 
 ### Scriptures
 
@@ -439,6 +466,31 @@ entering the Book — 15 of 15. The station each serves is named.]*
 > — *Proverbs 25:2 (King James Version)* — for Chapters XII and XIII:
 > FAFO and the Mammory. The concealment is the glory; the search is
 > the honour. Prove all things; read out the store.
+
+*From the Qur'an (Marmaduke Pickthall, "The Meaning of the Glorious
+Koran"):*
+
+> "Verily We created man from a product of wet earth; then placed him
+> as a drop (of seed) in a safe lodging; then fashioned We the drop a
+> clot, then fashioned We the clot a little lump, then fashioned We
+> the little lump bones, then clothed the bones with flesh, and then
+> produced it as another creation. So blessed be Allah, the Best of
+> creators!"
+> — *Qur'an 23:12–14 (Pickthall)* — for Chapter I: the cell, in the
+> Qur'an's own embryology — the drop, the clot, the fashioning.
+
+> "O mankind! Lo! We have created you male and female, and have made
+> you nations and tribes that ye may know one another. Lo! the
+> noblest of you, in the sight of Allah, is the best in conduct."
+> — *Qur'an 49:13 (Pickthall)* — for Chapters IV and XVII: the Many,
+> and EQVAL — nobility by conduct, not by tribe.
+
+> "O mankind! Be careful of your duty to your Lord Who created you
+> from a single soul and from it created its mate and from them twain
+> hath spread abroad a multitude of men and women... and toward the
+> wombs (that bare you)."
+> — *Qur'an 4:1 (Pickthall)* — for Chapters I and II: the one becomes
+> two; and for III: the wombs that bare.
 
 ### Axioms and Maxims
 
