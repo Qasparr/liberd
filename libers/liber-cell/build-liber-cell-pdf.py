@@ -81,6 +81,14 @@ RE_BABALON = (os.path.join(REN, "babalon-cup.webp"),
               "Reimagined XI — Babalon with the cup under the red moon")
 RE_CHARM = (os.path.join(REN, "charm-quark.webp"),
             "Reimagined XII — the charm quark plate, Q = +2/3 e")
+RE_MAGI = (os.path.join(REN, "magi-alphabet.webp"),
+           "Reimagined XIII — the Alphabet of the Magi, re-cut for the grimoire")
+RE_SUNDIAL = (os.path.join(REN, "sundials.webp"),
+              "Reimagined XIV — the sundials, time told by shadow")
+RE_MUDRA9 = (os.path.join(REN, "nine-mudras.webp"),
+             "Reimagined XV — the nine mudras: Power, Energy, Harmony, Healing, Intuition, Awareness, Dimension, Creation, Absolute")
+RE_HASTA = (os.path.join(REN, "hasta-mudras.webp"),
+            "Reimagined XVI — the hasta mudras, the dancers' hand-language")
 PLATE1 = (os.path.join(PLT, "The-Unified-Syntax-Fig1-Mitosis-Plate.png"),
           "Plate I — Mitosis: the one becomes two")
 PLATE2 = (os.path.join(PLT, "The-Unified-Syntax-Fig2-Meiosis-Plate.png"),
@@ -230,7 +238,8 @@ def build():
                 10: (),
                 11: (RE_LILITH, RE_REDMOTHER, RE_EAGLE, RE_SIGIL),
                 12: (), 13: (), 14: (), 15: (), 16: (), 17: (), 18: (),
-                19: (RE_JUDGE, RE_KNEEL, RE_BABALON, RE_CHARM)}
+                19: (RE_JUDGE, RE_KNEEL, RE_BABALON, RE_CHARM),
+                20: (RE_MAGI, RE_SUNDIAL, RE_MUDRA9, RE_HASTA)}
     ci = 0
     for j in range(1, len(chunks), 2):
         heading, body = chunks[j], chunks[j + 1] if j + 1 < len(chunks) else ""

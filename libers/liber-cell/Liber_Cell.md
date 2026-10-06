@@ -192,6 +192,25 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XX. THE REIMAGINED — FOURTH STATIONS
+
+The author's emblems, continued — the second gathering, continued:
+
+**The Alphabet of the Magi** — the magicians' letters re-cut for the
+Renaissance grimoire. The word-magic (VII) needs its letters; here
+they are, dressed for keeping.
+
+**The sundials** — the antique instrument-plate: dials and quadrants
+for telling time by shadow. The moon (IX) measures months; these
+measure hours. Time, sectioned (XIV).
+
+**The nine mudras** — Power, Energy, Harmony, Healing, Intuition,
+Awareness, Dimension, Creation, Absolute. The hands speak nine words;
+the body is also a text.
+
+**The hasta mudras** — the dancers' hand-language, re-studied in the
+Renaissance hand. The gesture is the spell before the word.
+
 ## XIX. THE REIMAGINED — THIRD STATIONS
 
 The author's emblems, continued. The two remaining stations of the
@@ -214,7 +233,9 @@ Renaissance hand: Q = +2/3 e, the charmed particle with its orbits.
 The cell (I) has its smaller divisions, and the divisions have theirs;
 the pattern does not stop at the edge of the instrument.
 
-Eight stations remain to be cut.
+Eight stations remained to be cut at the writing: four are cut in XX;
+ten more emblems (the third gathering, 30–39) arrived and are cut in
+the chapters that follow.
 
 ## XVIII. THE TREASURY
 
