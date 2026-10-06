@@ -150,6 +150,8 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — "NO WORD, NO WORLD. NO ROTATES TO OZ." The author's gnosis: the lost word of Freemasonry is "No," the word of refusal, the sovereign veto; rotated letter by letter, NO becomes OZ, and עז (*oz*, "strength") is 77 — Liber Oz is Liber LXXVII. The chain No → Oz → 77 → Axoneme (AXONEME = 77 by English ordinal) is his own, recorded 2026-09-27.
 
+[Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — the author's further reading, recorded 2026-10-06: עז (70+7 = 77, Oz), seen with Latin eyes, spells *Ty* — ע shaped like *y*, ז shaped like *T*. Lady Liber-*ty*: Lady Liberty, who carries the torch (light) and the tablet (law). The chain extends: No → Oz → 77 → Ty → Liberty.
+
 ### On Gate I (vv. 6–10) — the Law of the Night
 
 Crowley's Oz 0–5: to live by one's own law; to live, work, play, rest, and die as one wills. The revision keeps all five and re-voices them in the Mother's mouth. Note v. 9's warrant: "even the red moon wanes" — rest is not the negation of the law but its rhythm. The right to die (Oz 5) is kept without euphemism in v. 10; the Mother's ending, like her beginning, is her own.
