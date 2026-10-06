@@ -55,6 +55,8 @@ RIB = (os.path.join(REN, "rib-coincidence.webp"),
        "The deep sleep — the rib unfolded into dividing cells")
 MANY = (os.path.join(REN, "many-as-one.webp"),
         "The many becoming the one — Many == Elohim")
+CHARIOT = (os.path.join(REN, "chariot-kaos.webp"),
+           "The Chariot — the Mother is the vehicle, the Father drives into Kaos")
 PLATE1 = (os.path.join(PLT, "The-Unified-Syntax-Fig1-Mitosis-Plate.png"),
           "Plate I — Mitosis: the one becomes two")
 PLATE2 = (os.path.join(PLT, "The-Unified-Syntax-Fig2-Meiosis-Plate.png"),
@@ -199,7 +201,7 @@ def build():
     pour_text(pdf, chunks[0])
 
     stations = {1: (PLATE1, RIB), 2: (PLATE2,), 3: (PLATE3, LILITH),
-                4: (MANY,), 5: (), 6: (), 7: ()}
+                4: (MANY,), 5: (), 6: (), 7: (), 8: (CHARIOT,)}
     ci = 0
     for j in range(1, len(chunks), 2):
         heading, body = chunks[j], chunks[j + 1] if j + 1 < len(chunks) else ""
