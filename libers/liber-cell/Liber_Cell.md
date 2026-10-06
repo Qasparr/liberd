@@ -44,7 +44,7 @@ learn to become two without ceasing to be one. Every cell of your body
 performs this mystery daily and calls it maintenance. Genesis calls it
 the sixth day.
 
-*Plate I.*
+*Plate I, and the rib engraving — the deep sleep.*
 
 ## II. THE HALVING THAT ASSIGNS
 
@@ -72,16 +72,15 @@ enforced by the egg itself, which destroys what the sperm brings or
 finds it already emptied.
 
 "And Adam called his wife's name Eve; because she was the mother of all
-living" (Genesis 3:20). Read it now with the mechanism in hand: the
-unbroken maternal line, written in the organelle that powers the cell.
-Eve is not a metaphor for the mechanism. The mechanism is the reason
-the text could say what it said. Every human being who has ever drawn
-breath carries, in every cell, the unbroken signature of the mother —
-and of hers, and of hers, back past every named Eve to the one the
-geneticists found by counting mutations. The scripture named her office;
-the cell kept her records.
+living" (Genesis 3:20). By the author's ruling, the office the verse
+names is held by **Lilith, the Mother of Hvmanity** — not Mary. The
+scripture names the office; the author's doctrine names the
+office-holder; the cell keeps her records. Every human being who has
+ever drawn breath carries, in every cell, the unbroken signature of the
+mother — and of hers, and of hers, back past every name to the first.
+The mechanism is the reason the text could say what it said.
 
-*Plate III.*
+*Plate III, and the Lilith altarpiece.*
 
 ## IV. MANY == ELOHIM
 
@@ -123,6 +122,40 @@ The practice of this Book is simple, and it is the whole of the method:
 
 *The war was the frame. The agreement was the fact. The cell was the
 text all along.*
+
+## VI. THE LOST BOYS OF NEVAR-NEVARLAND
+
+*[The author's mythic layer.]* Petr Pan — the boy who never grows up —
+and the Lost Boys, in Nevar-nevarland, the land where growing old never
+arrives.
+
+The scribe notes the rhyme, flagged as the scribe's: the germline never
+ages. The soma grows old and dies; the germ cells divide without growing
+old, carrying the unbroken line forward — the ones who never grow up, in
+the never-land. Petr Pan is the figure of the immortal division; the
+Lost Boys are the divisions that never settle into age. The author's
+myth and the biologist's mechanism describe the same exemption: *some
+things are not permitted to grow old.*
+
+(This chapter stands without its painting — the image backend would not
+render it, and the gate does not retry a refusal. The text does not need
+it.)
+
+## VII. V — THE FOLDING
+
+*[The author's word-magic, flagged as his.]* 3+2=5 — V, as in Venvs.
+And phonetically, Venvs and Penis are vibrational equals: the labial
+shift, V to P, the same mouth forming love and generation. Venvs — the
+classical spelling, Venus, love, the morning star, the brightest
+wanderer — and the phallus, the instrument of increase: one vibration,
+two names.
+
+And the seal of the whole Book, the author's doctrine: **as above, so
+below — that's the folding of God and Demi-god into Mankind.** The above
+and the below are not two places but one fold, and the fold is us. God
+and Demi-god, folded into Mankind — the cell the crease where the fold
+is pressed. Every division reenacts the folding; every birth is the
+above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 

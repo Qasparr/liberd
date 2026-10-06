@@ -48,8 +48,11 @@ SANS_B = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
 FRONTISPIECE = (os.path.join(REN, "frontispiece.webp"),
                 "Frontispiece — the dividing cell under divine light")
-EVE = (os.path.join(REN, "eve-maternal.webp"),
-       "Eve, the mother of all living — the maternal tree")
+EVE = None  # superseded by the author's ruling — Lilith holds the seat
+LILITH = (os.path.join(REN, "lilith-maternal.webp"),
+          "Lilith, the Mother of Hvmanity")
+RIB = (os.path.join(REN, "rib-coincidence.webp"),
+       "The deep sleep — the rib unfolded into dividing cells")
 MANY = (os.path.join(REN, "many-as-one.webp"),
         "The many becoming the one — Many == Elohim")
 PLATE1 = (os.path.join(PLT, "The-Unified-Syntax-Fig1-Mitosis-Plate.png"),
@@ -195,7 +198,8 @@ def build():
     pdf.add_page()
     pour_text(pdf, chunks[0])
 
-    stations = {1: (PLATE1,), 2: (PLATE2,), 3: (PLATE3, EVE), 4: (MANY,)}
+    stations = {1: (PLATE1, RIB), 2: (PLATE2,), 3: (PLATE3, LILITH),
+                4: (MANY,), 5: (), 6: (), 7: ()}
     ci = 0
     for j in range(1, len(chunks), 2):
         heading, body = chunks[j], chunks[j + 1] if j + 1 < len(chunks) else ""
