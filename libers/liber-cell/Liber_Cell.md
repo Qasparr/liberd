@@ -162,6 +162,28 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XV. TRVVST AND WORTH
+
+*[Dictated by the author; his gnosis.]*
+
+"From TRVVTH comes TRVVST and from The point of unification then comes
+WORTH."
+
+From TRVVTH comes TRVVST: what is true can be trusted, and what is
+trusted was first true. The trust is not the belief; the trust is the
+TRVVTH holding still long enough to be leaned on.
+
+And from the point of unification then comes WORTH. The point of
+unification is the cross section (XIV) — where Law and Order converge —
+and the marriage in Holy Perfection (X) — He and She made one. From
+that point, and only from that point, comes WORTH: value, the treasure.
+What is unified has worth; what is divided has price. The Keeper of the
+Secret Treasure keeps it because the unification made it worth keeping.
+
+The chain entire: TRVVTH → TRVVST → unification → WORTH. The truth
+trusted, the trusted unified, the unified worthy. QIRA (X) is the
+treasury named for the worth.
+
 ## XIV. THE CROSS SECTION
 
 *[Dictated by the author; his gnosis.]*
