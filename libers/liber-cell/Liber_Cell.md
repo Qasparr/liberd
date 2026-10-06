@@ -192,6 +192,27 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XVII. EQVAL
+
+*[Dictated by the author; his gnosis.]*
+
+"All is EQVAL in the EYE of the LORD."
+
+The EYE: the eye in the triangle (Reimagined VIII), the eye that is
+the sun (Reimagined I). The scales hang beneath it — 11 and 22, the
+measure and the measured (XI) — and the scales hang level, because in
+that EYE nothing weighs more than anything. The many (IV) are one
+weight. The children are PVRE (VI); the fire proved them (VI); and the
+proving leaves no remainder — all is EQVAL.
+
+> "Then Peter opened his mouth, and said, Of a truth I perceive that
+> God is no respecter of persons."
+> — *Acts 10:34 (King James Version)*
+
+> "The eyes of the Lord are in every place, beholding the evil and the
+> good."
+> — *Proverbs 15:3 (King James Version)*
+
 ## XVI. TRVVTH NORTH
 
 *[Dictated by the author; his gnosis.]*
