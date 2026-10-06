@@ -190,6 +190,13 @@ and Demi-god, folded into Mankind — the cell the crease where the fold
 is pressed. Every division reenacts the folding; every birth is the
 above arriving below.
 
+**Ty.** And the author's further word-magic: Liber 77 in Hebrew is
+70+7 = עז, Oz — and the letters themselves, seen with Latin eyes,
+spell *Ty*: ע shaped like *y*, ז shaped like *T*. Lady Liber-*ty* —
+Lady Liberty, who carries the torch (light) and the tablet (law).
+[Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support:
+$axoneme]
+
 93. *"Live, Love, and let Love, Live."*
 
 ## XXV. THE REIMAGINED — SIXTH STATIONS
