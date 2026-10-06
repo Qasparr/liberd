@@ -148,6 +148,32 @@ things are not permitted to grow old.*
 render it, and the gate does not retry a refusal. The text does not need
 it.)
 
+*"All the children of the EARTH are Pure, and WHIIITE as SNOVV."*
+— dictated by the author; sealed **PVRE**.
+
+> "Come now, and let us reason together, saith the Lord: though your
+> sins be as scarlet, they shall be as white as snow; though they be red
+> like crimson, they shall be as wool."
+> — *Isaiah 1:18 (King James Version)*
+
+The scribe's reading, flagged: the Lost Boys never grow old because
+the children of the Earth are pure — purity is the exemption from age.
+The scarlet made snow-white: the fall (X) washed in the same verse.
+WHIIITE as SNOVV — his spelling, the inscriptional hand. The purity is
+old; it is cut in stone.
+
+**FIRE** — dictated by the author; the seal after PVRE.
+
+> "But who may abide the day of his coming? and who shall stand when he
+> appeareth? for he is like a refiner's fire, and like fullers' soap."
+> — *Malachi 3:2 (King James Version)*
+
+The scribe's reading, flagged: the fire is the whitening. The
+refiner's fire and the fuller's soap stand in the same verse — the
+burning and the bleaching are one work. The children are WHIIITE as
+SNOVV because they passed through FIRE. PVRE is not the absence of
+burning; it is the result.
+
 ## VII. V — THE FOLDING
 
 *[The author's word-magic, flagged as his.]* 3+2=5 — V, as in Venvs.
