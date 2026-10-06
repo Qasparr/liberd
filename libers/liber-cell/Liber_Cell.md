@@ -192,6 +192,94 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XVIII. THE TREASURY
+
+*[Gathered at the author's order: the quotes from every and anything
+relevant — scriptures, axioms, maxims, psalms and proverbs, and
+Holywood both mainstream and the underground. (His spelling — holy
+wood; the tree again.) Every one verified genuine and verbatim before
+entering the Book — 15 of 15. The station each serves is named.]*
+
+### Scriptures
+
+> "I will praise thee; for I am fearfully and wonderfully made:
+> marvellous are thy works; and that my soul knoweth right well."
+> — *Psalm 139:14 (King James Version)* — for Chapter I: the cell,
+> wonderfully made.
+
+> "What is man, that thou art mindful of him? and the son of man, that
+> thou visitest him? For thou hast made him a little lower than the
+> angels, and hast crowned him with glory and honour."
+> — *Psalm 8:4–5 (King James Version)* — for Chapter X: a little lower
+> than the angels — the fall is the birth.
+
+> "...for he that is hanged is accursed of God;..."
+> — *Deuteronomy 21:23 (King James Version)* — for Chapter X: the curse
+> behind Galatians 3:13, the tree of the hanging.
+
+> "...the tree of life... and the leaves of the tree were for the
+> healing of the nations."
+> — *Revelation 22:2 (King James Version)* — for Chapter X: the tree
+> that saves, at the end of the Book.
+
+> "Therefore shall a man leave his father and his mother, and shall
+> cleave unto his wife: and they shall be one flesh."
+> — *Genesis 2:24 (King James Version)* — for Chapter X: the marriage in
+> Holy Perfection, Qi Ra.
+
+> "It is the glory of God to conceal a thing: but the honour of kings
+> is to search out a matter."
+> — *Proverbs 25:2 (King James Version)* — for Chapters XII and XIII:
+> FAFO and the Mammory. The concealment is the glory; the search is
+> the honour. Prove all things; read out the store.
+
+### Axioms and Maxims
+
+> "That which is above is like to that which is below, and that which
+> is below is like to that which is above." — *"As above, so below."*
+> — *The Emerald Tablet (Tabula Smaragdina)* — for Chapter VII: the
+> folding. (The short form is the modern paraphrase; the Latin runs
+> *Quod est superius est sicut quod inferius, et quod inferius est
+> sicut quod est superius.*)
+
+> "Know thyself." — *Γνῶθι σεαυτόν*, Delphic maxim, Temple of Apollo
+> at Delphi — for Chapter V: the reading method. The reader is the
+> first instrument.
+
+> "The unexamined life is not worth living."
+> — *Socrates, in Plato's Apology 38a* — for Chapter XII: FAFO. The
+> fucking-around is the examination; the finding-out is the worth.
+
+### Holywood — Mainstream
+
+> "I see you."
+> — *Avatar (2009), dir. James Cameron* — the Na'vi greeting, for
+> Chapter XVII: EQVAL. To see is to weigh equally.
+
+> "There is no spoon."
+> — *The Matrix (1999), dir. the Wachowskis* — for Chapter XIII: the
+> Mammory. It is not the spoon that bends; the read-out is in the
+> reader.
+
+> "Love is the one thing we're capable of perceiving that transcends
+> dimensions of time and space."
+> — *Interstellar (2014), dir. Christopher Nolan* — for Chapter X:
+> Qi Ra. *Live, Love, and let Love, Live.*
+
+### Holywood — The Underground
+
+> "Mathematics is the language of nature."
+> — *Pi (1998), dir. Darren Aronofsky* — for Chapters IX and XI: the
+> pentagram of numbers. Everything represented; patterns everywhere.
+
+> "You are excrement. You can change yourself into gold."
+> — *The Holy Mountain (1973), dir. Alejandro Jodorowsky* — for
+> Chapter VI: FIRE. The refiner's work, spoken underground.
+
+> "In Heaven, everything is fine."
+> — *Eraserhead (1977), dir. David Lynch* — for Chapter VI:
+> Nevar-nevarland. The place where nothing is permitted to grow old.
+
 ## XVII. EQVAL
 
 *[Dictated by the author; his gnosis.]*
