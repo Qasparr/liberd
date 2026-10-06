@@ -106,6 +106,10 @@ whole; the whole named by a plural noun that takes a singular verb.
 scale of the cell and once at the scale of God, and it is the same
 sentence.
 
+> "All for one — one for all."
+> — *Alexandre Dumas, The Three Musketeers (1844)* — *"Tous pour un,
+> un pour tous."* The many for the one; the one for the many.
+
 ## V. THE READING METHOD
 
 The practice of this Book is simple, and it is the whole of the method:
@@ -335,6 +339,19 @@ The witnesses:
 > — *Genesis 3:20 (King James Version; verified in the Unified Syntax
 > audit)* — the scripture's title; the seat, by the author's ruling, is
 > Lilith's (III).
+
+**The paradise tree.** The decorated tree is the fall and the
+redemption on the same branches. The medieval paradise tree — the fir
+hung with apples for the forbidden fruit and wafers for the Eucharist,
+set up on December 24, the feast of Adam and Eve — is the documented
+ancestor of the Christmas tree, and the ancestor tells the doctrine:
+the tree that killed is the tree that saves. The New Testament calls
+the cross a tree: *"whom ye slew and hanged on a tree"* (Acts 5:30,
+King James Version); *"Cursed is every one that hangeth on a tree"*
+(Galatians 3:13, King James Version). One tree for the hanging of
+mankind's fate, one tree for the hanging of its ransom — and the
+household decorates one tree, because they were never two. (The
+author's reading, filed: that is why the tree is decorated.)
 
 The order of the becoming is given:
 
