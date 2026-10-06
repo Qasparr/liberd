@@ -128,6 +128,7 @@ So the Golden Rule stands as the **sole Rule**, and *Duty* stands as its **moral
 **1. Unification with Liber OZ (Liber LXXVII).**
 
 - The sovereignty of the Star is formally unified with Liber OZ (Liber 77). There is no law beyond *"Do what thou wilt shall be the whole of the Law."*
+- [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — the author's further reading, recorded 2026-10-06: עז (70+7 = 77, Oz), seen with Latin eyes, spells *Ty* — ע shaped like *y*, ז shaped like *T*. Lady Liber-*ty*: she carries the torch (light) and the tablet (law) — the jurisprudence of the Star, personified.
 - The Individual possesses the natural, inalienable right to:
   - Live by one's own law.
   - Work, play, and rest as one will.

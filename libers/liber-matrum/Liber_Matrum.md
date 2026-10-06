@@ -116,6 +116,8 @@ And she is crowned, in the author's gnosis, as Lady Liberty:
 
 The Mother of Exiles receives the refused of every other shore — note how she completes Babalon's reception, but at the far end of the pipeline and only for what is prudent to receive: the synthesis, not the raw intake. Liberty is Prudence with a torch.
 
+[Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — the author's further reading, recorded 2026-10-06: her title has a Hebrew root. עז (70+7 = 77, Oz), seen with Latin eyes, spells *Ty* — ע shaped like *y*, ז shaped like *T*. Lady Liber-*ty*: the Third Mother's crown was already written in the letters of Liber 77.
+
 ### Result
 
 **Office: Prudent Synthesis & Output.** Mary composes the admitted into action under its duty — or, where nothing passed, honestly takes no action. In the engine: `mary_synthesize` — every pipeline terminates in a verdict.
