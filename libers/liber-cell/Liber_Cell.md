@@ -162,6 +162,31 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XIV. THE CROSS SECTION
+
+*[Dictated by the author; his gnosis.]*
+
+"The cross section is where Law and Order converge then divergent from.
+There is the TRVVTH."
+
+The cross section — the cut across, the place where the lines cross.
+Law converges there: the scripture, the commandment (VIII), the "prove
+all things" (XII). Order converges there: the finding-out, the result
+extracted from Kaos (XII). They meet at the crossing — and they do not
+stay. From the cross section they diverge: Law goes up into the
+commandment, Order goes out into the experiment, and the two do not
+walk together, though they crossed.
+
+There is the TRVVTH: not in the Law alone, not in the Order alone, but
+at the section where they converge and from which they diverge.
+
+And the Book has been cutting all along. The Witnesses are cross
+sections — the egg sliced by the instrument's eye (IX) — and every
+chapter is a section cut through the one subject. The cell, sectioned,
+shows the Genesis code. The coincidence, sectioned, shows the Mammory
+(XIII). Cut anything straight through, and the TRVVTH is where its Law
+and its Order cross.
+
 ## XIII. MAMMORY
 
 *[The author's coinage, R-69.]*
