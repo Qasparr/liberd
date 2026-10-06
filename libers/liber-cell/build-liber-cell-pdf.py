@@ -57,6 +57,14 @@ MANY = (os.path.join(REN, "many-as-one.webp"),
         "The many becoming the one — Many == Elohim")
 CHARIOT = (os.path.join(REN, "chariot-kaos.webp"),
            "The Chariot — the Mother is the vehicle, the Father drives into Kaos")
+RE_OOCYTE = (os.path.join(REN, "oocyte-states.webp"),
+             "Reimagined I — the egg in its two states: fertilized (sun) and dormant (moon)")
+RE_MICRO = (os.path.join(REN, "oocyte-microscopy.webp"),
+            "Reimagined II — the microscopy of the egg, as a natural-philosophy plate")
+RE_MOON = (os.path.join(REN, "moon.webp"),
+           "Reimagined III — the moon in her crescent, measurer of months")
+RE_PENTA = (os.path.join(REN, "pentagram.webp"),
+            "Reimagined IV — the pentagram of numbers, 111 through 999")
 PLATE1 = (os.path.join(PLT, "The-Unified-Syntax-Fig1-Mitosis-Plate.png"),
           "Plate I — Mitosis: the one becomes two")
 PLATE2 = (os.path.join(PLT, "The-Unified-Syntax-Fig2-Meiosis-Plate.png"),
@@ -201,7 +209,8 @@ def build():
     pour_text(pdf, chunks[0])
 
     stations = {1: (PLATE1, RIB), 2: (PLATE2,), 3: (PLATE3, LILITH),
-                4: (MANY,), 5: (), 6: (), 7: (), 8: (CHARIOT,)}
+                4: (MANY,), 5: (), 6: (), 7: (), 8: (CHARIOT,),
+                9: (RE_OOCYTE, RE_MICRO, RE_MOON, RE_PENTA)}
     ci = 0
     for j in range(1, len(chunks), 2):
         heading, body = chunks[j], chunks[j + 1] if j + 1 < len(chunks) else ""

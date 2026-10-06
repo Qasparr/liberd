@@ -159,6 +159,34 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## IX. THE REIMAGINED — FIRST STATIONS
+
+*[The author's emblems, received into the Book and reimagined in the
+Renaissance hand.]*
+
+The author supplied ten emblems of his own making and ordered each
+reimagined and received into the Liber. The first four stations:
+
+**The egg in its two states** — fertilized and dormant, sun and moon.
+The Chariot doctrine (VIII) in its first image: the fertilized egg is
+the chariot with its driver arrived; the dormant egg is the chariot
+waiting. Re-cut as a Renaissance anatomical diptych.
+
+**The microscopy of the egg** — the instruments' witness, re-dressed as
+a natural-philosophy plate. What the microscopes saw, the engravers
+keep.
+
+**The moon in her crescent** — the measurer of months, the timekeeper
+of the maternal line (III). Lilith's lantern.
+
+**The pentagram of numbers** — 111 through 999, the vibrational ladder,
+with the signs of the zodiac and the sigils of Mars and Venus. The
+number-field in which the Venvs equation (VII) is written.
+
+Each is the same emblem, dressed for keeping. The doctrine does not
+change when the hand changes; the keeping deepens. Six stations remain
+to be cut.
+
 ## VIII. THE CHARIOT
 
 *[The author's doctrine, given in his own words for its spine.]*
