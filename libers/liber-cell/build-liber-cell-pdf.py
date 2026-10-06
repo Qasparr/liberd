@@ -105,6 +105,14 @@ RE_HERU = (os.path.join(REN, "heru-ra-ha.webp"),
            "Reimagined XXIII — Heru-Ra-Ha between the zones of darkness and light")
 RE_WATCH = (os.path.join(REN, "unicursal-watch.webp"),
             "Reimagined XXV — the watch: time told by the star")
+RE_MERKABA = (os.path.join(REN, "merkaba-field.webp"),
+              "Reimagined XXVII — the Merkaba field, the vehicle of ascent")
+RE_DNA = (os.path.join(REN, "dna-diffraction.webp"),
+          "Reimagined XXVIII — the DNA diffraction, the spiral of life")
+RE_AXONEME = (os.path.join(REN, "axoneme.webp"),
+              "Reimagined XXIX — the axoneme, the ninefold wheel")
+RE_ZYGOTE = (os.path.join(REN, "zygote.webp"),
+             "Reimagined XXX — the zygote: sperm, embryo, fetus")
 PLATE1 = (os.path.join(PLT, "The-Unified-Syntax-Fig1-Mitosis-Plate.png"),
           "Plate I — Mitosis: the one becomes two")
 PLATE2 = (os.path.join(PLT, "The-Unified-Syntax-Fig2-Meiosis-Plate.png"),
@@ -258,7 +266,8 @@ def build():
                 20: (RE_MAGI, RE_SUNDIAL, RE_MUDRA9, RE_HASTA),
                 21: (RE_DEFIANT, RE_OZREV, RE_LUCIFER, RE_GREEX),
                 22: (RE_BOOTKEY, RE_PERSONAV),
-                25: (RE_HERU, RE_WATCH)}
+                25: (RE_HERU, RE_WATCH),
+                26: (RE_MERKABA, RE_DNA, RE_AXONEME, RE_ZYGOTE)}
     ci = 0
     for j in range(1, len(chunks), 2):
         heading, body = chunks[j], chunks[j + 1] if j + 1 < len(chunks) else ""

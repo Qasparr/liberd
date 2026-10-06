@@ -199,6 +199,29 @@ $axoneme]
 
 93. *"Live, Love, and let Love, Live."*
 
+## XXVI. THE REIMAGINED — SEVENTH STATIONS
+
+The author's emblems, completed — the third gathering, completed:
+
+**The Merkaba field** — the double bi-veca diagram re-cut in the
+Renaissance hand: interlocking geometries, the vehicle of ascent.
+The chariot (VIII), drawn as engine-schematic.
+
+**The DNA diffraction** — the fiber patterns and the double helix
+re-set as a Renaissance natural-philosophy plate: the spiral of life
+caught by X-ray light. The cell (I) keeps its innermost writing.
+
+**The axoneme** — the cross-section re-engraved: the ninefold wheel,
+spokes and arms around the twin hubs. *Axoneme* — his word for the
+cross itself: the instrument of motion and the instrument of the
+crucifixion in one figure.
+
+**The zygote** — sperm, embryo, fetus: the development re-drawn as a
+Renaissance embryological plate. The one becomes two (I); the two
+becomes the many (IV); the many becomes the child (VI).
+
+The gatherings are complete.
+
 ## XXV. THE REIMAGINED — SIXTH STATIONS
 
 The author's emblems, continued — the third gathering, continued:
@@ -222,7 +245,8 @@ between the lions, the dragon ouroboros above. The Mother's
 emancipation, kept as a station: unified harmony. (The plate could
 not be cut; the station stands in prose.)
 
-Four stations remain to be cut.
+Four stations remain to be cut: they are cut in XXVI, and the
+gatherings are complete.
 
 ## XXIV. THE FOUR WELLS
 
