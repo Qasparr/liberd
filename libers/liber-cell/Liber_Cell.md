@@ -689,6 +689,15 @@ written instrument that binds: TRVVTH, thrice edited and written, is
 the writ of sovereign authority — the sovereign's binding word, issued
 in writing and sealed.
 
+*[Further dictated by the author; his gnosis.]*
+
+"0Auth-VVRITY."
+
+The scribe reads the dissection: AUTHORITY broken open — AUTH +
+VERITY, the O become 0, the circle. The sovereign authority is the
+Author of Verity: the sovereign authors truth, and TRVVTH is his
+writ.
+
 ## XIV. THE CROSS SECTION
 
 *[Dictated by the author; his gnosis.]*
