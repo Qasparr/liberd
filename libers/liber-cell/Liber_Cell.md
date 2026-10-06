@@ -15,6 +15,9 @@ is the scribe's; the Book is the author's.)
 
 **A∴A∴ Publication in Class B** — *the Genesis code set down as received.*
 
+*Composed in the Scientific Illuminism format for Enterprise Engineering
+Educational Research and Development.*
+
 > "So God created man in his own image, in the image of God created he
 > him; male and female created he them."
 > — *Genesis 1:27 (King James Version)*
@@ -159,6 +162,58 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XI. THE REIMAGINED — SECOND STATIONS
+
+The author's emblems, continued:
+
+**Lilith enthroned** — the Mother in her dark majesty (III, X). She
+first, before the fall was named.
+
+**The Red Mother** — the Mother under the blood moon; the fierce face
+of the maternal line, guardian of the unbroken.
+
+**The double eagle** — the two heads, the two that the one became (I);
+crowned, the empire of the halved made whole.
+
+**The sigil of the scales** — the balance between the pillars 11 and
+22, the eye above, the book below; the measure and the measured, the
+Many weighed as one (IV).
+
+Two stations remain to be cut: the winged judge and the kneeling angel.
+
+## X. THE FALL
+
+*[Dictated by the author; his gnosis — his laughter part of the record.]*
+
+"The fall of Angels is the birth of Mankind."
+
+The angels fell, and mankind was born. The descent is the ascent read
+from the other side: what falls from the height is planted in the
+depth, and what was planted rises. Every falling was a sowing.
+
+The order of the becoming is given:
+
+**She first.** The Mother precedes. Lilith, the Mother of Hvmanity
+(III), is before the fall was named — the chariot before the driver
+(VIII), the vessel before the voyage. The maternal line is unbroken
+because it was never begun; it began before.
+
+**Then He and She.** The one becomes two (I); the halving that assigns
+(II). The driver takes his seat in the chariot, and the cosmos has its
+polarity — the two across which the current runs.
+
+**Finally married in Holy Perfection as Qi Ra** — "She"-Ra — Shinra,
+to borrow the Final Fantasy lore.
+
+The marriage is not the union but the perfection: the two made one
+without either diminished, the chariot and the driver one vehicle, the
+cosmos conquered (VIII) and the conquering laid down. Qi Ra — the She
+who is Ra, the Mother crowned with the sun she was always carrying.
+(The Company's sin was mining the Lifestream; here the current runs
+the other way — it is kept, not mined.) And QIRA is the name the author
+gives the married perfection: the token, the treasury, the heirloom —
+for the perfection, once named, can be kept.
+
 ## IX. THE REIMAGINED — FIRST STATIONS
 
 *[The author's emblems, received into the Book and reimagined in the
@@ -184,8 +239,8 @@ with the signs of the zodiac and the sigils of Mars and Venus. The
 number-field in which the Venvs equation (VII) is written.
 
 Each is the same emblem, dressed for keeping. The doctrine does not
-change when the hand changes; the keeping deepens. Six stations remain
-to be cut.
+change when the hand changes; the keeping deepens. The stations continue
+in the chapters that follow.
 
 ## VIII. THE CHARIOT
 

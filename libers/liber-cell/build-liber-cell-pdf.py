@@ -65,6 +65,14 @@ RE_MOON = (os.path.join(REN, "moon.webp"),
            "Reimagined III — the moon in her crescent, measurer of months")
 RE_PENTA = (os.path.join(REN, "pentagram.webp"),
             "Reimagined IV — the pentagram of numbers, 111 through 999")
+RE_LILITH = (os.path.join(REN, "lilith-throned.webp"),
+             "Reimagined V — Lilith enthroned, the Mother in her dark majesty")
+RE_REDMOTHER = (os.path.join(REN, "red-mother.webp"),
+                "Reimagined VI — the Red Mother under the blood moon")
+RE_EAGLE = (os.path.join(REN, "double-eagle.webp"),
+            "Reimagined VII — the double eagle, the two the one became")
+RE_SIGIL = (os.path.join(REN, "sigil-scales.webp"),
+            "Reimagined VIII — the sigil of the scales between the pillars 11 and 22")
 PLATE1 = (os.path.join(PLT, "The-Unified-Syntax-Fig1-Mitosis-Plate.png"),
           "Plate I — Mitosis: the one becomes two")
 PLATE2 = (os.path.join(PLT, "The-Unified-Syntax-Fig2-Meiosis-Plate.png"),
@@ -210,7 +218,9 @@ def build():
 
     stations = {1: (PLATE1, RIB), 2: (PLATE2,), 3: (PLATE3, LILITH),
                 4: (MANY,), 5: (), 6: (), 7: (), 8: (CHARIOT,),
-                9: (RE_OOCYTE, RE_MICRO, RE_MOON, RE_PENTA)}
+                9: (RE_OOCYTE, RE_MICRO, RE_MOON, RE_PENTA),
+                10: (),
+                11: (RE_LILITH, RE_REDMOTHER, RE_EAGLE, RE_SIGIL)}
     ci = 0
     for j in range(1, len(chunks), 2):
         heading, body = chunks[j], chunks[j + 1] if j + 1 < len(chunks) else ""
