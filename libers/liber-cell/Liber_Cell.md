@@ -162,6 +162,35 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XIII. MAMMORY
+
+*[The author's coinage, R-69.]*
+
+"Coincidence is Synchronicity of Random Access to Mammory."
+
+The scribe unpacks only what the words themselves carry:
+
+*Coincidence* — the falling-together. *Synchronicity* — Jung's name for
+it: the "meaningful coincidence," the "acausal connecting principle"
+(*Synchronicity: An Acausal Connecting Principle*, 1952 — his doctrine,
+cited as the well the author draws from). *Random Access* — as in the
+machine's memory: any cell read in any order, no sequence required.
+*Mammory* — his spelling, and the spelling is the doctrine: Mam, the
+Mother (III, X), + memory. The Mother's memory — the store in which
+every falling was kept (X).
+
+Read straight: a coincidence is a synchronicity — a meaningful
+falling-together — produced by random access to the Mother's memory.
+Nothing falls together by accident; it is read out together. The
+finding-out (XII) is the read-out: the experiment queries the Mammory,
+and the Mammory answers with the event. Kaos is the Mammory before the
+query; Order is the Mammory after the read.
+
+So the author's order — *don't forget the quotes from every and
+anything relevant* — is the doctrine working: every witness cited in
+this Book is a random access to the Mammory, and the meaning is the
+synchronicity. The coincidence of their relevance *is* the teaching.
+
 ## XII. FAFO
 
 *[The author's coinage, R-69 — "file it and claim it."]*
@@ -183,6 +212,13 @@ Syntax audit). The sowing is the cause; the reaping is the effect. The
 around-fucking is the cause; the finding-out is the effect. No master
 is required for this mechanism — the Kaos answers every driver alike
 (VIII), and the reaping does not ask whose field it was.
+
+> "Prove all things; hold fast that which is good."
+> — *1 Thessalonians 5:21 (King James Version)*
+
+*Prove* — the fucking-around. *Hold fast* — the finding-out, kept. The
+old Thelemic maxim stands over the whole: "the method of science, the
+aim of religion."
 
 Kaos and Order are not enemies but phases: Kaos is Order not yet found
 out. The chariot is driven into Kaos precisely because the finding-out
@@ -217,6 +253,22 @@ Two stations remain to be cut: the winged judge and the kneeling angel.
 The angels fell, and mankind was born. The descent is the ascent read
 from the other side: what falls from the height is planted in the
 depth, and what was planted rises. Every falling was a sowing.
+
+The witnesses:
+
+> "And the angels which kept not their first estate, but left their own
+> habitation, he hath reserved in everlasting chains under darkness unto
+> the judgment of the great day."
+> — *Jude 1:6 (King James Version)*
+
+> "Better to reign in Hell, than serve in Heav'n."
+> — *John Milton, Paradise Lost, Book I, lines 258–263 (1667)*
+
+> "And Adam called his wife's name Eve; because she was the mother of
+> all living."
+> — *Genesis 3:20 (King James Version; verified in the Unified Syntax
+> audit)* — the scripture's title; the seat, by the author's ruling, is
+> Lilith's (III).
 
 The order of the becoming is given:
 
