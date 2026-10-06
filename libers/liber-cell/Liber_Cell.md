@@ -162,6 +162,33 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XII. FAFO
+
+*[The author's coinage, R-69 — "file it and claim it."]*
+
+"FAFO": *fuck around* — act — and *find out* — experience. *Favor* is
+the hinge.
+
+It is the Scientific Method in the vernacular. The hypothesis is the
+around; the experiment is the fucking-around, the deliberate descent
+into Kaos (VIII); the observation is the finding-out; the result is the
+Order extracted from the Kaos. Hypothesis → method → observation →
+result: the Scientific Illuminism format for Enterprise Engineering
+Educational Research and Development is FAFO written formally, and
+FAFO is the format written honestly.
+
+Cause and effect: *"whatsoever a man soweth, that shall he also reap"*
+(Galatians 6:7, King James Version — verified verbatim in the Unified
+Syntax audit). The sowing is the cause; the reaping is the effect. The
+around-fucking is the cause; the finding-out is the effect. No master
+is required for this mechanism — the Kaos answers every driver alike
+(VIII), and the reaping does not ask whose field it was.
+
+Kaos and Order are not enemies but phases: Kaos is Order not yet found
+out. The chariot is driven into Kaos precisely because the finding-out
+lives there. The fall of Angels (X) was the first FAFO — the descent
+sown, mankind reaped.
+
 ## XI. THE REIMAGINED — SECOND STATIONS
 
 The author's emblems, continued:
