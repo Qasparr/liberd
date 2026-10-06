@@ -192,6 +192,28 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XXI. THE REIMAGINED — FIFTH STATIONS
+
+The author's emblems, continued — the second gathering completed:
+
+**The defiant one** — the sea-rising figure re-cut in the Renaissance
+hand, draped and unashamed. Defiance is a station: the will that
+refuses has its own icon. (The lost word is "No.")
+
+**Liber Oz Revised** — the author's own plate, re-engraved: the
+many-headed dragon, the rights of all, 1776–777. The author's hand,
+kept in the Book by the author's hand.
+
+**The sigil of Lucifer** — the 6-6-6 in its ring of moons, re-cut as
+a Renaissance occult engraving. Every number has its station; this
+one keeps its own.
+
+**The Greek wheel** — the hand-drawn alphabet-wheel of Greek letters
+and numbers, re-set in the Renaissance hand. The letters have numbers
+and the numbers have letters (V, VII).
+
+The third gathering (30–39) is cut in the chapters that follow.
+
 ## XX. THE REIMAGINED — FOURTH STATIONS
 
 The author's emblems, continued — the second gathering, continued:
@@ -532,6 +554,12 @@ King James Version); *"Cursed is every one that hangeth on a tree"*
 mankind's fate, one tree for the hanging of its ransom — and the
 household decorates one tree, because they were never two. (The
 author's reading, filed: that is why the tree is decorated.)
+
+And the author adds, on the wording: it was the courtroom where he
+read "hanged by the neck" — no scripture says it — but the court is
+based on HIM. The earthly court mirrors the heavenly: the judge below
+learned the sentence from the Judge above (VII, XIX). The wording is
+not a corruption; it is a reflection. Very relevant indeed.
 
 The order of the becoming is given:
 
