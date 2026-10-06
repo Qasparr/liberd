@@ -670,6 +670,15 @@ The canonization chain, the scribe notes: the red pen is the penning
 what is warranted in that trust and passes TRVVTH again is
 DOCTRINE.
 
+*[Further dictated by the author; his gnosis.]*
+
+"Thrice edited forn TRVVTH is TRVVST or VVRIT."
+
+The scribe reads *forn* as *form* — the formula — and *VVRIT* as
+*WRIT*: Holy Writ, the written. Three edits, and TRVVTH is TRVVST —
+that is, written down: doctrine set down in ink (and in blood, where
+the red pen passed).
+
 ## XIV. THE CROSS SECTION
 
 *[Dictated by the author; his gnosis.]*
