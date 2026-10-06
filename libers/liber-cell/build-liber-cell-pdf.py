@@ -97,6 +97,10 @@ RE_LUCIFER = (os.path.join(REN, "lucifer-sigil.webp"),
               "Reimagined XIX — the sigil of Lucifer, 6-6-6 in its ring of moons")
 RE_GREEX = (os.path.join(REN, "greek-wheel.webp"),
             "Reimagined XX — the Greek alphabet-wheel of letters and numbers")
+RE_BOOTKEY = (os.path.join(REN, "bootkey-terminal.webp"),
+              "Reimagined XXI — the A.'.A.'.-05 boot-key terminal, VTPM 2.0")
+RE_PERSONAV = (os.path.join(REN, "personav-engine.webp"),
+               "Reimagined XXII — the Persona V assessment engine, the ouroboros around the diamond")
 PLATE1 = (os.path.join(PLT, "The-Unified-Syntax-Fig1-Mitosis-Plate.png"),
           "Plate I — Mitosis: the one becomes two")
 PLATE2 = (os.path.join(PLT, "The-Unified-Syntax-Fig2-Meiosis-Plate.png"),
@@ -248,7 +252,8 @@ def build():
                 12: (), 13: (), 14: (), 15: (), 16: (), 17: (), 18: (),
                 19: (RE_JUDGE, RE_KNEEL, RE_BABALON, RE_CHARM),
                 20: (RE_MAGI, RE_SUNDIAL, RE_MUDRA9, RE_HASTA),
-                21: (RE_DEFIANT, RE_OZREV, RE_LUCIFER, RE_GREEX)}
+                21: (RE_DEFIANT, RE_OZREV, RE_LUCIFER, RE_GREEX),
+                22: (RE_BOOTKEY, RE_PERSONAV)}
     ci = 0
     for j in range(1, len(chunks), 2):
         heading, body = chunks[j], chunks[j + 1] if j + 1 < len(chunks) else ""
