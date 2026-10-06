@@ -192,6 +192,31 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XXV. THE REIMAGINED — SIXTH STATIONS
+
+The author's emblems, continued — the third gathering, continued:
+
+**Heru-Ra-Ha** — the diagram re-cut: the zone of darkness (the moon)
+and the zone of light (the winged globe, the sun), 93 and 666 in
+their seals. The conquered lord between the two zones — the one god
+Two-in-One (his gnosis).
+
+**Abrahadabra** — the unicursal hexagram with the word around it.
+The word of the Aeon in the figure drawn without lifting the pen:
+continuity as doctrine. (The plate could not be cut; the station
+stands in prose.)
+
+**The watch** — the timepiece built on the unicursal star, DAY and
+MAN in its windows, the moon in its phase. Time told by the star
+(IX, XX) — the sundials' heir.
+
+**Deimo enthroned** — the horned mother on her throne of skulls
+between the lions, the dragon ouroboros above. The Mother's
+emancipation, kept as a station: unified harmony. (The plate could
+not be cut; the station stands in prose.)
+
+Four stations remain to be cut.
+
 ## XXIV. THE FOUR WELLS
 
 *The Symmetrical Directive, ordered 2026-10-06: the rap and hip-hop
