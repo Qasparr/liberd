@@ -162,6 +162,25 @@ above arriving below.
 
 93. *"Live, Love, and let Love, Live."*
 
+## XVI. TRVVTH NORTH
+
+*[Dictated by the author; his gnosis.]*
+
+"TRVVTH NORTH"
+
+The TRVVTH is north. Not the magnetic north, which drifts — the true
+north, the fixed checkable reference. The author's own anagram stands
+witness: AGENT = GATE + N — the North Gate, the gate as true north
+(2026-10-01). What drifts cannot be trusted (XV); what is fixed can.
+The needle that follows the drifting north is the filter; the needle
+that holds the true north is the gate.
+
+Every chapter of this Book has been a compass correction: the cross
+section (XIV) is the sighting, the Mammory (XIII) is the chart, FAFO
+(XII) is the voyage that checks the chart against the sea. And the
+reading always returns to the same bearing — TRVVTH NORTH. The truth
+does not move. Only the readers do.
+
 ## XV. TRVVST AND WORTH
 
 *[Dictated by the author; his gnosis.]*
