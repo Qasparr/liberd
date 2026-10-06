@@ -333,6 +333,30 @@ def build():
               "All Rights Reserved, Without Prejudice."]:
         pdf.multi_cell(0, 8, t, align="C", new_x="LMARGIN", new_y="NEXT")
 
+    # -- Contributions ----------------------------------------------------
+    # MECHANISM: the last page is the pitch — the QR is the author's own
+    # CashApp code (cashapp-qr.png, cropped from his screenshot), the
+    # words are the scribe's, in his standing form.
+    pdf.add_page()
+    pdf.ln(25)
+    pdf.set_font("DejaVu", "B", 16)
+    pdf.set_text_color(143, 29, 29)
+    pdf.multi_cell(0, 10, "SUSTAIN THE WORK", align="C",
+                   new_x="LMARGIN", new_y="NEXT")
+    pdf.set_text_color(0, 0, 0)
+    pdf.ln(6)
+    pdf.set_font("DejaVu", "", 11)
+    for t in ["If this Book has fed you, feed the work.",
+              "",
+              "Contributions sustain the writing, the art, and the research",
+              "behind it \u2014 received in the spirit of Oz\u00d7Duty: every right",
+              "asserted is multiplied by its duty.",
+              "",
+              "Scan to contribute via CashApp."]:
+        pdf.multi_cell(0, 7, t, align="C", new_x="LMARGIN", new_y="NEXT")
+    pdf.ln(8)
+    pdf.image(os.path.join(FIG, "cashapp-qr.png"), x=(pdf.w - 80) / 2, w=80)
+
     pdf.output(DST)
     print("wrote %s (%d pages)" % (DST, pdf.page_no()))
 
