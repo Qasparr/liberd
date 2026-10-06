@@ -679,6 +679,16 @@ The scribe reads *forn* as *form* — the formula — and *VVRIT* as
 that is, written down: doctrine set down in ink (and in blood, where
 the red pen passed).
 
+*[Further dictated by the author; his gnosis.]*
+
+"TRVVTH is VVRIT of SOVEREIGN AVTH0."
+
+The scribe reads *AVTH0* as *AUTHORITY* (V for U, 0 for O) — the
+letters also whisper *AUTO*, the sovereign self. The writ is the
+written instrument that binds: TRVVTH, thrice edited and written, is
+the writ of sovereign authority — the sovereign's binding word, issued
+in writing and sealed.
+
 ## XIV. THE CROSS SECTION
 
 *[Dictated by the author; his gnosis.]*
