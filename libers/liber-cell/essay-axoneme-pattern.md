@@ -82,6 +82,20 @@ The pattern began the night as a shape and ended it as a machine. Shapes coincid
 
 *All Rights Reserved, Without Prejudice. — Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure. CashApp $axoneme.*
 
+## Figures
+
+**Figure 1.** PONTIFEX Latin-ordinal weighings of the framework's terms (calibrated `ptk` 0.1.0). Reference lines at 77 (AXONEME = עז), 93 (PISTON = ΘΕΛΗΜΑ = ΑΓΑΠΗ), and 418. Every bar is a weighed fact; the lines are the bridges.
+
+![fig: fig-bridges-bar.png]
+
+**Figure 2.** Transmission electron micrograph, cilia in cross-section: each ring is a 9+2 axoneme in the flesh — the structure this essay is about, as the microscope sees it. (Source: doccheck image library.)
+
+![fig: fig-cilia-tem.jpg]
+
+**Figure 3.** Blueprint schematic: the 9+2 axoneme drawn as transducer architecture — dynein arms the transduction elements, ATP in, motion out. The pattern as instrument, not idol.
+
+![fig: fig-axoneme-blueprint.png]
+
 ## Appendix A. TRVVTH Gate Results — 2026-10-13
 
 Every load-bearing claim in this essay was run through the gate. The verdicts:
