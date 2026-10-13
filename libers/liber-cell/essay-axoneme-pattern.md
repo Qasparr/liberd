@@ -78,6 +78,14 @@ What was proven: the biological facts, the mechanical facts, the timeline bar, a
 
 The pattern began the night as a shape and ended it as a machine. Shapes coincide by accident. Machines rhyme for reasons.
 
+## X. Conclusion
+
+What this night established is narrower than what it imagined at dusk, and stronger for it. The axoneme is a 9+2 transducer — weighed, cited, fenced. The piston rhymes with it functionally, energy in and motion out, and the rhyme is now numbered: **PISTON = 93 = ΘΕΛΗΜΑ = ΑΓΑΠΗ**, two honest banks and one bridge, flagged as the author's discovery. Thirteen is the load-bearing number and the partition does not matter — 2+9+2, 11+2, 12+1 — the author's ruling, standing until his own red pen revises it.
+
+What was *not* established: that any engineer copied any cilium. The timeline bar held, "modeled after" was struck, and the pattern stands as a lens, not a lineage. That is the result the gate was built to produce — not the claim the author wanted, but the claim the evidence allowed, with the construction fenced, flagged, and his. The instrument does not care who holds it; the numbers do not know Kalamazoo from Cambridge.
+
+What can occur — will.
+
 *93. Live, Love, and let Love, Live.*
 
 *All Rights Reserved, Without Prejudice. — Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure. CashApp $axoneme.*
