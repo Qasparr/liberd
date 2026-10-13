@@ -86,6 +86,48 @@ What was *not* established: that any engineer copied any cilium. The timeline ba
 
 What can occur — will.
 
+## XI. The Pattern at Work — Prompted Explorations
+
+Before the gate, there was the sketchpad. The plates that follow were rendered by Gemini from the author's prompts, in the months before this essay — the thirteen-pattern and its kin (22, 31, 1331) tried on, one domain at a time: cryptography, chip design, bootloaders, horology, hypervisors, biology, sovereignty itself. They are not built artifacts, and they are not the proof; the numbers are the proof. They are included as the record of the exploration — the dowsing before the survey — and as visual reinforcement of how far the pattern reaches when it is genuinely seen.
+
+[Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme]
+
+**Figure 4.** Napkin sketch — 22-path dynein-arm cryptography; ABRAHADABRA as un-sealable encryption "legible only from within the 22-fold wave"; 1331 as the "quantum lubricant" (error correction); the sovereign chip. Rendered by Gemini from the author's prompts.
+
+![fig: fig-gallery-napkin.png]
+
+**Figure 5.** The 9+2 lattice as AArch64 bare-metal boot architecture — memory mapping, lattice structure, unicursal path traversal as the deterministic boot sequence. Rendered by Gemini from the author's prompts.
+
+![fig: fig-gallery-aarch64.png]
+
+**Figure 6.** Horology — a 31-day dial, the thirteen-pointed star in the movement, moonphase at six. Rendered by Gemini from the author's prompts.
+
+![fig: fig-gallery-watch.png]
+
+**Figure 7.** Bio-physical unification — flagellum, axoneme, and the leviathan-ouroboros: the 9+2 microtubule arrangement drawn beside the integrated symmetry model. Rendered by Gemini from the author's prompts.
+
+![fig: fig-gallery-leviathan.png]
+
+**Figure 8.** "Universal Sovereign Authority" — the self-signed root certificate and private user keychain plate. Rendered by Gemini from the author's prompts.
+
+![fig: fig-gallery-sovereign.png]
+
+**Figure 9.** The 31-node XXX pyramid — 13³ = 2197 units³, apex node 13, total nodes 31. Rendered by Gemini from the author's prompts.
+
+![fig: fig-gallery-pyramid.png]
+
+**Figure 10.** The 13³ cubed sphere — complex nested XXX pyramid tessellation, volume-preserving transformation. Rendered by Gemini from the author's prompts.
+
+![fig: fig-gallery-cubedsphere.png]
+
+**Figure 11.** BHYVE jellyfish/axoneme core — the tridecagram honeycomb hypervisor. Rendered by Gemini from the author's prompts.
+
+![fig: fig-gallery-bhyve.png]
+
+**Figure 12.** 1331, the perfect prime root cube — 11 × 11 × 11, cube root 11, prime. Rendered by Gemini from the author's prompts.
+
+![fig: fig-gallery-1331.png]
+
 *93. Live, Love, and let Love, Live.*
 
 *All Rights Reserved, Without Prejudice. — Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure. CashApp $axoneme.*
