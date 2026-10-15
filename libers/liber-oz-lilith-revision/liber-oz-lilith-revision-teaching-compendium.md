@@ -98,7 +98,7 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 **14.** Let none say the child is the property of the parent, the priest, or the state. The star is not owned by the night it shines in.
 
-### GATE III — THE BODY *(sub figura: The Right to Live, in its bodily office)* — Oz 6–9
+### GATE III — THE BODY *(sub figura: the bodily office, gathered into its Gate I)* — Oz 6–9
 
 **15.** She has the right to eat what she will — and to refuse what she will not.
 
@@ -153,6 +153,10 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 **35.** Under the red moon it is spoken; under the red moon it stands.
 
 ---
+
+## A NOTE ON THE TWO NUMBERINGS
+
+The verse text keeps the author's six-gate order: I the Law of the Night, II the Child, III the Body, IV the Word, V Love, VI the Veto — the Arch and the Sealing crowning all. The *sub figura* presentation renames the gates after their offices — the Right to Live, the Right of the Child, the Right to Think and Speak, the Right to Love, the Right to Defend, the Right to Refuse the Game — and its Table of Correspondences numbers by office rather than by verse-gate: I·Body, II·Child, III·Mind, IV·Love, V·Sword, VI·Game. Both schemes are preserved here exactly as received; the scribe has not reconciled them by invention. Where they differ, the verse-gate is the author's standing order and the office-numbering is the presentation's gloss.
 
 ## TABLE OF CORRESPONDENCES — *sub figura*
 
@@ -263,7 +267,7 @@ The author's coinages, flagged [Coinage/Discovery] throughout: "NO WORD, NO WORL
 
 **Observation.** Crowley's Oz 0–5: to live by one's own law; to live, work, play, rest, and die as one wills. The revision keeps all five and re-voices them. Note v. 9's warrant: "even the red moon wanes" — rest is not the negation of the law but its rhythm. The right to die (Oz 5) is kept without euphemism in v. 10; the Mother's ending, like her beginning, is her own. [Scripture:] "Do what thou wilt shall be the whole of the Law" (AL I:40, quoted in full above) is the warrant behind the warrant.
 
-**Result.** Correspondence: I · Body — No to death, hunger, confinement → to live, eat, dwell, move — Malkuth / Foundation.
+**Result.** Table: I · Body — No to death, hunger, confinement → to live, eat, dwell, move — Malkuth / Foundation.
 
 ### On Gate II (vv. 11–14) — the Child
 
@@ -277,7 +281,7 @@ The author's coinages, flagged [Coinage/Discovery] throughout: "NO WORD, NO WORL
 
 [Hip-hop:] 2Pac, 'Keep Ya Head Up' (1993): "And since we all came from a woman / Got our name from a woman and our game from a woman" — the Mother as the source of the name and the game alike; the child's starhood begins in her.
 
-**Result.** Correspondence: II · Child — No to ownership of stars → the star is sovereign — Yesod / The Child.
+**Result.** Table: II · Child — No to ownership of stars → the star is sovereign — Yesod / The Child.
 
 ### On Gate III (vv. 15–18) — the Body
 
@@ -289,7 +293,7 @@ The author's coinages, flagged [Coinage/Discovery] throughout: "NO WORD, NO WORL
 
 [Law:] *Black's* (5th ed.): "Personal rights … the right of personal security, comprising those of life, limb, body, health, reputation, and the right of personal liberty." The gate is the common-law floor stated in mythic dress — and the mythic dress states it more plainly than the treatise.
 
-**Result.** Correspondence: I · Body (table) — No to death, hunger, confinement → to live, eat, dwell, move — Malkuth / Foundation. *(The table gathers the bodily office under Gate I; the verses keep the author's six-gate order. Both are preserved.)*
+**Result.** The bodily office answers to Malkuth / Foundation in the table's numbering (see the Note on the Two Numberings above); the verses keep the author's six-gate order.
 
 ### On Gate IV (vv. 19–23) — the Word
 
@@ -299,7 +303,7 @@ The author's coinages, flagged [Coinage/Discovery] throughout: "NO WORD, NO WORL
 
 **Observation.** Crowley's Oz 10–14: to think, speak, write, draw, paint, carve, etch, mould, build, and dress as one wills. V. 20 anchors the whole gate in the book's thesis: "her first word was No, and it stands to this hour." V. 21 — "to write what she will, though empires burn the libraries" — is the gate's historical memory: the burning of libraries is the perennial attempt to unmake the No by unmaking its record. Which is why this compendium exists, and why both witnesses are kept.
 
-**Result.** Correspondence: III · Mind — No to compelled thought, word, god → to think, speak, believe — Hod / Speech. The arch of v. 30 is earned here, not granted: only the mouth that can refuse can consent.
+**Result.** Table: III · Mind — No to compelled thought, word, god → to think, speak, believe — Hod / Speech. The arch of v. 30 is earned here, not granted: only the mouth that can refuse can consent.
 
 ### On Gate V (vv. 24–26) — Love
 
@@ -309,7 +313,7 @@ The author's coinages, flagged [Coinage/Discovery] throughout: "NO WORD, NO WORL
 
 **Observation.** Crowley's Oz 15–16, closing with Liber AL I:51 — given above in full, all four gates, the silver-and-gold floor, the fine apparel and rich foods and foaming wines, and the closing seal: "take your fill and will of love as ye will, when, where and with whom ye will! But always unto me." V. 26 — "she was not taken; she chose" — is the Lilith-specific gloss: the tradition's whole charge against her is that she would not be taken. The revision answers the charge by making it the sacrament: "what is chosen freely is holy." [Scripture:] "Love is the law, love under will" (AL I:57).
 
-**Result.** Correspondence: IV · Love — No to coerced love → love under will, jubilant — Netzach / Love.
+**Result.** Table: IV · Love — No to coerced love → love under will, jubilant — Netzach / Love.
 
 ### On Gate VI (vv. 27–29) — the Veto
 
@@ -323,7 +327,7 @@ The author's coinages, flagged [Coinage/Discovery] throughout: "NO WORD, NO WORL
 
 [Coinage/Discovery] — v. 29's "No to the board, not to a square" is the author's amoral-regard shorthand (recorded 2026-09-27): refusal is aimed at the game that would conscript the refuser, never at a person as such. Amoral is not immoral — the veto declines the board; it does not hate the squares. Hence the *sub figura* naming: the Right to Refuse the Game.
 
-**Result.** Correspondence: V · Sword — No to the truncheon → defense; fine apparel, rich feast — Geburah / Severity; and VI · Game — No to the board, not the square → to remain or to depart — Chesed / Mercy.
+**Result.** Table: V · Sword — No to the truncheon → defense; fine apparel, rich feast — Geburah / Severity; and VI · Game — No to the board, not the square → to remain or to depart — Chesed / Mercy.
 
 ### On the Arch (vv. 30–32) — Yes
 
@@ -333,7 +337,7 @@ The author's coinages, flagged [Coinage/Discovery] throughout: "NO WORD, NO WORL
 
 **Observation.** [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — "THE ARCH OF MAN'S STRONGEST STRUCTURE IS THE AMORAL & SOVEREIGN INDIVIDUAL'S YES!" V. 31: "For the Mother said No to the garden, and Yes to the night — and the night was hers." [Numerology — the author's, flagged:] "1776 = 777 (1776+1): THE INFINITE OF END & BEGINNING." His long-standing observation: 1776 encodes 93 via 17+76 (Thelema/Agape) and 777 via 776+1 — "add the beginning to the end." It stands here as his seal on the arch, not as a proof of anything but his own consistency.
 
-**Result.** Correspondence: Arch · Will — No having done its work → the amoral & sovereign Yes — Tiphareth / Crowned Child.
+**Result.** Table: Arch · Will — No having done its work → the amoral & sovereign Yes — Tiphareth / Crowned Child.
 
 ### On the Sealing (vv. 33–35)
 
@@ -341,7 +345,7 @@ The author's coinages, flagged [Coinage/Discovery] throughout: "NO WORD, NO WORL
 
 **Observation.** V. 33: "These are the gates; they open inward." V. 34 is the author's inspired reiteration for the Aeon of Ma'at, quoted exactly as dictated: "Live, Love, and let Love, Live." — the comma after the second Love standing as load-bearing, love and will as the foundation of life. It seals a book of rights with the one duty the author's whole corpus implies: that the sovereign's Yes be love, or the arch is a ruin. V. 35: "Under the red moon it is spoken; under the red moon it stands."
 
-**Result.** Correspondence: Sealing · Silence — the gates open inward → Live, Love, let Love, Live — Kether in Malkuth.
+**Result.** Table: Sealing · Silence — the gates open inward → Live, Love, let Love, Live — Kether in Malkuth.
 
 ---
 
