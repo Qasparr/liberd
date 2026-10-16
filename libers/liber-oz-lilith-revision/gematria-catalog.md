@@ -27,7 +27,7 @@ All weighings were run through PONTIFEX `ptk` 0.1.0 (`weigh.py`), calibration **
 | OZ | English (latin ordinal) | 41 | Derived |
 | LILITH | English (latin ordinal) | 70 | Derived |
 | לילית (*lilith*) | Hebrew (hechrechi) | 480 | Derived |
-| THE WORD | English (latin ordinal) | 93 | Derived — see note |
+| THE WORD | English (latin ordinal) | 93 | **Attested** — see the Trinity note |
 | AMORAL | English (latin ordinal) | 60 | Derived |
 | SOVEREIGN | English (latin ordinal) | 114 | Derived |
 | YES | English (latin ordinal) | 49 | Derived |
@@ -50,7 +50,7 @@ All weighings were run through PONTIFEX `ptk` 0.1.0 (`weigh.py`), calibration **
 
 **The bridge holds — attested.** AXONEME = 77 in English ordinal; עז = 77 in Hebrew mispar hechrechi (70 + 7). Two honest banks, one number. This is the author's recorded chain (2026-09-27) and the reason Liber Oz is Liber LXXVII. Nothing here is constructed; the banks agree.
 
-**THE WORD = 93 — derived, and worth the red pen's eye.** Weighed in English ordinal, "THE WORD" comes to 93 — the number the author rules as Thelema (Will) and Agape (Love). Single-bank, so it is derived rather than attested; but the gate it names (Witness A Gate IV, the Word: think, speak, write, make, dress) is the gate of the mouth that speaks both Law and Love. Filed as derived; the pen decides whether it is doctrine.
+**THE WORD = 93 — the Trinity of Law, attested.** [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — Asked 2026-10-16: doesn't THE WORD = 93 make a Trinity of Law? PONTIFEX confirms on honest banks: THE WORD = 93 (English ordinal), ΘΕΛΗΜΑ = 93 (Greek isopsephy), ΑΓΑΠΗ = 93 (Greek isopsephy). Three terms, two tongues, one number — Will, Love, and the Word that speaks them. By the author's own bridge doctrine (a shared number across two honest banks), this is attested, not derived: the Law's trinity, weighed and confirmed.
 
 **The formula's numbers are the artifact's own.** The *sub figura* formula states NO = 50 and OZ = 77. PONTIFEX Latin ordinal gives NO = 29 and OZ = 41 — so the formula's 50 and 77 are not simple ordinals; their computation is the artifact's, method unstated in the file. OZ = 77 converges with עז = 77 regardless of method. Filed as derived (the artifact's), not attested.
 
