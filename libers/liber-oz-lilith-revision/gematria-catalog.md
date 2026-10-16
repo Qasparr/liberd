@@ -58,6 +58,8 @@ All weighings were run through PONTIFEX `ptk` 0.1.0 (`weigh.py`), calibration **
 
 **263 twice — constructed, no claim.** "THE RIGHT TO THINK AND SPEAK" and "THE RIGHT TO REFUSE THE GAME" both weigh 263 in English ordinal. Single bank, no second tongue to confirm it. Filed as a constructed observation: the mind's gate and the game-refusal gate share a number in one tongue. The pen may take it or leave it; the catalog claims nothing.
 
+**NO + OZ = LILITH — the author's observation, verified.** [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — Noticed 2026-10-16: LILITH = 70 in English ordinal, and the rotation sums to her name — NO (29) + OZ (41) = 70. The refusal plus the strength it becomes equals the Mother's name. PONTIFEX confirms the arithmetic on the honest bank. Filed as derived (single bank, English ordinal); the reading is the author's.
+
 ## THE AUTHOR'S SEAL-NUMBERS (his gnosis, flagged as his)
 
 [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — 1776 encodes 93 via 17+76 (Thelema/Agape) and 777 via 776+1 ("add the beginning to the end"); "1776 = 777 (1776+1): THE INFINITE OF END & BEGINNING" stands as v. 32 of both witnesses. Recorded 2026-09-27; his chain, his seal.
