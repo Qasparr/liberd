@@ -219,7 +219,7 @@ This document revokes nothing. It re-speaks in the Mother-tongue what was spoken
 
 **21.** There is no right to compel love, nor to withhold love owed; love is sovereign or it is nothing.
 
-**22.** As it was spoken: "Love is the law, love under will."
+**22.** As it was spoken: “Love is the law, love under will.”
 
 **23.** Let the act be consensual and jubilant; for every No that is true makes way for a Yes that is free.
 
