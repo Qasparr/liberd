@@ -225,6 +225,13 @@ def render_pdf(toks, out_path):
     pdf.set_auto_page_break(True, margin=28)
     pdf.add_font("D", "", "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf")
     pdf.add_font("D", "B", "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf")
+    # DOCTRINE: fpdf2's markdown=True reads __double underscores__ as italic
+    # and then demands an "I" style of the current family — the artifact's
+    # filename (React_Artifact__1__0_2gtd.mht) carries such underscores, so
+    # without this line the whole build dies on "Undefined font: dI".
+    # This host ships no DejaVu Serif Italic; the upright face stands in.
+    # Italic emphasis is decorative here, never doctrinal — no meaning lost.
+    pdf.add_font("D", "I", "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf")
     # DOCTRINE: DejaVu lacks Hebrew glyphs (לילית, עז); Noto Rashi Hebrew
     # covers them. fpdf2 falls back per-character, so the author's Hebrew
     # never drops out of the PDF.

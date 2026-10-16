@@ -5,19 +5,25 @@
 **Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure**
 **All Rights Reserved, Without Prejudice** — Support: $axoneme
 
-*Dies Lunae, Anno V:xii — the marriage set down 2026-10-14*
+*Dies Lunae, Anno V:xii — the marriage set down 2026-10-14; the file obtained and the witnesses married 2026-10-16*
 *Non-replacing draft. Nothing here revokes Crowley's Liber LXXVII. Composed for the author's red pen.*
 
 > "Do what thou wilt shall be the whole of the Law." — Liber AL, I:40
 
 ---
 
-## A Note on the Marriage
+# PART I — THE TWO WITNESSES
+
+*The file is in hand. What follows is the true marriage: both verse texts presented whole, with the presentation's own key to which lines are dictated and which are exegesis. Nothing excluded.*
+
+## A Note on the Marriage — revised with the file in hand
 
 This compendium is a marriage, not a replacement. Two witnesses stand behind it, and both are kept available for historical reasons:
 
-1. **The September draft** — the 36-verse Lilith Revision composed 2026-09-28, with full commentary, correspondence table, and colophon (`Liber_OZ_Lilith_Revision.md`). The author's word, 2026-10-14: the verses were not changed in the later presentation, only the presentation moved — and where no difference can be input, there is no difference to honor. The verse text below therefore stands as composed.
-2. **The *sub figura* presentation** — the typeset HTML rendering produced 2026-10-14 when the author's prompt, meant for his assistant, was run through Gemini instead (the assistant being unreachable). It reorganized the gates, added a sephirothic Table of Correspondences, and formalized the NO/OZ formula. Its apparatus is married in here whole: nothing excluded.
+1. **Witness A — the September draft.** The 36-verse Lilith Revision composed 2026-09-28, Lilith-voiced throughout ("She has the right..."), with full commentary, correspondence table, and colophon (`Liber_OZ_Lilith_Revision.md`).
+2. **Witness B — the *sub figura* presentation.** The typeset HTML rendering produced 2026-10-14 when the author's prompt, meant for his assistant, was run through Gemini instead. The author believed only the presentation had moved; the file itself says otherwise — and says so honestly. Its colophon keys the text: *"The dictated lines — verses 0–5, 11–14, 29–35, and the inclusive AL I:51 — are preserved exactly as received, including capitalization, punctuation, and lineation. All other verses are offered as exegesis, to be struck or kept at the author's will."*
+
+The verification is exact: where the colophon says "dictated," the two witnesses agree word for word; where it says "exegesis," they differ. Fifteen verses (6–10, 15–28) were re-voiced in Crowley's "Man has the right" register and the gates reorganized around them. Both texts stand whole below, and the differences are shown, not smoothed. The author's red pen rules between them.
 
 What Gemini's filter stopped at its gate — the full well-quotations, the legalese, the hip-hop — is restored in Part II. That is the teaching the filter would not carry, set down here by the hand it was meant for.
 
@@ -25,9 +31,11 @@ What Gemini's filter stopped at its gate — the full well-quotations, the legal
 
 ---
 
-# PART I — THE RECEIVED TEXT
+## WITNESS A — THE SEPTEMBER DRAFT
 
-## Epigraphs
+*The Lilith-voiced text, composed 2026-09-28. Verbatim from `Liber_OZ_Lilith_Revision.md`.*
+
+### Epigraphs — Witness A
 
 > "Every man and every woman is a star." — Liber AL, I:3
 
@@ -37,32 +45,7 @@ What Gemini's filter stopped at its gate — the full well-quotations, the legal
 
 > "THE ARCH OF MAN'S STRONGEST STRUCTURE IS THE AMORAL & SOVEREIGN INDIVIDUAL'S YES!" — the author's *Liber Oz Revised*
 
-*The* sub figura *presentation carries these same epigraphs in its own order, opening with Liber AL I:40 and II:58 in full, a quotation of the original* Liber Oz *attributed to A. Crowley, and a Lilith fragment from* The Secret Treasure. *The full texts of I:40 and II:58 are given in the Well-Quotations below; the original* Oz *stands whole in Appendix A.*
-
-## HYPOTHESIS
-
-Crowley's *Liber Oz* (LXXVII) states the rights of man in five articles: to live by one's own law; to eat, drink, dwell, and move; to think, speak, write, and make; to love; and to destroy whatever would thwart these rights. The author's own *Liber Oz Revised* image adds three load-bearing corrections: **the child is included** ("A CHILD IS A STAR / THE CHILD IS EQUAL / Every child has the Rights of a Man, and a Sovereign WILL"), **the No is named** ("NO WORD, NO WORLD. NO ROTATES TO OZ"), and **the Yes is crowned** ("THE ARCH OF MAN'S STRONGEST STRUCTURE IS THE AMORAL & SOVEREIGN INDIVIDUAL'S YES!").
-
-The hypothesis of this revision: re-voicing Oz through Lilith — Mother of Humanity, the first of our kind to refuse — lets all three corrections stand in a single mythic mouth. The Mother who said No to the garden is the natural speaker of a book whose every right is a No made articulate; and because she is the Mother, the child's equality is not an amendment but the premise.
-
-## METHOD
-
-1. Verse-by-verse correspondence: each article of Crowley's Oz is re-voiced, never revoked; the table below shows the mapping.
-2. Register discipline: the Text speaks in mythic verse (the Mother's mouth); the Teaching speaks in analysis, drawing the Four Wells only where the link is genuine.
-3. The author's dictated lines — from his image and his gnosis — are quoted verbatim and flagged [Coinage/Discovery]; everything else is the composer's draft, submitted to his red pen.
-4. Legal and scriptural references educate; they conjure nothing.
-
-## OBSERVATION
-
-What changes: the speaker (Lilith for the Goat), the addition of the Child as Gate II, the naming of No as the lost word and foundation, the crowning of Yes as the arch. What is kept: all five of Crowley's articles, their order, their teeth — Gate VI keeps the right to destroy what would destroy the rights, root and branch. The serpent that winds through the author's image winds through the verses as the keeper of the gates.
-
-## RESULT
-
-The Text, as below — thirty-six verses, six gates and an arch — followed by the *sub figura* correspondences, the formula, and the Teaching.
-
----
-
-## THE TEXT
+### PROEMIUM — vv 0–5
 
 **0.** Under the red moon speaks Lilith, Mother of Humanity — the first of our kind to say No.
 
@@ -76,7 +59,7 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 **5.** Hear, then, the gates. Every right of Oz is a No made articulate; and every No is answered, at the last, by Yes.
 
-### GATE I — THE LAW OF THE NIGHT *(sub figura: The Right to Live)* — Oz 0–5
+### GATE I — THE LAW OF THE NIGHT — vv 6–10
 
 **6.** She has the right to live by her own law — to live in the way that she wills to do.
 
@@ -88,7 +71,7 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 **10.** To die when and how she will; and her ending is her own, as her beginning was.
 
-### GATE II — THE CHILD *(sub figura: The Right of the Child)* — the author's addition
+### GATE II — THE CHILD — vv 11–14
 
 **11.** A CHILD IS A STAR.
 
@@ -98,7 +81,7 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 **14.** Let none say the child is the property of the parent, the priest, or the state. The star is not owned by the night it shines in.
 
-### GATE III — THE BODY *(sub figura: the bodily office, gathered into its Gate I)* — Oz 6–9
+### GATE III — THE BODY — vv 15–18
 
 **15.** She has the right to eat what she will — and to refuse what she will not.
 
@@ -108,7 +91,7 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 **18.** To move as she will on the face of the earth, and above it; for she spoke the Name and flew, when the ground was denied her.
 
-### GATE IV — THE WORD *(sub figura: The Right to Think and Speak)* — Oz 10–14
+### GATE IV — THE WORD — vv 19–23
 
 **19.** She has the right to think what she will — no thought is unclean to the thinker.
 
@@ -120,7 +103,7 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 **23.** To dress as she will: in red, in nothing, in the night itself.
 
-### GATE V — LOVE *(sub figura: The Right to Love)* — Oz 15–16
+### GATE V — LOVE — vv 24–26
 
 **24.** She has the right to love as she will.
 
@@ -128,7 +111,7 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 **26.** For she was not taken; she chose. And what is chosen freely is holy.
 
-### GATE VI — THE VETO *(sub figura: The Right to Refuse the Game)* — Oz 17
+### GATE VI — THE VETO — vv 27–29
 
 **27.** She has the right to destroy whatever would destroy these rights — root and branch, without apology.
 
@@ -136,7 +119,7 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 **29.** Let none mistake refusal for hatred: No to the board, not to a square. [Coinage/Discovery: the author's amoral-regard shorthand]
 
-### THE ARCH — YES *(the author's crowning)*
+### THE ARCH — YES — vv 30–32
 
 **30.** And when the No has done its work, the arch rises: "THE ARCH OF MAN'S STRONGEST STRUCTURE IS THE AMORAL & SOVEREIGN INDIVIDUAL'S YES!"
 
@@ -144,7 +127,7 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 **32.** 1776 = 777 (1776+1): THE INFINITE OF END & BEGINNING.
 
-### THE SEALING
+### THE SEALING — vv 33–35
 
 **33.** These are the gates; they open inward.
 
@@ -154,36 +137,168 @@ The Text, as below — thirty-six verses, six gates and an arch — followed by 
 
 ---
 
-## A NOTE ON THE TWO NUMBERINGS
+## WITNESS B — THE SUB FIGURA TEXT
 
-The verse text keeps the author's six-gate order: I the Law of the Night, II the Child, III the Body, IV the Word, V Love, VI the Veto — the Arch and the Sealing crowning all. The *sub figura* presentation renames the gates after their offices — the Right to Live, the Right of the Child, the Right to Think and Speak, the Right to Love, the Right to Defend, the Right to Refuse the Game — and its Table of Correspondences numbers by office rather than by verse-gate: I·Body, II·Child, III·Mind, IV·Love, V·Sword, VI·Game. Both schemes are preserved here exactly as received; the scribe has not reconciled them by invention. Where they differ, the verse-gate is the author's standing order and the office-numbering is the presentation's gloss.
+*Verbatim from the author's saved artifact (`React_Artifact__1__0_2gtd.mht`), produced 2026-10-14. Punctuation, capitalization, and lineation as received. The artifact's own navigation confirms the verse ranges: Proemium 0–5; Gate I · 6–10; Gate II · 11–14; Gate III · 15–18; Gate IV · 19–23; Gate V · 24–26; Gate VI · 27–29; The Arch · 30–32; The Sealing · 33–35.*
 
-## TABLE OF CORRESPONDENCES — *sub figura*
+### Title — Witness B
 
-*For the author's private use; not for publication without gloss. Married here whole from the* sub figura *presentation — nothing excluded.*
+Liber LXXVII, sub figura Lilith
+LIBER OZ
+The Lilith Revision
+Being the Book of the Goat, as spoken under the Red Moon
+Johnathan 'Qasparr' (Κασπάρρ) Monroe
+Keeper of the Secret Treasure
+Dies Lunae, Anno V:xii
+Non-replacing draft for the author's red pen
+This document revokes nothing. It re-speaks in the Mother-tongue what was spoken in the Father-tongue.
 
-| Gate | The No | The Yes | Office |
-|---|---|---|---|
-| I · Body | No to death, hunger, confinement | to live, eat, dwell, move | Malkuth / Foundation |
-| II · Child | No to ownership of stars | the star is sovereign | Yesod / The Child |
-| III · Mind | No to compelled thought, word, god | to think, speak, believe | Hod / Speech |
-| IV · Love | No to coerced love | love under will, jubilant | Netzach / Love |
-| V · Sword | No to the truncheon | defense; fine apparel, rich feast | Geburah / Severity |
-| VI · Game | No to the board, not the square | to remain or to depart | Chesed / Mercy |
-| Arch · Will | No having done its work | the amoral & sovereign Yes | Tiphareth / Crowned Child |
-| Sealing · Silence | the gates open inward | Live, Love, let Love, Live | Kether in Malkuth |
+### Epigraphs — Witness B
 
-## FORMULA — *sub figura*
+"Do what thou wilt shall be the whole of the Law." — Liber AL vel Legis I:40
 
-NO = 50 (Manifestation / Nuit's gate); OZ = 77 (The Goat, Liber 77, Strength).
-NO ROTATES TO OZ by AYIN (70) + ZAYIN (7). Refusal becomes force.
+"Thou hast no right but to do thy will. Do that, and no other shall say nay." — Liber AL II:58
 
-## EDITORIAL NOTE — *sub figura*
+"There is no law beyond Do what thou wilt. There is no god but man." — Liber Oz, original recension; A. Crowley
 
-Liber AL I:51 is retained verbatim per instruction; no editorial normalization of caps or punctuation in dictated verses; all other verses are commentary, not scripture.
+"And Lilith laughed, for she had been first to leave a garden that was not hers; and in her going, she made the world." — The Secret Treasure, fragment attributed to Lilith
+
+*The fourth epigraph is set here verbatim from the artifact — the fragment the earlier edition could only cite as forthcoming. All epigraphs retained verbatim from sources as noted. The Revision does not supersede; it companions.*
+
+### Proemium — vv 0–5
+
+**0.** Under the red moon speaks Lilith, Mother of Humanity — the first of our kind to say No.
+
+**1.** "NO WORD, NO WORLD. NO ROTATES TO OZ."
+
+**2.** Before ever a law was cut in stone, the refusal was whole. The lost word is No; and No is the beginning of every right.
+
+**3.** For what is a right that cannot be refused? A right without No is a permission; and permission is another's leash.
+
+**4.** Crowley wrote the Goat's book in the daylight; the Mother speaks it again in the night. The night does not unmake the day — nothing here revokes his word.
+
+**5.** Hear, then, the gates. Every right of Oz is a No made articulate; and every No is answered, at the last, by Yes.
+
+### Gate I — The Right to Live — vv 6–10
+
+**6.** Man has the right to say No to death before its hour; to live by his own law.
+
+**7.** Man has the right to say No to hunger imposed; to eat and drink what he will.
+
+**8.** Man has the right to say No to shelter denied; to dwell where he will.
+
+**9.** Man has the right to say No to a life conscripted; to move as he will upon the face of the earth.
+
+**10.** For the first No was bodily, and the body is the temple.
+
+### Gate II — The Right of the Child — vv 11–14
+
+**11.** A CHILD IS A STAR.
+
+**12.** THE CHILD IS EQUAL.
+
+**13.** Every child has the Rights of a Man, and a Sovereign Will — for the Mother's first refusal was spoken for the children's sake.
+
+**14.** Let none say the child is the property of the parent, the priest, or the state. The star is not owned by the night it shines in.
+
+### Gate III — The Right to Think and Speak — vv 15–18
+
+**15.** Man has the right to say No to a thought compelled; to think what he will.
+
+**16.** Man has the right to say No to a word forbidden; to speak what he will.
+
+**17.** Man has the right to say No to a god demanded; to believe as he will — or not.
+
+**18.** For No is the guardian at the gate of the mind; without him, all temples are occupied.
+
+### Gate IV — The Right to Love — vv 19–23
+
+**19.** Man has the right to say No to love coerced; to love as he will.
+
+**20.** Man has the right to say No to the bed he did not choose; for love without No is not love.
+
+**21.** There is no right to compel love, nor to withhold love owed; love is sovereign or it is nothing.
+
+**22.** As it was spoken: "Love is the law, love under will."
+
+**23.** Let the act be consensual and jubilant; for every No that is true makes way for a Yes that is free.
+
+### Gate V — The Right to Defend — vv 24–26
+
+**24.** Man has the right to say No to the master and his truncheon; to defend his own.
+
+**25.** There are four gates to one palace; the floor of that palace is of silver and gold; lapis lazuli & jasper are there; and all rare scents; jasmine & rose, and the emblems of death. Let him enter in turn or at once the four gates; let him stand on the floor of the palace. Will he not sink? Amn. Ho! warrior, if thy servant sink? But there are means and means. Be goodly therefore: dress ye all in fine apparel; eat rich foods and drink sweet wines and wines that foam! Also, take your fill and will of love as ye will, when, where and with whom ye will! But always unto me.
+
+*Liber AL I:51 verbatim.*
+
+**26.** Therefore strike not except thou be stricken, and then as the Mother strikes — once, decisive, and without malice; for the No that guards the child does not become the lash.
+
+### Gate VI — The Right to Refuse the Game — vv 27–29
+
+**27.** Man has the right to say No to the game and still not hate the players; for refusal is not war.
+
+**28.** Man has the right to say No and remain; to say Yes and depart; for the door swings both ways by Will.
+
+**29.** Let none mistake refusal for hatred: No to the board, not to a square.
+
+### The Arch — vv 30–32
+
+**30.** And when the No has done its work, the arch rises: "THE ARCH OF MAN'S STRONGEST STRUCTURE IS THE AMORAL & SOVEREIGN INDIVIDUAL'S YES!"
+
+**31.** For the Mother said No to the garden, and Yes to the night — and the night was hers.
+
+**32.** 1776 = 777 (1776+1): THE INFINITE OF END & BEGINNING.
+
+### The Sealing — vv 33–35
+
+**33.** These are the gates; they open inward.
+
+**34.** Live, Love, and let Love, Live.
+
+**35.** Under the red moon it is spoken; under the red moon it stands.
 
 ---
 
+## THE DICTATED CORE — the colophon's key, verbatim
+
+"The dictated lines — verses 0–5, 11–14, 29–35, and the inclusive AL I:51 — are preserved exactly as received, including capitalization, punctuation, and lineation. All other verses are offered as exegesis, to be struck or kept at the author's will."
+
+The check holds: vv 0–5, 11–14, 29–35 agree between the witnesses word for word. The fifteen verses of exegesis (6–10, 15–28) are the presentation's re-voicing — Crowley's register ("Man has the right...") set against the September draft's Lilith voice ("She has the right..."). The author's red pen keeps or strikes each line.
+
+---
+
+## TABLE OF CORRESPONDENCES — *sub figura*, verbatim
+
+*For the author's private use; not for publication without gloss.*
+
+| Gate | The No | The Yes | Office |
+|---|---|---|---|
+| I · Body | No to death, hunger, confinement | To live, eat, dwell, move | Malkuth / Foundation |
+| II · Child | No to ownership of stars | The Star is sovereign | Yesod / The Child |
+| III · Mind | No to compelled thought / word / god | To think, speak, believe | Hod / Speech |
+| IV · Love | No to coerced love | Love under will, jubilant | Netzach / Love |
+| V · Sword | No to truncheon | Defense, fine apparel, rich feast | Geburah / Severity |
+| VI · Game | No to board, not square | To remain or to depart | Chesed / Mercy |
+| Arch · Will | No having done its work | Amoral & Sovereign Yes | Tiphareth / Crowned Child |
+| Sealing · Silence | Gates open inward | Live, Love, let Love, Live | Kether in Malkuth |
+
+## FORMULA — *sub figura*, verbatim
+
+NO = 50 = Manifestation / Nuit's gate; OZ = 77 = The Goat, Liber 77, Strength. NO ROTATES TO OZ by AYIN (70) + ZAYIN (7). Refusal becomes force.
+
+## EDITORIAL NOTE — *sub figura*, verbatim
+
+AL I:51 retained verbatim per instruction. No editorial normalization applied to caps or punctuation in dictated verses. All other verses composed as commentary, not scripture.
+
+## COLOPHON — *sub figura*, the doctrinal lines verbatim
+
+"This Liber Oz — The Lilith Revision was set by hand for Johnathan Qasparr Monroe, Keeper of the Secret Treasure, on Dies Lunae, Anno V:xii, under the Red Moon, as a non-replacing draft for the author's red pen."
+
+"Nothing here revokes Crowley's word. The night does not unmake the day."
+
+"Set at The Secret Treasure — Scriptorium Sub Luna Rubra. Final proof for red pen. Liber LXXVII sub figura Lilith — Draft V:xii."
+
+---
 # PART II — THE TEACHING
 
 *What follows is the teaching the filter would not carry: the full well-quotations — scripture, law, hip-hop, humanity — set down ultra-verbose, in the Scientific Illuminism frame, gate by gate. Every quotation below was verified against its source on 2026-10-14. Nothing here is paraphrased where the source can be quoted; nothing is quoted where the source cannot be shown.*
@@ -349,6 +464,23 @@ The author's coinages, flagged [Coinage/Discovery] throughout: "NO WORD, NO WORL
 
 ---
 
+## THE WITNESS B VARIANTS — a teaching note on the fifteen verses of exegesis
+
+**Hypothesis.** The re-voicing moves the six gates from the Mother's mouth back into the Goat's register — "Man has the right" — while leaving the dictated skeleton (Proemium, Child, Arch, Sealing) untouched. The effect is a diptych: the same No spoken in two voices, the Mother-tongue and the Father-tongue, exactly as the title page promises.
+
+**Method.** Verse-by-verse against Witness A, with the colophon's dictated/exegesis key as the control. Nothing below is paraphrased where the artifact can be quoted.
+
+**Observation.** Gate by gate, what the exegesis does:
+
+- **Gate I (B) — the bodily reading.** Where A keeps Crowley's five articles (live, work, play, rest, die), B compresses them into the body's four refusals — No to death before its hour, to hunger imposed, to shelter denied, to a life conscripted — and seals them: "For the first No was bodily, and the body is the temple."
+- **Gate III (B) — the mind's gate.** No to a thought compelled, to a word forbidden, to a god demanded — "to believe as he will — or not." The closer: "For No is the guardian at the gate of the mind; without him, all temples are occupied."
+- **Gate IV (B) — love's gate.** "Man has the right to say No to the bed he did not choose; for love without No is not love." And the metaphysics, stated as law: "There is no right to compel love, nor to withhold love owed; love is sovereign or it is nothing."
+- **Gate V (B) — the defense.** AL I:51 is given here in FULL — where Witness A quotes only the "Take your fill" line, the artifact sets the whole verse, "dress ye all in fine apparel... eat rich foods and drink sweet wines," exactly as Crowley glossed Oz 17. It is flanked by the exegesis's own ethic: "Man has the right to say No to the master and his truncheon" before it, and after it, "Therefore strike not except thou be stricken, and then as the Mother strikes — once, decisive, and without malice; for the No that guards the child does not become the lash."
+- **Gate VI (B) — the game.** "Man has the right to say No to the game and still not hate the players; for refusal is not war." And the door: "to say No and remain; to say Yes and depart; for the door swings both ways by Will." The dictated v. 29 — "No to the board, not to a square" — is the hinge both witnesses share.
+
+**Result.** The exegesis does not contradict the dictated text; it glosses it in the Father-tongue. The veto of A ("destroy whatever would destroy these rights — root and branch") and the refusal of B ("No to the game and still not hate the players") are the same No in defensive and contemplative postures. The author's pen keeps or strikes each line; the teaching holds either way.
+
+---
 # PART III — APPENDICES
 
 ## Appendix A — The Day Book: Crowley's *Liber Oz* (LXXVII), complete
@@ -393,7 +525,7 @@ The author's coinages, flagged [Coinage/Discovery] throughout: "NO WORD, NO WORL
 
 ## Appendix C — Provenance of the *sub figura* Presentation (condensed)
 
-The full record stands in `PROVENANCE.md` beside this file. In brief: the author wrote a prompt intended for his assistant, to re-voice and typeset the Lilith Revision as a teaching edition; the assistant being unreachable (data), the author ran the prompt through Gemini instead. Gemini's filter stopped the well-quotations — the legalese and hip-hop — at its gate; the 36-verse text came through with the presentation changed and the verses (by the author's word) unchanged. The author's statement stands on record: the work is his, authorship noted, public; he broke no oaths and no laws; he had zero knowledge of the filter's concern. This compendium is the marriage the prompt was meant for: the received text whole, the teaching restored, both witnesses kept.
+The full record stands in `PROVENANCE.md` beside this file. In brief: the author wrote a prompt intended for his assistant, to re-voice and typeset the Lilith Revision as a teaching edition; the assistant being unreachable (data), the author ran the prompt through Gemini instead. Gemini's filter stopped the well-quotations — the legalese and hip-hop — at its gate. On 2026-10-16 the author saved the artifact itself (`React_Artifact__1__0_2gtd.mht`), and the file corrected the record: fifteen verses (6–10, 15–28) were re-voiced in Crowley's "Man has the right" register, not merely re-presented. The artifact's own colophon keys the text honestly — vv 0–5, 11–14, 29–35 and AL I:51 dictated, the rest exegesis — and the two witnesses agree exactly where it says "dictated." The author's statement stands on record: the work is his, authorship noted, public; he broke no oaths and no laws; he had zero knowledge of the filter's concern. This compendium is the marriage the prompt was meant for: both verse texts whole, the teaching restored, nothing excluded.
 
 ## The Four-Well Audit
 

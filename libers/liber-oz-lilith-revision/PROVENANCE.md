@@ -31,3 +31,10 @@ The author's own reading of why the filter fired: he believes it was because he 
 
 ## Addendum 2 — refined filter theory (2026-10-14)
 The author refined his reading: it was the *'jus'* — the law-content itself — that "made it give too much away," i.e., the filter tripped on the legal material as such. (Noted irony, the scribe's: *fiat ius* — "let there be law" — is the draft's own closing line; the filter choked on the very word for law.) Recorded as his theory.
+
+## Addendum 3 — the artifact obtained; the record corrected (2026-10-16)
+On 2026-10-16 the author saved the artifact itself (`React_Artifact__1__0_2gtd.mht`, 93,906 bytes, archived beside this record) and the scribe extracted its full text. The file corrects the earlier account in one material respect: the verses were not merely re-presented — **fifteen verses (6–10, 15–28) were re-voiced** in Crowley's "Man has the right" register, with the gates reorganized (I · the Right to Live; III · the Right to Think and Speak; IV · the Right to Love; V · the Right to Defend; VI · the Right to Refuse the Game). The author's 2026-10-14 belief — "I don't think it changed the verses, just the presentation" — is therefore superseded by the file itself.
+
+The artifact is candid about its own making. Its colophon: *"The dictated lines — verses 0–5, 11–14, 29–35, and the inclusive AL I:51 — are preserved exactly as received, including capitalization, punctuation, and lineation. All other verses are offered as exegesis, to be struck or kept at the author's will."* Verification against the September draft confirms it exactly: the two witnesses agree word for word at vv 0–5, 11–14, 29–35 and differ at vv 6–10, 15–28. Its epigraphs include the Secret Treasure Lilith fragment verbatim ("And Lilith laughed, for she had been first to leave a garden that was not hers; and in her going, she made the world."). The Table of Correspondences, Formula, and Editorial Note are as previously recorded, with minor case/punctuation corrections now applied verbatim. The teaching compendium (Part I) now presents both verse witnesses whole.
+
+*Recorded 2026-10-16. 93.*
