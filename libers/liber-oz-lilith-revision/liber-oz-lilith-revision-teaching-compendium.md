@@ -330,6 +330,15 @@ The Hebrew reads לילית (*lilith*); the KJV renders it "screech owl," modern
 **Genesis 3:5** (the serpent told the truth about the fruit — cited as text, not doctrine):
 > "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil." — King James Version
 
+**Genesis 1:27** (the simultaneous creation — the verse at the center of the 2026-10-16 conversation):
+> "So God created man in his own image, in the image of God created he him; male and female created he them." — King James Version
+
+**Genesis 2:21–22** (the second account — the rib; the tension's other pole):
+> "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof; And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man." — King James Version
+
+**The Alphabet of Ben Sira** (the first-wife tradition — marked as tradition, never canon):
+The medieval satirical midrash (c. 8th–10th century) reconciles the two creation accounts by telling of a first woman: formed with Adam from the same dust, she refused a subordinate place, spoke the Divine Name, and fled into the air — the tradition's telling of the first human No, and the revision's mythic warrant for placing this book in her mouth. Summarized here as tradition; it is not scripture and is never cited as such. (The author's 2026-10-16 note: he had seen her name on a Genesis page with his own eyes — near-certainly this tradition in a commentary or footnote, which is where it lives in printed editions.)
+
 ### The Law Well
 
 *Black's Law Dictionary*, 5th edition (extracted from the author's 1979 printing; verified 2026-09-28):
@@ -531,7 +540,7 @@ The full record stands in `PROVENANCE.md` beside this file. In brief: the author
 
 *Per the author's Symmetrical Directive: no work is called done until audited across the Four Wells with genuine correlation in each.*
 
-- **Religion.** Genuine: Liber AL I:3, I:40, I:51 (in full), I:57, II:58 (in full) quoted verbatim and cited; Isaiah 34:14 KJV with the Hebrew לילית; Genesis 3:5 cited as text, not doctrine; the Ben Sira Lilith narrative marked as tradition, never canon.
+- **Religion.** Genuine: Liber AL I:3, I:40, I:51 (in full), I:57, II:58 (in full) quoted verbatim and cited; Isaiah 34:14 KJV with the Hebrew לילית; Genesis 1:27 and 2:21–22 KJV, the two creation accounts whose tension the Ben Sira tradition answers; Genesis 3:5 cited as text, not doctrine; the Ben Sira Lilith narrative marked as tradition, never canon. Where a tradition has nothing genuine to draw — no verse, no link — nothing is drawn; the audit does not manufacture interfaith quotations.
 - **Law.** Genuine: *Black's Law Dictionary* (5th ed.) "Right" and "Personal rights" quoted whole from the author's verified extraction; the common-law floor mapped gate by gate. Educational only; no legal effect claimed or conjured.
 - **Hip-hop.** Genuine: Public Enemy, 'Fight the Power' (1989) and 2Pac, 'Keep Ya Head Up' (1993), quoted briefly and verbatim, cited [Artist, 'Track', Year] per the standing guide — the refusal anthem for the No, the Mother's song for the Child.
 - **Humanity.** Genuine: the author's coinages flagged as his sole-source discoveries throughout; the child's equality; the amoral-regard doctrine; the load-bearing comma in "Live, Love, and let Love, Live."
