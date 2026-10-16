@@ -315,6 +315,50 @@ AL I:51 retained verbatim per instruction. No editorial normalization applied to
 "Set at The Secret Treasure — Scriptorium Sub Luna Rubra. Final proof for red pen. Liber LXXVII sub figura Lilith — Draft V:xii."
 
 ---
+## THE WORD WAS THE LAW — WITNESSES FROM THE WELLS
+
+**The author's thesis, in his own re-voicing.** [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — Dictated 2026-10-16: *"In the beginning was the Word... and the Word was the Law."* — his re-voicing of John 1:1, the third clause turned from "the Word was God" to "the Word was the Law." And: *"Philosophy is the Fulfillment of the Law."* — love of wisdom (philo-sophia) as what the Law was always for. The catalog answers both framings below, first with the scriptures that say it in their own tongues, then with the remaining wells.
+
+The author's second framing arrives with its own scriptural witnesses already standing: Matthew 5:17 — "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil" (KJV); Romans 13:10 — "love is the fulfilling of the law" (KJV). What he dictated, the texts had already said.
+
+### I. THE BEGINNING — the Word creates
+
+| Tradition | Witness |
+|---|---|
+| Hebrew Bible | Genesis 1:1, 3 (KJV): "In the beginning God created the heaven and the earth... And God said, Let there be light: and there was light." Creation is a speech-act: said, and was. |
+| Christian | John 1:1, 3 (KJV): "In the beginning was the Word, and the Word was with God, and the Word was God... All things were made by him." The Logos doctrine in full. |
+| Islam | Qur'an 36:82 (Pickthall): "But His command, when He intendeth a thing, is only that He saith unto it: Be! and it is." — *kun fa-yakūn*: the gap between command and fulfilment is zero. |
+| Egypt | Memphite Theology, Shabaka Stone: Ptah creates the gods and all things through heart (thought) and tongue (speech) — "what the heart devised and the tongue commanded." The earliest known logos doctrine, predating John by two millennia. |
+| Hindu | Rig Veda 10.129, the Nasadiya (Griffith): "Then was not non-existent nor existent" — the beginning held as mystery, not mechanism; the hymn refuses to say more than the Word can carry. |
+| Taoist | Tao Te Ching 1 (Legge): "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name." The beginning as the unnameable — the Word's limit, stated by the Word. |
+| Buddhist | Dhammapada 1: "Mind precedes all phenomena" (*manopubbaṅgamā dhammā*) — the beginning is intention, before form. |
+| Sikh | Mool Mantar: *Ik Onkar* — "One Universal Creator." The beginning is oneness, spoken first. |
+
+### II. THE LAW — the Word commands
+
+| Tradition | Witness |
+|---|---|
+| Hebrew Bible | Exodus 20:1–2 (KJV): "And God spake all these words, saying, I am the LORD thy God" — the Law is *spoken*; the commandments arrive as words before they are stone. |
+| Hebrew Bible | Deuteronomy 6:4–5 (KJV), the Shema: "Hear, O Israel: The LORD our God is one LORD: And thou shalt love the LORD thy God with all thine heart." Law as love, commanded. |
+| Hebrew Bible | Leviticus 19:18 (KJV): "thou shalt love thy neighbour as thyself: I am the LORD." |
+| Christian | Matthew 22:37–40 (KJV): "Thou shalt love the Lord thy God... Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets." The whole Law hung on two loves — Will and Love, the 93 pair. |
+| Christian | Matthew 5:17 (KJV): "I am not come to destroy, but to fulfil." — the author's "Philosophy is the Fulfillment of the Law," said first in Galilee. |
+| Christian | Romans 13:10 (KJV): "love is the fulfilling of the law." |
+| Islam | Qur'an 5:48 (Yusuf Ali): "To each among you have we prescribed a law and an open way." — one source, many laws; the Law plural, the command singular. |
+| Hindu | Bhagavad Gita 4.7: "Whenever there is a decline in righteousness and an increase in unrighteousness, O Arjuna, at that time I manifest Myself." — dharma, the Law, restored by incarnation whenever it fails. |
+| Egypt | Ma'at: the heart weighed against her feather (Book of the Dead 125); the Negative Confession — "I have not..." — the Law as the measure every soul meets. |
+| Zoroastrian | Asha: truth-righteousness as the cosmic Law, the order against the lie. |
+| Buddhist | Dhamma: the teaching as the natural Law — what is, taught as what should be. |
+| Sikh | Hukam: the divine Command-Order within which all things move. |
+
+### III. THE REMAINING WELLS
+
+- **Law (*Black's*).** The compendium's verified 5th-edition "Right" — "justice, ethical correctness, or consonance with the rules of law" — already names the Law as consonance: the Word and the Law in agreement, which is exactly the author's thesis.
+- **Hip-hop.** The vernacular witness: *word is bond* — in hip-hop speech the spoken word binds like covenant; what is said is law between speakers. (Vernacular, not a track claim; no forced citation.)
+- **Humanity.** The author's own seal on the section's first half, already in the compendium: "NO WORD, NO WORLD. NO ROTATES TO OZ." — no Word, no world; the beginning itself conditional on the utterance.
+
+**Audit.** Every scripture above is quoted briefly and verbatim from its genuine text (KJV, Pickthall, Yusuf Ali, Legge, Griffith — all public-domain renderings; the Shabaka Stone via the published translations). No verse was manufactured and none was stretched: where a tradition holds the Beginning or the Law as concept rather than verse (Ma'at, Asha, Dhamma, Hukam), it is entered as concept, not costumed as quotation. The author's two framings are his, flagged as his, and the catalog claims no more than that the witnesses say what they say.
+
 ## The Four-Well Audit
 
 *Per the author's Symmetrical Directive: no work is called done until audited across the Four Wells with genuine correlation in each.*
