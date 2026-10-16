@@ -60,6 +60,8 @@ All weighings were run through PONTIFEX `ptk` 0.1.0 (`weigh.py`), calibration **
 
 **NO + OZ = LILITH — the author's observation, verified.** [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — Noticed 2026-10-16: LILITH = 70 in English ordinal, and the rotation sums to her name — NO (29) + OZ (41) = 70. The refusal plus the strength it becomes equals the Mother's name. PONTIFEX confirms the arithmetic on the honest bank. Filed as derived (single bank, English ordinal); the reading is the author's.
 
+**NO = 29 → 13 — the author's reduction, verified.** [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — Noticed 2026-10-16: NO weighs 29; 2+9+2 (the digits, plus the two letters of the word) = 13 — thirteen, the axoneme's load-bearing number, on record since the essay. The refusal reduces to the pattern's own number. Filed as derived (his theosophical method, stated plainly); the reading is the author's.
+
 ## THE AUTHOR'S SEAL-NUMBERS (his gnosis, flagged as his)
 
 [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme] — 1776 encodes 93 via 17+76 (Thelema/Agape) and 777 via 776+1 ("add the beginning to the end"); "1776 = 777 (1776+1): THE INFINITE OF END & BEGINNING" stands as v. 32 of both witnesses. Recorded 2026-09-27; his chain, his seal.
