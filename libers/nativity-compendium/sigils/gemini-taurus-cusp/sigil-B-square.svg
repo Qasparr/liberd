@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 2000 2000"><rect width="2000" height="2000" fill="#141033"/><line x1="696" y1="512" x2="696" y2="1488" stroke="#d4af37" stroke-width="46" stroke-linecap="round"/>
+<line x1="1304" y1="512" x2="1304" y2="1488" stroke="#d4af37" stroke-width="46" stroke-linecap="round"/>
+<line x1="624" y1="584" x2="1376" y2="584" stroke="#d4af37" stroke-width="40" stroke-linecap="round"/>
+<line x1="624" y1="1416" x2="1376" y2="1416" stroke="#d4af37" stroke-width="40" stroke-linecap="round"/>
+<circle cx="1000" cy="1036" r="222" fill="none" stroke="#d4af37" stroke-width="42"/>
+<path d="M 830 893 Q 676 620 612 440" fill="none" stroke="#d4af37" stroke-width="42" stroke-linecap="round"/>
+<path d="M 1170 893 Q 1324 620 1388 440" fill="none" stroke="#d4af37" stroke-width="42" stroke-linecap="round"/>
+<path d="M 612 440 l -16 46 l 32 -8 Z" fill="#d4af37"/>
+<path d="M 1388 440 l 16 46 l -32 -8 Z" fill="#d4af37"/>
+<path d="M 1104.0 1095.8 A 120 120 0 1 0 1008.7 916.3 A 102 102 0 1 1 1104.0 1095.8 Z" fill="#d4af37"/>
+<circle cx="966" cy="1076" r="28" fill="#f0d98c"/></svg>
