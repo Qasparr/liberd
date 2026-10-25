@@ -1,0 +1,1022 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="color-scheme" content="light dark" />
+<link rel="icon" href="data:," />
+<title>Lilith Revision — Teacher's Editions, Witnesses A &amp; B</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    color-scheme: light dark;
+    --bg:#f8f4ec; --bg2:#efe7d8; --panel:#fffdf8; --panel2:#f3ecdd;
+    --ink:#221a12; --ink2:#5c4f3d; --ink3:#8a7a5f;
+    --line:#ddd0ba; --line2:#c9b995;
+    --red:#8e1f1f; --red-bright:#b3312a; --red-soft:#f6e3e0;
+    --gold:#8a6410; --gold-bright:#a87e14; --gold-soft:#f3ead2;
+    --night:#14100d; --night2:#1e1712;
+    --shadow:0 10px 30px rgba(60,40,10,.12);
+    --radius:10px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0e0b09; --bg2:#131009; --panel:#17120e; --panel2:#1f1811;
+      --ink:#ede3cf; --ink2:#c4b394; --ink3:#8d7c5e;
+      --line:#33291d; --line2:#4a3a26;
+      --red:#e2604f; --red-bright:#ef7d6a; --red-soft:#2b1611;
+      --gold:#d9ab3c; --gold-bright:#eec25e; --gold-soft:#2a2110;
+      --shadow:0 10px 30px rgba(0,0,0,.5);
+    }
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:"EB Garamond", Georgia, "Times New Roman", serif;
+    font-size:18px; line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+  }
+  h1,h2,h3,.display{font-family:"Cormorant Garamond","EB Garamond",Georgia,serif}
+  button{font:inherit; cursor:pointer}
+  ::selection{background:var(--red); color:#fff}
+
+  /* ---------- Hero ---------- */
+  .hero{
+    background:
+      radial-gradient(900px 480px at 78% -10%, rgba(179,49,42,.34), transparent 60%),
+      radial-gradient(700px 500px at 8% 110%, rgba(168,126,20,.16), transparent 55%),
+      linear-gradient(180deg,#171008, #0d0a08 70%);
+    color:#ede3cf; border-bottom:3px solid #b3312a;
+    padding:44px 20px 34px;
+  }
+  .hero-inner{max-width:1080px; margin:0 auto; display:flex; gap:34px; align-items:center}
+  .hero-art{
+    flex:0 0 218px; width:218px; border:1px solid #4a3a26; border-radius:6px;
+    box-shadow:0 18px 44px rgba(0,0,0,.55); overflow:hidden; background:#000;
+  }
+  .hero-art img{display:block; width:100%; height:auto}
+  .hero-kicker{
+    font-size:.78rem; letter-spacing:.34em; text-transform:uppercase; color:#d9ab3c; margin:0 0 10px;
+  }
+  .hero h1{font-size:clamp(2.1rem,5.2vw,3.4rem); line-height:1.02; margin:0 0 6px; font-weight:600}
+  .hero h1 .red{color:#ef7d6a}
+  .hero .sub{font-size:clamp(1.05rem,2.4vw,1.35rem); font-style:italic; color:#cbbd9d; margin:0 0 16px}
+  .hero .byline{font-size:1rem; color:#ede3cf; margin:0}
+  .hero .byline small{display:block; color:#a08c64; font-size:.86rem; margin-top:2px}
+  .hero .epigraph{
+    margin:20px 0 0; padding:12px 16px; border-left:2px solid #b3312a;
+    font-style:italic; color:#e6dcc4; max-width:560px; background:rgba(255,255,255,.03);
+  }
+  .hero .epigraph cite{display:block; font-style:normal; font-size:.85rem; color:#a08c64; margin-top:4px}
+  @media (max-width:720px){
+    .hero-inner{flex-direction:column; text-align:center; gap:22px}
+    .hero-art{flex-basis:170px; width:170px}
+    .hero .epigraph{margin-left:auto; margin-right:auto; text-align:left}
+  }
+
+  /* ---------- Witness switch ---------- */
+  .switchbar{
+    position:sticky; top:0; z-index:40;
+    background:color-mix(in srgb, var(--bg) 88%, transparent);
+    backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line);
+  }
+  .switchbar-inner{max-width:1080px; margin:0 auto; padding:10px 16px; display:flex; flex-wrap:wrap; gap:10px; align-items:center; justify-content:space-between}
+  .witness-switch{display:flex; background:var(--panel2); border:1px solid var(--line2); border-radius:999px; padding:3px; gap:2px}
+  .witness-switch button{
+    border:0; background:transparent; color:var(--ink2); border-radius:999px;
+    padding:7px 16px; font-size:.95rem; font-weight:600; letter-spacing:.02em; white-space:nowrap;
+  }
+  .witness-switch button[aria-pressed="true"]{background:var(--red); color:#fff; box-shadow:0 2px 8px rgba(0,0,0,.25)}
+  .witness-switch button:focus-visible, .viewnav button:focus-visible{outline:2px solid var(--gold-bright); outline-offset:2px}
+  .viewnav{display:flex; flex-wrap:wrap; gap:2px}
+  .viewnav button{
+    border:0; background:transparent; color:var(--ink2); padding:8px 11px; border-radius:8px; font-size:.98rem;
+  }
+  .viewnav button:hover{color:var(--ink); background:var(--panel2)}
+  .viewnav button[aria-current="page"]{color:var(--red); font-weight:700; box-shadow:inset 0 -2px 0 var(--red)}
+  @media (max-width:720px){
+    .switchbar-inner{justify-content:center}
+    .viewnav{justify-content:center}
+    .viewnav button{padding:7px 8px; font-size:.92rem}
+  }
+
+  /* ---------- Layout ---------- */
+  main{max-width:1080px; margin:0 auto; padding:30px 16px 70px}
+  .view{display:none}
+  .view.active{display:block; animation:fadein .25s ease}
+  @keyframes fadein{from{opacity:0; transform:translateY(4px)} to{opacity:1; transform:none}}
+  @media (prefers-reduced-motion: reduce){ .view.active{animation:none} html{scroll-behavior:auto} }
+  .section-head{margin:6px 0 20px}
+  .section-head h2{font-size:clamp(1.7rem,4vw,2.3rem); margin:0 0 4px; font-weight:600}
+  .section-head p{color:var(--ink2); margin:0; max-width:70ch}
+  .kicker{font-size:.74rem; letter-spacing:.3em; text-transform:uppercase; color:var(--red); margin:0 0 6px; font-family:"EB Garamond",serif; font-weight:600}
+
+  /* ---------- Front matter ---------- */
+  .frontmatter{
+    background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
+    padding:22px 24px; box-shadow:var(--shadow); margin-bottom:26px;
+  }
+  .frontmatter h3{margin:0 0 2px; font-size:1.5rem}
+  .frontmatter .fm-sub{color:var(--ink2); font-style:italic; margin:0 0 14px}
+  .fm-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:14px 22px}
+  .fm-grid h4{margin:0 0 3px; font-size:.78rem; letter-spacing:.22em; text-transform:uppercase; color:var(--gold); font-family:"EB Garamond",serif}
+  .fm-grid p{margin:0; font-size:.97rem; color:var(--ink)}
+  .fm-grid ol{margin:0; padding-left:1.15em; font-size:.97rem}
+  .titleblock{
+    border:1px solid var(--line2); border-radius:var(--radius); background:var(--panel2);
+    padding:18px 22px; margin-bottom:18px; text-align:center;
+  }
+  .titleblock .tb-latin{letter-spacing:.18em; font-size:.85rem; text-transform:uppercase; color:var(--ink2)}
+  .titleblock h3{font-size:2rem; margin:4px 0 0}
+  .titleblock .tb-sub{font-size:1.25rem; font-style:italic; color:var(--red); font-family:"Cormorant Garamond",serif}
+  .titleblock p{margin:6px 0 0; color:var(--ink2); font-size:.95rem}
+
+  /* ---------- Epigraphs & verses ---------- */
+  .epigraphs{display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:14px; margin-bottom:28px}
+  .epigraph-card{
+    background:var(--panel); border:1px solid var(--line); border-top:3px solid var(--gold);
+    border-radius:8px; padding:16px 18px;
+  }
+  .epigraph-card blockquote{margin:0; font-style:italic; font-size:1.06rem}
+  .epigraph-card cite{display:block; margin-top:8px; font-style:normal; font-size:.86rem; color:var(--ink2)}
+
+  .toolbar{display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:0 0 18px}
+  .toolbar .seg{display:flex; background:var(--panel2); border:1px solid var(--line2); border-radius:999px; padding:3px; gap:2px}
+  .toolbar .seg button{border:0; background:transparent; color:var(--ink2); border-radius:999px; padding:6px 13px; font-size:.9rem; font-weight:600}
+  .toolbar .seg button[aria-pressed="true"]{background:var(--ink); color:var(--bg)}
+  .toolbar input[type="search"]{
+    flex:1 1 200px; min-width:160px; padding:9px 14px; border-radius:999px;
+    border:1px solid var(--line2); background:var(--panel); color:var(--ink); font:inherit; font-size:.95rem;
+  }
+  .toolbar .count{color:var(--ink3); font-size:.9rem}
+
+  .gate{margin:0 0 30px}
+  .gate-head{display:flex; align-items:baseline; gap:12px; border-bottom:2px solid var(--ink); padding-bottom:6px; margin-bottom:14px}
+  .gate-head h3{margin:0; font-size:1.55rem; font-weight:600}
+  .gate-head .range{color:var(--ink3); font-size:.95rem; white-space:nowrap}
+  .gate-head .gate-note{margin-left:auto; color:var(--ink2); font-style:italic; font-size:.92rem; text-align:right}
+  @media (max-width:560px){ .gate-head{flex-wrap:wrap} .gate-head .gate-note{margin-left:0; text-align:left} }
+
+  .verse{
+    display:flex; gap:14px; padding:11px 14px; border-radius:8px; margin-bottom:6px;
+    background:var(--panel); border:1px solid var(--line);
+  }
+  .verse:hover{border-color:var(--line2)}
+  .verse .num{
+    flex:0 0 34px; height:34px; border-radius:50%; display:flex; align-items:center; justify-content:center;
+    font-family:"Cormorant Garamond",serif; font-weight:700; font-size:1.05rem;
+    background:var(--panel2); color:var(--ink2); border:1px solid var(--line2);
+  }
+  .verse.dictated .num{background:var(--gold-soft); color:var(--gold); border-color:var(--gold)}
+  .verse.al .num{background:var(--red-soft); color:var(--red); border-color:var(--red)}
+  .verse .vbody{flex:1; min-width:0}
+  .verse .vtext{margin:2px 0 0; font-size:1.08rem}
+  .verse .vtext .attr{color:var(--ink2); font-style:italic; font-size:.95rem}
+  .badge{
+    display:inline-block; font-size:.7rem; letter-spacing:.14em; text-transform:uppercase; font-weight:700;
+    padding:2px 8px; border-radius:999px; vertical-align:middle;
+  }
+  .badge.dictated{background:var(--gold-soft); color:var(--gold); border:1px solid var(--gold)}
+  .badge.exegesis{background:transparent; color:var(--ink2); border:1px solid var(--line2)}
+  .badge.al{background:var(--red-soft); color:var(--red); border:1px solid var(--red)}
+  .verse .vmeta{display:flex; gap:8px; align-items:center; margin-top:5px; flex-wrap:wrap}
+  .verse .vmeta .src{font-size:.85rem; color:var(--ink3); font-style:italic}
+  .empty-note{color:var(--ink2); font-style:italic; padding:14px 4px}
+
+  /* ---------- Compare ---------- */
+  .compare-table{width:100%; border-collapse:collapse; background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); overflow:hidden}
+  .compare-scroll{overflow-x:auto; border-radius:var(--radius)}
+  .compare-table th,.compare-table td{padding:12px 14px; vertical-align:top; text-align:left; border-bottom:1px solid var(--line)}
+  .compare-table thead th{font-family:"Cormorant Garamond",serif; font-size:1.15rem; background:var(--panel2)}
+  .compare-table td.vn{width:44px; font-family:"Cormorant Garamond",serif; font-weight:700; font-size:1.1rem; color:var(--red); text-align:center}
+  .compare-table td{font-size:1.02rem; width:47%}
+  .compare-table tr:last-child td{border-bottom:0}
+  .agree-panel{
+    background:var(--gold-soft); border:1px solid var(--gold); border-radius:var(--radius);
+    padding:18px 22px; margin-bottom:24px;
+  }
+  .agree-panel h3{margin:0 0 6px; font-size:1.35rem}
+  .agree-panel p{margin:0 0 8px}
+  .agree-panel blockquote{margin:10px 0 0; font-style:italic; border-left:2px solid var(--gold); padding-left:14px}
+
+  /* ---------- Teaching ---------- */
+  .teach-card{
+    background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
+    padding:20px 24px; margin-bottom:16px; box-shadow:var(--shadow);
+  }
+  .teach-card h3{margin:0 0 2px; font-size:1.45rem}
+  .teach-card .t-range{color:var(--ink3); font-size:.92rem; margin:0 0 12px}
+  .teach-card dl{margin:0; display:grid; gap:10px}
+  .teach-card dt{font-size:.74rem; letter-spacing:.22em; text-transform:uppercase; color:var(--gold); font-weight:700}
+  .teach-card dd{margin:2px 0 0; font-size:1.02rem}
+  .teach-card dd .welltag{color:var(--red); font-weight:600}
+
+  /* ---------- Wells ---------- */
+  .well{margin-bottom:30px}
+  .well > h3{font-size:1.6rem; margin:0 0 4px}
+  .well > .well-intro{color:var(--ink2); margin:0 0 14px; max-width:72ch}
+  .quote-list{display:grid; gap:12px}
+  .quote-card{background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:16px 18px}
+  .quote-card h4{margin:0 0 6px; font-size:1.08rem; font-family:"EB Garamond",serif; font-weight:600}
+  .quote-card h4 .qnote{color:var(--ink2); font-weight:400; font-style:italic; font-size:.92rem}
+  .quote-card blockquote{margin:0; font-style:italic; font-size:1.05rem}
+  .quote-card blockquote + blockquote{margin-top:8px}
+  .quote-card p{margin:8px 0 0; font-size:.98rem; color:var(--ink)}
+  .quote-card .src{color:var(--ink2); font-size:.9rem}
+
+  /* ---------- Tables ---------- */
+  .tbl-wrap{overflow-x:auto; border:1px solid var(--line); border-radius:var(--radius); background:var(--panel); margin-bottom:26px}
+  table.data{width:100%; border-collapse:collapse; min-width:560px}
+  table.data caption{
+    text-align:left; padding:14px 16px 4px; font-family:"Cormorant Garamond",serif;
+    font-size:1.3rem; font-weight:600; color:var(--ink);
+  }
+  table.data caption .cap-note{display:block; font-family:"EB Garamond",serif; font-size:.9rem; font-weight:400; font-style:italic; color:var(--ink2); margin-top:2px}
+  table.data th, table.data td{padding:10px 16px; text-align:left; vertical-align:top; border-bottom:1px solid var(--line); font-size:1rem}
+  table.data thead th{font-size:.78rem; letter-spacing:.16em; text-transform:uppercase; color:var(--ink2); background:var(--panel2)}
+  table.data tbody tr:last-child td{border-bottom:0}
+  table.data td:first-child{font-weight:600; white-space:nowrap}
+  .formula-box{
+    background:var(--night); color:#ede3cf; border-radius:var(--radius); padding:24px 26px; margin-bottom:26px;
+    border:1px solid #4a3a26;
+  }
+  @media (prefers-color-scheme: light){ .formula-box{background:#1c130c} }
+  .formula-box h3{margin:0 0 8px; color:#eec25e; font-size:1.4rem}
+  .formula-box p{margin:0 0 10px; color:#e6dcc4}
+  .formula-box .fx{font-family:"Cormorant Garamond",serif; font-size:1.5rem; color:#fff; letter-spacing:.04em}
+  .formula-box .fx b{color:#ef7d6a}
+
+  /* ---------- Weighings ---------- */
+  .weigh-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:14px; margin-bottom:26px}
+  .weigh-card{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:18px 20px}
+  .weigh-card .w-word{font-family:"Cormorant Garamond",serif; font-size:1.5rem; font-weight:700; letter-spacing:.06em}
+  .weigh-card .w-val{font-family:"Cormorant Garamond",serif; font-size:2rem; color:var(--red); font-weight:700}
+  .weigh-card p{margin:6px 0 0; font-size:.97rem; color:var(--ink)}
+  .weigh-card .w-bank{font-size:.85rem; color:var(--ink2)}
+  .tier{font-size:.68rem; letter-spacing:.14em; text-transform:uppercase; font-weight:700; padding:2px 8px; border-radius:999px; border:1px solid var(--gold); color:var(--gold); background:var(--gold-soft)}
+  .tier.derived{border-color:var(--line2); color:var(--ink2); background:var(--panel2)}
+  .calc{
+    background:var(--panel); border:1px solid var(--line2); border-radius:var(--radius);
+    padding:22px 24px; box-shadow:var(--shadow);
+  }
+  .calc h3{margin:0 0 4px; font-size:1.5rem}
+  .calc p{color:var(--ink2); margin:0 0 14px}
+  .calc-row{display:flex; flex-wrap:wrap; gap:10px}
+  .calc input{
+    flex:1 1 240px; padding:11px 16px; border-radius:8px; border:1px solid var(--line2);
+    background:var(--bg); color:var(--ink); font:inherit; font-size:1.1rem; letter-spacing:.08em; text-transform:uppercase;
+  }
+  .calc button{
+    background:var(--red); color:#fff; border:0; border-radius:8px; padding:11px 22px; font-weight:700; font-size:1rem;
+  }
+  .calc button:hover{background:var(--red-bright)}
+  .calc-out{margin-top:16px; display:none}
+  .calc-out.show{display:block}
+  .calc-out .big{font-family:"Cormorant Garamond",serif; font-size:2.2rem; font-weight:700}
+  .calc-out .big span{color:var(--red)}
+  .letter-chips{display:flex; flex-wrap:wrap; gap:6px; margin:10px 0}
+  .letter-chips .chip{
+    background:var(--panel2); border:1px solid var(--line2); border-radius:6px; padding:4px 9px;
+    font-size:.95rem; font-weight:600;
+  }
+  .letter-chips .chip small{color:var(--ink2); font-weight:400}
+  .calc-out .red-line{color:var(--ink2); font-size:.98rem}
+  .calc-out .match{margin-top:8px; padding:10px 14px; border-radius:8px; background:var(--gold-soft); border:1px solid var(--gold); display:none}
+  .calc-out .match.show{display:block}
+
+  /* ---------- Audit / colophon ---------- */
+  .audit-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:14px; margin-bottom:26px}
+  .audit-card{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:18px 20px}
+  .audit-card h4{margin:0 0 6px; font-size:1.2rem; font-family:"Cormorant Garamond",serif}
+  .audit-card h4 .genuine{color:var(--red); font-size:.8rem; letter-spacing:.18em; text-transform:uppercase; font-family:"EB Garamond",serif; vertical-align:middle; margin-left:6px}
+  .audit-card p{margin:0; font-size:.97rem}
+  .doc-block{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:22px 26px; margin-bottom:18px}
+  .doc-block h3{margin:0 0 10px; font-size:1.45rem}
+  .doc-block p{margin:0 0 10px}
+  .doc-block ul{margin:0 0 10px; padding-left:1.2em}
+  .doc-block li{margin-bottom:6px}
+  .doc-block blockquote{margin:10px 0; font-style:italic; border-left:2px solid var(--red); padding-left:14px}
+  .sustain{
+    text-align:center; background:var(--night); color:#ede3cf; border-radius:var(--radius);
+    padding:30px 22px; border:1px solid #4a3a26;
+  }
+  @media (prefers-color-scheme: light){ .sustain{background:#1c130c} }
+  .sustain h3{margin:0 0 8px; color:#eec25e; font-size:1.5rem}
+  .sustain p{margin:0 auto 12px; max-width:56ch; color:#e6dcc4}
+  .sustain .handle{
+    display:inline-block; font-family:"Cormorant Garamond",serif; font-size:1.9rem; font-weight:700; color:#fff;
+    border:1px solid #b3312a; border-radius:8px; padding:6px 22px; background:rgba(179,49,42,.16);
+  }
+  footer.colophon{
+    border-top:1px solid var(--line); margin-top:44px; padding-top:20px; text-align:center; color:var(--ink2);
+  }
+  footer.colophon .fiat{font-family:"Cormorant Garamond",serif; font-size:1.3rem; font-style:italic; color:var(--ink)}
+  footer.colophon p{margin:4px 0; font-size:.95rem}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div class="hero-art">
+      <img src="data:image/png;base64,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" alt="Title art of Liber Oz — The Lilith Revision: a red moon over the title, 'Being the Book of the Goat, as spoken under the Red Moon', by Johnathan 'Qasparr' Monroe" />
+    </div>
+    <div class="hero-text">
+      <p class="hero-kicker">Liber LXXVII · sub figura Lilith</p>
+      <h1>Liber Oz — The Lilith Revision<br /><span class="red">Teacher's Editions</span></h1>
+      <p class="sub">Both witnesses, whole: the September text in the Mother's voice, and the <i>sub figura</i> text in Crowley's register — with the teaching, the wells, and the audit.</p>
+      <p class="byline">Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure
+        <small>All Rights Reserved, Without Prejudice · Dies Veneris, Anno V:xii — 2026-10-16 · Non-replacing draft — nothing here revokes Crowley's Liber LXXVII</small>
+      </p>
+      <blockquote class="epigraph">
+        "And Lilith laughed, for she had been first to leave a garden that was not hers; and in her going, she made the world."
+        <cite>— The Secret Treasure, fragment attributed to Lilith (Witness B, fourth epigraph)</cite>
+      </blockquote>
+    </div>
+  </div>
+</header>
+
+<div class="switchbar">
+  <div class="switchbar-inner">
+    <div class="witness-switch" role="group" aria-label="Choose witness">
+      <button id="wA" aria-pressed="true">Witness A · September</button>
+      <button id="wB" aria-pressed="false">Witness B · <i>sub figura</i></button>
+      <button id="wCmp" aria-pressed="false">Side by Side</button>
+    </div>
+    <nav class="viewnav" aria-label="Sections">
+      <button data-view="text" aria-current="page">The Text</button>
+      <button data-view="teaching">The Teaching</button>
+      <button data-view="wells">The Wells</button>
+      <button data-view="tables">Tables &amp; the Word</button>
+      <button data-view="weighings">Weighings</button>
+      <button data-view="audit">Audit &amp; Colophon</button>
+    </nav>
+  </div>
+</div>
+
+<main id="app"><!-- rendered by script --></main>
+
+<footer class="colophon" style="max-width:1080px;margin-left:auto;margin-right:auto;padding-left:16px;padding-right:16px">
+  <p class="fiat">Fiat nox, fiat ius — Let there be night; let there be right.</p>
+  <p>93 — 93/93</p>
+  <p>Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure · All Rights Reserved, Without Prejudice · Support: $axoneme</p>
+  <p>Set down 2026-10-14, under the red moon, for the author's red pen. Legal and scriptural references are educational; no legal effect is claimed or conjured.</p>
+</footer>
+</body>
+</html>
+
+<script>
+"use strict";
+/* ============================================================
+   DATA — transcribed verbatim from teachers-edition-witness-a.md
+   and teachers-edition-witness-b.md (liberd, 2026-10-16).
+   Verse text is never normalized.
+   Dictated core (the artifact's own colophon key): vv 0–5, 11–14,
+   29–35, and the inclusive AL I:51 — identical in both witnesses.
+   Exegesis: vv 6–10, 15–28 — re-voiced, witness against witness.
+   ============================================================ */
+function vstatus(n){ if(n===25) return "al"; if((n>=0&&n<=5)||(n>=11&&n<=14)||(n>=29&&n<=35)) return "dictated"; return "exegesis"; }
+
+var WITNESSES = {
+A: {
+  name: "Witness A — The September Text",
+  voice: "Lilith-voiced · “She has the right…”",
+  source: "The Lilith-voiced text, composed 2026-09-28. Verbatim from Liber_OZ_Lilith_Revision.md.",
+  hypothesis: "Crowley's Liber Oz (LXXVII) states the rights of man in five articles. The author's Liber Oz Revised image adds three load-bearing corrections: the child is included, the No is named as the lost word, and the Yes is crowned as the arch. This Teacher's Edition presents Witness A, the September draft — the 36 verses in Lilith's own voice (“She has the right…”) with the full Four-Well teaching apparatus — scripture, law, hip-hop, and humanity — gate by gate, in the Scientific Illuminism frame.",
+  method: ["The verse text is quoted verbatim and never normalized.","The teaching draws each well only where the link is genuine; where a well has nothing genuine, nothing is drawn.","The author's coinages are flagged as his sole-source discoveries.","Legal and scriptural references educate; they conjure nothing."],
+  observation: "What follows is the text whole, then the teaching, then the audit. Disagreement is expected; the Anchorage stands.",
+  result: "The Teacher's Edition, as below — for the author's red pen.",
+  epigraphs: [
+    {t:"Every man and every woman is a star.", c:"Liber AL, I:3"},
+    {t:"Take your fill and will of love as ye will, when, where, and with whom ye will.", c:"Liber AL, I:51"},
+    {t:"NO WORD, NO WORLD. NO ROTATES TO OZ.", c:"the author's Liber Oz Revised"},
+    {t:"THE ARCH OF MAN'S STRONGEST STRUCTURE IS THE AMORAL & SOVEREIGN INDIVIDUAL'S YES!", c:"the author's Liber Oz Revised"}
+  ],
+  gates: [
+    {name:"Proemium", range:"vv 0–5", note:"dictated core", verses:[
+      [0,"Under the red moon speaks Lilith, Mother of Humanity — the first of our kind to say No."],
+      [1,"“NO WORD, NO WORLD. NO ROTATES TO OZ.”"],
+      [2,"Before ever a law was cut in stone, the refusal was whole. The lost word is No; and No is the beginning of every right."],
+      [3,"For what is a right that cannot be refused? A right without No is a permission; and permission is another's leash."],
+      [4,"Crowley wrote the Goat's book in the daylight; the Mother speaks it again in the night. The night does not unmake the day — nothing here revokes his word."],
+      [5,"Hear, then, the gates. Every right of Oz is a No made articulate; and every No is answered, at the last, by Yes."]
+    ]},
+    {name:"Gate I — The Law of the Night", range:"vv 6–10", note:"re-voiced in Witness B", verses:[
+      [6,"She has the right to live by her own law — to live in the way that she wills to do."],
+      [7,"To work as she will; for the night also labors, and the Mother is not idle."],
+      [8,"To play as she will; for she is not solemn with her children."],
+      [9,"To rest as she will — even the red moon wanes, and no star is commanded to shine without ceasing."],
+      [10,"To die when and how she will; and her ending is her own, as her beginning was."]
+    ]},
+    {name:"Gate II — The Child", range:"vv 11–14", note:"dictated core", verses:[
+      [11,"A CHILD IS A STAR."],
+      [12,"THE CHILD IS EQUAL."],
+      [13,"Every child has the Rights of a Man, and a Sovereign Will — for the Mother's first refusal was spoken for the children's sake."],
+      [14,"Let none say the child is the property of the parent, the priest, or the state. The star is not owned by the night it shines in."]
+    ]},
+    {name:"Gate III — The Body", range:"vv 15–18", note:"re-voiced in Witness B", verses:[
+      [15,"She has the right to eat what she will — and to refuse what she will not."],
+      [16,"To drink what she will; even of the red cup, which is her own and no other's."],
+      [17,"To dwell where she will: the desert, the night air, the ruin, the wild between walls — no boundary binds her."],
+      [18,"To move as she will on the face of the earth, and above it; for she spoke the Name and flew, when the ground was denied her."]
+    ]},
+    {name:"Gate IV — The Word", range:"vv 19–23", note:"re-voiced in Witness B", verses:[
+      [19,"She has the right to think what she will — no thought is unclean to the thinker."],
+      [20,"To speak what she will; and her first word was No, and it stands to this hour."],
+      [21,"To write what she will, though empires burn the libraries."],
+      [22,"To draw, paint, carve, etch, mould, build as she will — for the hand is the mind's other mouth."],
+      [23,"To dress as she will: in red, in nothing, in the night itself."]
+    ]},
+    {name:"Gate V — Love", range:"vv 24–26", note:"AL I:51 at v. 25", verses:[
+      [24,"She has the right to love as she will."],
+      [25,"“Take your fill and will of love as ye will, when, where, and with whom ye will.”", "Liber AL, I:51"],
+      [26,"For she was not taken; she chose. And what is chosen freely is holy."]
+    ]},
+    {name:"Gate VI — The Veto", range:"vv 27–29", note:"v. 29 dictated", verses:[
+      [27,"She has the right to destroy whatever would destroy these rights — root and branch, without apology."],
+      [28,"No is the whole of the Law's defense. The veto is the lost word, found."],
+      [29,"Let none mistake refusal for hatred: No to the board, not to a square."]
+    ]},
+    {name:"The Arch — Yes", range:"vv 30–32", note:"dictated core", verses:[
+      [30,"And when the No has done its work, the arch rises: “THE ARCH OF MAN'S STRONGEST STRUCTURE IS THE AMORAL & SOVEREIGN INDIVIDUAL'S YES!”"],
+      [31,"For the Mother said No to the garden, and Yes to the night — and the night was hers."],
+      [32,"1776 = 777 (1776+1): THE INFINITE OF END & BEGINNING."]
+    ]},
+    {name:"The Sealing", range:"vv 33–35", note:"dictated core", verses:[
+      [33,"These are the gates; they open inward."],
+      [34,"Live, Love, and let Love, Live."],
+      [35,"Under the red moon it is spoken; under the red moon it stands."]
+    ]}
+  ]
+},
+B: {
+  name: "Witness B — The sub figura Text",
+  voice: "Crowley's register · “Man has the right…”",
+  source: "Verbatim from the author's saved artifact (React_Artifact, produced 2026-10-14). Punctuation, capitalization, and lineation as received.",
+  titleblock: {
+    latin: "Liber LXXVII, sub figura Lilith",
+    title: "LIBER OZ",
+    sub: "The Lilith Revision",
+    lines: ["Being the Book of the Goat, as spoken under the Red Moon","Johnathan 'Qasparr' (Κασπάρρ) Monroe · Keeper of the Secret Treasure","Dies Lunae, Anno V:xii · Non-replacing draft for the author's red pen","This document revokes nothing. It re-speaks in the Mother-tongue what was spoken in the Father-tongue."]
+  },
+  hypothesis: "Crowley's Liber Oz (LXXVII) states the rights of man in five articles. The author's Liber Oz Revised image adds three load-bearing corrections: the child is included, the No is named as the lost word, and the Yes is crowned as the arch. This Teacher's Edition presents Witness B, the 2026-10-14 artifact text verbatim — the fifteen verses of exegesis in Crowley's register (“Man has the right…”), with the dictated core keyed by the artifact's own colophon — with the full Four-Well teaching apparatus, gate by gate, in the Scientific Illuminism frame.",
+  method: ["The verse text is quoted verbatim and never normalized.","The teaching draws each well only where the link is genuine; where a well has nothing genuine, nothing is drawn.","The author's coinages are flagged as his sole-source discoveries.","Legal and scriptural references educate; they conjure nothing."],
+  observation: "What follows is the text whole, then the teaching, then the audit. Disagreement is expected; the Anchorage stands.",
+  result: "The Teacher's Edition, as below — for the author's red pen.",
+  epigraphs: [
+    {t:"Do what thou wilt shall be the whole of the Law.", c:"Liber AL vel Legis I:40"},
+    {t:"Thou hast no right but to do thy will. Do that, and no other shall say nay.", c:"Liber AL II:58"},
+    {t:"There is no law beyond Do what thou wilt. There is no god but man.", c:"Liber Oz, original recension; A. Crowley"},
+    {t:"And Lilith laughed, for she had been first to leave a garden that was not hers; and in her going, she made the world.", c:"The Secret Treasure, fragment attributed to Lilith"}
+  ],
+  epigraphNote: "The fourth epigraph is set here verbatim from the artifact — the fragment the earlier edition could only cite as forthcoming. All epigraphs retained verbatim from sources as noted. The Revision does not supersede; it companions.",
+  gates: [
+    {name:"Proemium", range:"vv 0–5", note:"dictated core", verses:[
+      [0,"Under the red moon speaks Lilith, Mother of Humanity — the first of our kind to say No."],
+      [1,"“NO WORD, NO WORLD. NO ROTATES TO OZ.”"],
+      [2,"Before ever a law was cut in stone, the refusal was whole. The lost word is No; and No is the beginning of every right."],
+      [3,"For what is a right that cannot be refused? A right without No is a permission; and permission is another's leash."],
+      [4,"Crowley wrote the Goat's book in the daylight; the Mother speaks it again in the night. The night does not unmake the day — nothing here revokes his word."],
+      [5,"Hear, then, the gates. Every right of Oz is a No made articulate; and every No is answered, at the last, by Yes."]
+    ]},
+    {name:"Gate I — The Right to Live", range:"vv 6–10", note:"exegesis", verses:[
+      [6,"Man has the right to say No to death before its hour; to live by his own law."],
+      [7,"Man has the right to say No to hunger imposed; to eat and drink what he will."],
+      [8,"Man has the right to say No to shelter denied; to dwell where he will."],
+      [9,"Man has the right to say No to a life conscripted; to move as he will upon the face of the earth."],
+      [10,"For the first No was bodily, and the body is the temple."]
+    ]},
+    {name:"Gate II — The Right of the Child", range:"vv 11–14", note:"dictated core", verses:[
+      [11,"A CHILD IS A STAR."],
+      [12,"THE CHILD IS EQUAL."],
+      [13,"Every child has the Rights of a Man, and a Sovereign Will — for the Mother's first refusal was spoken for the children's sake."],
+      [14,"Let none say the child is the property of the parent, the priest, or the state. The star is not owned by the night it shines in."]
+    ]},
+    {name:"Gate III — The Right to Think and Speak", range:"vv 15–18", note:"exegesis", verses:[
+      [15,"Man has the right to say No to a thought compelled; to think what he will."],
+      [16,"Man has the right to say No to a word forbidden; to speak what he will."],
+      [17,"Man has the right to say No to a god demanded; to believe as he will — or not."],
+      [18,"For No is the guardian at the gate of the mind; without him, all temples are occupied."]
+    ]},
+    {name:"Gate IV — The Right to Love", range:"vv 19–23", note:"exegesis", verses:[
+      [19,"Man has the right to say No to love coerced; to love as he will."],
+      [20,"Man has the right to say No to the bed he did not choose; for love without No is not love."],
+      [21,"There is no right to compel love, nor to withhold love owed; love is sovereign or it is nothing."],
+      [22,"As it was spoken: “Love is the law, love under will.”"],
+      [23,"Let the act be consensual and jubilant; for every No that is true makes way for a Yes that is free."]
+    ]},
+    {name:"Gate V — The Right to Defend", range:"vv 24–26", note:"AL I:51 entire at v. 25", verses:[
+      [24,"Man has the right to say No to the master and his truncheon; to defend his own."],
+      [25,"There are four gates to one palace; the floor of that palace is of silver and gold; lapis lazuli & jasper are there; and all rare scents; jasmine & rose, and the emblems of death. Let him enter in turn or at once the four gates; let him stand on the floor of the palace. Will he not sink? Amn. Ho! warrior, if thy servant sink? But there are means and means. Be goodly therefore: dress ye all in fine apparel; eat rich foods and drink sweet wines and wines that foam! Also, take your fill and will of love as ye will, when, where and with whom ye will! But always unto me.", "Liber AL I:51 verbatim"],
+      [26,"Therefore strike not except thou be stricken, and then as the Mother strikes — once, decisive, and without malice; for the No that guards the child does not become the lash."]
+    ]},
+    {name:"Gate VI — The Right to Refuse the Game", range:"vv 27–29", note:"v. 29 dictated", verses:[
+      [27,"Man has the right to say No to the game and still not hate the players; for refusal is not war."],
+      [28,"Man has the right to say No and remain; to say Yes and depart; for the door swings both ways by Will."],
+      [29,"Let none mistake refusal for hatred: No to the board, not to a square."]
+    ]},
+    {name:"The Arch", range:"vv 30–32", note:"dictated core", verses:[
+      [30,"And when the No has done its work, the arch rises: “THE ARCH OF MAN'S STRONGEST STRUCTURE IS THE AMORAL & SOVEREIGN INDIVIDUAL'S YES!”"],
+      [31,"For the Mother said No to the garden, and Yes to the night — and the night was hers."],
+      [32,"1776 = 777 (1776+1): THE INFINITE OF END & BEGINNING."]
+    ]},
+    {name:"The Sealing", range:"vv 33–35", note:"dictated core", verses:[
+      [33,"These are the gates; they open inward."],
+      [34,"Live, Love, and let Love, Live."],
+      [35,"Under the red moon it is spoken; under the red moon it stands."]
+    ]}
+  ]
+}
+};
+</script>
+
+<script>
+"use strict";
+/* ---------- THE TEACHING, GATE BY GATE ---------- */
+var TEACHING = {
+A: [
+ {gate:"On the Proemium (vv. 0–5) — the No",
+  h:"Refusal precedes law. A right that cannot be refused is not a right but a permission — and permission is another's leash.",
+  o:"[[Tradition/Text:]] The Hebrew Bible knows her by name once: לילית in Isaiah 34:14, in the oracle against Edom — rendered “screech owl” in the King James Version, “night creature” in modern renderings. The Alphabet of Ben Sira (a medieval satirical text, marked here as tradition rather than canon) tells the refusal in full: made with Adam from the same earth, Lilith would not lie beneath him, spoke the Ineffable Name, and flew into the air — the first No in the human story. The structure is exact: the sovereign veto precedes every law, because law is addressed to those who can refuse it. [[Law:]] Black's (5th ed.): “Right. As a noun, and taken in an abstract sense, means justice, ethical correctness, or consonance with the rules of law or the principles of morals.” The revision's claim in v. 3 follows: what cannot be refused was never a right in this sense. [[Hip-hop:]] Public Enemy, 'Fight the Power' (1989): “Our freedom of speech is freedom or death.” [[Coinage/Discovery — the author's:]] “NO WORD, NO WORLD. NO ROTATES TO OZ.” The lost word of Freemasonry is “No,” the word of refusal, the sovereign veto; rotated letter by letter, NO becomes OZ, and עז (oz, “strength”) is 77 — Liber Oz is Liber LXXVII. The chain No → Oz → 77 → Axoneme (AXONEME = 77 by English ordinal) is his own, recorded 2026-09-27. His further reading (2026-10-06): עז (70+7 = 77), seen with Latin eyes, spells Ty — ע shaped like y, ז shaped like T. Lady Liber-ty: Lady Liberty, who carries the torch (light) and the tablet (law). The chain extends: No → Oz → 77 → Ty → Liberty.",
+  r:"Verse 1 stands as the book's axiom and its engine: every gate below is this No made articulate, and every No is answered, at the last, by Yes."},
+ {gate:"On Gate I (vv. 6–10) — the Law of the Night",
+  h:"The fivefold right to live by one's own law survives translation into the Mother's mouth without loss.",
+  o:"Correspondence check against Crowley's Oz 0–5: to live by one's own law; to live, work, play, rest, and die as one wills. The revision keeps all five and re-voices them. Note v. 9's warrant: “even the red moon wanes” — rest is not the negation of the law but its rhythm. The right to die (Oz 5) is kept without euphemism in v. 10; the Mother's ending, like her beginning, is her own. [[Scripture:]] “Do what thou wilt shall be the whole of the Law” (AL I:40) is the warrant behind the warrant.",
+  r:"Table: I · Body — No to death, hunger, confinement → to live, eat, dwell, move — Malkuth / Foundation."},
+ {gate:"On Gate II (vv. 11–14) — the Child",
+  h:"The child is a star, equal in right — not a future star, not a lesser star.",
+  o:"This is the author's correction, and the revision's reason for existing in Lilith's mouth rather than the Goat's. The author has long held that Crowley left the child out of the Star — understanding the omission as deliberate rather than ignorant (“every man and woman were once a child”), yet insisting the right be stated. [[Scripture:]] “Every man and every woman is a star” (Liber AL, I:3) — the author's reading extends the starhood backward to the child without diminishing it. V. 14's “the star is not owned by the night it shines in” answers the oldest counter-claim — that children are the property of parents, priests, or states. [[Hip-hop:]] 2Pac, 'Keep Ya Head Up' (1993): “And since we all came from a woman / Got our name from a woman and our game from a woman.”",
+  r:"Table: II · Child — No to ownership of stars → the star is sovereign — Yesod / The Child."},
+ {gate:"On Gate III (vv. 15–18) — the Body",
+  h:"The body is the first territory of the No; the negative right (refusal) belongs in the text, not just between its lines.",
+  o:"Crowley's Oz 6–9: to eat, drink, dwell, and move as one wills. V. 15 adds the negative right — “to refuse what she will not” — because the body is where refusal is first exercised or first broken. V. 18's “she spoke the Name and flew, when the ground was denied her” is the Ben Sira tradition compressed to a single line: denied the ground of Eden, she took the air. Refusal, here, is locomotion. [[Law:]] Black's (5th ed.): “Personal rights … the right of personal security, comprising those of life, limb, body, health, reputation, and the right of personal liberty.” The gate is the common-law floor stated in mythic dress.",
+  r:"The bodily office answers to Malkuth / Foundation in the table's numbering; the verses keep the author's six-gate order."},
+ {gate:"On Gate IV (vv. 19–23) — the Word",
+  h:"Speech is free because refusal is possible; a mouth that cannot say No cannot say Yes either.",
+  o:"Crowley's Oz 10–14: to think, speak, write, draw, paint, carve, etch, mould, build, and dress as one wills. V. 20 anchors the whole gate in the book's thesis: “her first word was No, and it stands to this hour.” V. 21 — “to write what she will, though empires burn the libraries” — is the gate's historical memory: the burning of libraries is the perennial attempt to unmake the No by unmaking its record. Which is why this compendium exists, and why both witnesses are kept.",
+  r:"Table: III · Mind — No to compelled thought, word, god → to think, speak, believe — Hod / Speech. The arch of v. 30 is earned here, not granted: only the mouth that can refuse can consent."},
+ {gate:"On Gate V (vv. 24–26) — Love",
+  h:"Love without No is not love; the unchosen bed is not love's office but its violation.",
+  o:"Crowley's Oz 15–16, closing with Liber AL I:51 — given in the Wells in full: all four gates, the silver-and-gold floor, the fine apparel and rich foods and foaming wines, and the closing seal: “take your fill and will of love as ye will, when, where and with whom ye will! But always unto me.” V. 26 — “she was not taken; she chose” — is the Lilith-specific gloss: the tradition's whole charge against her is that she would not be taken. The revision answers the charge by making it the sacrament: “what is chosen freely is holy.” [[Scripture:]] “Love is the law, love under will” (AL I:57).",
+  r:"Table: IV · Love — No to coerced love → love under will, jubilant — Netzach / Love."},
+ {gate:"On Gate VI (vv. 27–29) — the Veto",
+  h:"The veto is not an exception to the rights; it is the rights, in their defensive posture.",
+  o:"Face Oz 17 directly — “the right to kill those who would thwart these rights” — the article polite readers skip and tyrants underline. Read it through the author's amoral-regard shorthand. The revision keeps its teeth (v. 27: “root and branch, without apology”) but states the metaphysics in v. 28: “No is the whole of the Law's defense.” [[Scripture:]] Crowley's own gloss on this article is AL II:58 — “the slaves shall serve” — quoted in full in the Wells. [[Hip-hop:]] Public Enemy, 'Fight the Power' (1989): “We got to fight the powers that be” — the veto as public doctrine, refusal aimed at the structure, never at the person as such. [[Coinage/Discovery:]] v. 29's “No to the board, not to a square” is the author's amoral-regard shorthand (recorded 2026-09-27): refusal is aimed at the game that would conscript the refuser, never at a person as such. Amoral is not immoral — the veto declines the board; it does not hate the squares. Hence the sub figura naming: the Right to Refuse the Game.",
+  r:"Table: V · Sword — No to the truncheon → defense; fine apparel, rich feast — Geburah / Severity; and VI · Game — No to the board, not the square → to remain or to depart — Chesed / Mercy."},
+ {gate:"On the Arch (vv. 30–32) — Yes",
+  h:"No is the foundation; Yes is the crown. An arch stands because every stone says No to falling and the keystone says Yes to the span.",
+  o:"Read v. 31 as Lilith's whole myth in one line: “For the Mother said No to the garden, and Yes to the night — and the night was hers.” [[Coinage/Discovery — the author's:]] “THE ARCH OF MAN'S STRONGEST STRUCTURE IS THE AMORAL & SOVEREIGN INDIVIDUAL'S YES!” [[Numerology — the author's, flagged:]] “1776 = 777 (1776+1): THE INFINITE OF END & BEGINNING.” His long-standing observation: 1776 encodes 93 via 17+76 (Thelema/Agape) and 777 via 776+1 — “add the beginning to the end.” It stands here as his seal on the arch, not as a proof of anything but his own consistency.",
+  r:"Table: Arch · Will — No having done its work → the amoral & sovereign Yes — Tiphareth / Crowned Child."},
+ {gate:"On the Sealing (vv. 33–35)",
+  h:"The rights are not permissions granted outward by power but recognitions entered inward by the star.",
+  o:"V. 33: “These are the gates; they open inward.” V. 34 is the author's inspired reiteration for the Aeon of Ma'at, quoted exactly as dictated: “Live, Love, and let Love, Live.” — the comma after the second Love standing as load-bearing, love and will as the foundation of life. It seals a book of rights with the one duty the author's whole corpus implies: that the sovereign's Yes be love, or the arch is a ruin. V. 35: “Under the red moon it is spoken; under the red moon it stands.”",
+  r:"Table: Sealing · Silence — the gates open inward → Live, Love, let Love, Live — Kether in Malkuth."}
+],
+B: [
+ {gate:"Gate I — The Right to Live (vv 6–10)",
+  h:"The exegesis compresses Crowley's opening articles into the body's four refusals — No to death before its hour, to hunger imposed, to shelter denied, to a life conscripted.",
+  o:"Read against Witness A Gate I (which keeps Crowley's five: live, work, play, rest, die) and against Black's “Personal rights.” [[Law:]] Black's (5th ed.): “Personal rights … the right of personal security, comprising those of life, limb, body, health, reputation, and the right of personal liberty.” The four refusals map the common-law floor point for point: death → life; hunger → body and health; shelter denied → the liberty of dwelling; a life conscripted → the liberty of movement. [[Scripture:]] “the body is the temple” carries the genuine echo of the temple-of-the-body teaching; cited as resonance, not proof.",
+  r:"The first No is bodily, and every later No stands on this one. A mind cannot refuse what a starving body cannot."},
+ {gate:"Gate III — The Right to Think and Speak (vv 15–18)",
+  h:"The mind's gate: three refusals — a thought compelled, a word forbidden, a god demanded — sealed by the guardian line.",
+  o:"Read against Witness A Gate IV (the Word: think, speak, write, make, dress). [[Scripture:]] “to believe as he will — or not” is AL II:58 in work-clothes: “Thou hast no right but to do thy will.” [[Hip-hop:]] Public Enemy, 'Fight the Power' (1989): “Our freedom of speech is freedom or death” — the same gate, shouted. The closer — “For No is the guardian at the gate of the mind; without him, all temples are occupied” — states the book's whole metaphysics in one line: a mouth that cannot refuse cannot consent, so every Yes in the Arch is earned here first.",
+  r:"The veto guards the interior before it guards the perimeter."},
+ {gate:"Gate IV — The Right to Love (vv 19–23)",
+  h:"Love's gate: coerced love refused, and sovereignty stated not as sentiment but as law.",
+  o:"Read against Witness A Gate V (Love: “she was not taken; she chose”). [[Scripture:]] v. 22 quotes AL I:57 whole — “Love is the law, love under will” — the verse that makes the gate load-bearing rather than decorative. [[Hip-hop:]] 2Pac, 'Keep Ya Head Up' (1993): “And since we all came from a woman / Got our name from a woman and our game from a woman” — the Mother as the source of the name and the game alike. V. 21's metaphysics — “There is no right to compel love, nor to withhold love owed; love is sovereign or it is nothing” — is the gate's whole doctrine in a single sentence.",
+  r:"“For love without No is not love” — consent is not the seasoning of love but its substance."},
+ {gate:"Gate V — The Right to Defend (vv 24–26)",
+  h:"The sword gate: AL I:51 set in full, flanked fore and aft by the exegesis's own ethic of defense.",
+  o:"Read against Witness A Gate VI (the Veto) and Crowley's Oz 17. [[Scripture:]] Where Witness A quotes only the “Take your fill” line, the artifact sets AL I:51 entire — “dress ye all in fine apparel; eat rich foods and drink sweet wines” — exactly as Crowley glossed Oz 17, and exactly as the editorial note requires. [[Law:]] the common-law right of self-defense, the defensive posture of Black's “personal security.” The flanking ethic is the exegesis's own contribution: “Man has the right to say No to the master and his truncheon” before the verse, and after it — “Therefore strike not except thou be stricken, and then as the Mother strikes — once, decisive, and without malice; for the No that guards the child does not become the lash.” Crowley's “kill those who would thwart” keeps its teeth; the Mother's strike adds the restraint.",
+  r:"Defense without malice: the veto guards, it does not become the lash."},
+ {gate:"Gate VI — The Right to Refuse the Game (vv 27–29)",
+  h:"The contemplative No: refusal without hatred, and the door that swings both ways.",
+  o:"Read against Witness A vv 27–29 (the Veto: “root and branch, without apology”). [[Coinage:]] v. 29 is dictated text — the author's amoral-regard shorthand, recorded 2026-09-27: “No to the board, not to a square.” Refusal aims at the game that would conscript the refuser, never at a person as such. [[Hip-hop:]] Public Enemy, 'Fight the Power' (1989): “We got to fight the powers that be” — the veto as public doctrine, aimed at the structure. V. 28's door — “to say No and remain; to say Yes and depart; for the door swings both ways by Will” — is the freest line in either witness: refusal does not even require exit.",
+  r:"Refusal is not war. The veto of Witness A and the refusal of Witness B are the same No in defensive and contemplative postures."}
+]};
+
+/* ---------- THE WELLS (shared by both editions, verbatim) ---------- */
+var WELLS = {
+ scripture: [
+  {h:"Liber AL vel Legis, I:3", n:"the star", q:["Every man and every woman is a star."]},
+  {h:"Liber AL vel Legis, I:40", n:"the name of the Law", q:["Who calls us Thelemites will do no wrong, if he look but close into the word. For there are therein Three Grades, the Hermit, and the Lover, and the man of Earth. Do what thou wilt shall be the whole of the Law."]},
+  {h:"Liber AL vel Legis, I:51", n:"the four gates — given in full, as the sub figura editorial note requires", q:["There are four gates to one palace; the floor of that palace is of silver and gold; lapis lazuli & jasper are there; and all rare scents; jasmine & rose, and the emblems of death. Let him enter in turn or at once the four gates; let him stand on the floor of the palace. Will he not sink? Amn. Ho! warrior, if thy servant sink? But there are means and means. Be goodly therefore: dress ye all in fine apparel; eat rich foods and drink sweet wines and wines that foam! Also, take your fill and will of love as ye will, when, where and with whom ye will! But always unto me."]},
+  {h:"Liber AL vel Legis, I:57", n:"love under will", q:["Love is the law, love under will."]},
+  {h:"Liber AL vel Legis, II:58", n:"kings and slaves — Crowley's own gloss on Oz 17", q:["Yea! deem not of change: ye shall be as ye are, & not other. Therefore the kings of the earth shall be Kings for ever: the slaves shall serve. There is none that shall be cast down or lifted up: all is ever as it was. Yet there are masked ones my servants: it may be that yonder beggar is a King. A King may choose his garment as he will: there is no certain test: but a beggar cannot hide his poverty."]},
+  {h:"Isaiah 34:14", n:"the Bible knows her by name once — לילית", q:["The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest."], src:"King James Version", p:"The Hebrew reads לילית (lilith); the KJV renders it “screech owl,” modern renderings “night creature.” It is the only occurrence of the name in Scripture."},
+  {h:"Genesis 3:5", n:"the serpent told the truth about the fruit — cited as text, not doctrine", q:["For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."], src:"King James Version"},
+  {h:"Genesis 1:27", n:"the simultaneous creation", q:["So God created man in his own image, in the image of God created he him; male and female created he them."], src:"King James Version"},
+  {h:"Genesis 2:21–22", n:"the second account — the rib; the tension's other pole", q:["And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof; And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man."], src:"King James Version"},
+  {h:"The Alphabet of Ben Sira", n:"the first-wife tradition — marked as tradition, never canon", p:"The medieval satirical midrash (c. 8th–10th century) reconciles the two creation accounts by telling of a first woman: formed with Adam from the same dust, she refused a subordinate place, spoke the Divine Name, and fled into the air — the tradition's telling of the first human No, and the revision's mythic warrant for placing this book in her mouth. Summarized here as tradition; it is not scripture and is never cited as such."}
+ ],
+ lawIntro: "Black's Law Dictionary, 5th edition (extracted from the author's 1979 printing; verified 2026-09-28):",
+ law: [
+  {h:"“Right”", q:["As a noun, and taken in an abstract sense, means justice, ethical correctness, or consonance with the rules of law or the principles of morals."]},
+  {h:"“Personal rights”", q:["the right of personal security, comprising those of life, limb, body, health, reputation, and the right of personal liberty."]}
+ ],
+ lawNote: "The teaching use is exact: a right, in the abstract, is consonance with moral principle — not a grant from power. What cannot be refused was never a right in this sense; it was a permission, revocable at the granter's pleasure. The No is what converts permission into right. Legal references throughout are educational; no legal effect is claimed or conjured.",
+ hiphop: [
+  {h:"Public Enemy, 'Fight the Power', 1989", n:"the refusal made anthem — for the Proemium and the Veto", q:["Elvis was a hero to most / But he never meant shit to me you see / Straight up racist that sucker was / Simple and plain","We got to fight the powers that be … Our freedom of speech is freedom or death"]},
+  {h:"2Pac, 'Keep Ya Head Up', 1993", n:"for the Mother and the Child", q:["And since we all came from a woman / Got our name from a woman and our game from a woman"]}
+ ],
+ humanity: "The author's coinages, flagged [Coinage/Discovery] throughout: “NO WORD, NO WORLD. NO ROTATES TO OZ.” / “A CHILD IS A STAR. THE CHILD IS EQUAL.” / “THE ARCH OF MAN'S STRONGEST STRUCTURE IS THE AMORAL & SOVEREIGN INDIVIDUAL'S YES!” / “No to the board, not to a square.” / “Live, Love, and let Love, Live.” — each his sole-source discovery, each preserved exactly as dictated, including the load-bearing comma."
+};
+
+/* ---------- TABLES ---------- */
+var TABLE_A = {
+ caption:"Correspondence — Crowley's Oz → the Lilith Revision (September)",
+ note:"Witness A's table: what each article of Crowley's Liber Oz becomes in the Mother's mouth.",
+ head:["Crowley, Liber Oz (LXXVII)","Lilith Revision"],
+ rows:[
+  ["0–5: live by his own law; live, work, play, rest, die as he will","Gate I (vv. 6–10): the Law of the Night — all five kept, re-voiced"],
+  ["(absent — the author's correction)","Gate II (vv. 11–14): the Child — “A CHILD IS A STAR. THE CHILD IS EQUAL.”"],
+  ["6–9: eat, drink, dwell, move as he will","Gate III (vv. 15–18): the Body — the four kept; the negative right (refusal) stated"],
+  ["10–14: think, speak, write, make, dress as he will","Gate IV (vv. 19–23): the Word — all kept; anchored in the first No"],
+  ["15–16: love as he will; AL I:51","Gate V (vv. 24–26): Love — AL I:51 verbatim; “she was not taken; she chose”"],
+  ["17: kill those who would thwart these rights","Gate VI (vv. 27–29): the Veto — teeth kept; “No is the whole of the Law's defense”"],
+  ["(absent — the author's crowning)","The Arch (vv. 30–32): YES — the amoral & sovereign individual's Yes; 1776 = 777"]
+ ]};
+var TABLE_B = {
+ caption:"Table of Correspondences — sub figura, verbatim",
+ note:"For the author's private use; not for publication without gloss.",
+ head:["Gate","The No","The Yes","Office"],
+ rows:[
+  ["I · Body","No to death, hunger, confinement","To live, eat, dwell, move","Malkuth / Foundation"],
+  ["II · Child","No to ownership of stars","The Star is sovereign","Yesod / The Child"],
+  ["III · Mind","No to compelled thought / word / god","To think, speak, believe","Hod / Speech"],
+  ["IV · Love","No to coerced love","Love under will, jubilant","Netzach / Love"],
+  ["V · Sword","No to truncheon","Defense, fine apparel, rich feast","Geburah / Severity"],
+  ["VI · Game","No to board, not square","To remain or to depart","Chesed / Mercy"],
+  ["Arch · Will","No having done its work","Amoral & Sovereign Yes","Tiphareth / Crowned Child"],
+  ["Sealing · Silence","Gates open inward","Live, Love, let Love, Live","Kether in Malkuth"]
+ ]};
+
+/* ---------- THE WORD WAS THE LAW ---------- */
+var WORDLAW = {
+ intro1:"The author's thesis, in his own re-voicing. [Coinage/Discovery: Johnathan “Qasparr (Κασπάρρ)” Monroe] — Dictated 2026-10-16: “In the beginning was the Word… and the Word was the Law.” — his re-voicing of John 1:1, the third clause turned from “the Word was God” to “the Word was the Law.” And: “Philosophy is the Fulfillment of the Law.” — love of wisdom (philo-sophia) as what the Law was always for.",
+ intro2:"The author's second framing arrives with its own scriptural witnesses already standing: Matthew 5:17 — “Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil” (KJV); Romans 13:10 — “love is the fulfilling of the law” (KJV). What he dictated, the texts had already said.",
+ beginning:[
+  ["Hebrew Bible","Genesis 1:1, 3 (KJV): “In the beginning God created the heaven and the earth… And God said, Let there be light: and there was light.” Creation is a speech-act: said, and was."],
+  ["Christian","John 1:1, 3 (KJV): “In the beginning was the Word, and the Word was with God, and the Word was God… All things were made by him.” The Logos doctrine in full."],
+  ["Islam","Qur'an 36:82 (Pickthall): “But His command, when He intendeth a thing, is only that He saith unto it: Be! and it is.” — kun fa-yakūn: the gap between command and fulfilment is zero."],
+  ["Egypt","Memphite Theology, Shabaka Stone: Ptah creates the gods and all things through heart (thought) and tongue (speech) — “what the heart devised and the tongue commanded.” The earliest known logos doctrine, predating John by two millennia."],
+  ["Hindu","Rig Veda 10.129, the Nasadiya (Griffith): “Then was not non-existent nor existent” — the beginning held as mystery, not mechanism; the hymn refuses to say more than the Word can carry."],
+  ["Taoist","Tao Te Ching 1 (Legge): “The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.” The beginning as the unnameable — the Word's limit, stated by the Word."],
+  ["Buddhist","Dhammapada 1: “Mind precedes all phenomena” (manopubbaṅgamā dhammā) — the beginning is intention, before form."],
+  ["Sikh","Mool Mantar: Ik Onkar — “One Universal Creator.” The beginning is oneness, spoken first."]
+ ],
+ law:[
+  ["Hebrew Bible","Exodus 20:1–2 (KJV): “And God spake all these words, saying, I am the LORD thy God” — the Law is spoken; the commandments arrive as words before they are stone."],
+  ["Hebrew Bible","Deuteronomy 6:4–5 (KJV), the Shema: “Hear, O Israel: The LORD our God is one LORD: And thou shalt love the LORD thy God with all thine heart.” Law as love, commanded."],
+  ["Hebrew Bible","Leviticus 19:18 (KJV): “thou shalt love thy neighbour as thyself: I am the LORD.”"],
+  ["Christian","Matthew 22:37–40 (KJV): “Thou shalt love the Lord thy God… Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets.” The whole Law hung on two loves — Will and Love, the 93 pair."],
+  ["Christian","Matthew 5:17 (KJV): “I am not come to destroy, but to fulfil.” — the author's “Philosophy is the Fulfillment of the Law,” said first in Galilee."],
+  ["Christian","Romans 13:10 (KJV): “love is the fulfilling of the law.”"],
+  ["Islam","Qur'an 5:48 (Yusuf Ali): “To each among you have we prescribed a law and an open way.” — one source, many laws; the Law plural, the command singular."],
+  ["Hindu","Bhagavad Gita 4.7: “Whenever there is a decline in righteousness and an increase in unrighteousness, O Arjuna, at that time I manifest Myself.” — dharma, the Law, restored by incarnation whenever it fails."],
+  ["Egypt","Ma'at: the heart weighed against her feather (Book of the Dead 125); the Negative Confession — “I have not…” — the Law as the measure every soul meets."],
+  ["Zoroastrian","Asha: truth-righteousness as the cosmic Law, the order against the lie."],
+  ["Buddhist","Dhamma: the teaching as the natural Law — what is, taught as what should be."],
+  ["Sikh","Hukam: the divine Command-Order within which all things move."]
+ ],
+ remaining:[
+  ["Law (Black's)","The compendium's verified 5th-edition “Right” — “justice, ethical correctness, or consonance with the rules of law” — already names the Law as consonance: the Word and the Law in agreement, which is exactly the author's thesis."],
+  ["Hip-hop","The vernacular witness: word is bond — in hip-hop speech the spoken word binds like covenant; what is said is law between speakers. (Vernacular, not a track claim; no forced citation.)"],
+  ["Humanity","The author's own seal: “NO WORD, NO WORLD. NO ROTATES TO OZ.” — no Word, no world; the beginning itself conditional on the utterance."]
+ ],
+ audit:"Audit. Every scripture above is quoted briefly and verbatim from its genuine text (KJV, Pickthall, Yusuf Ali, Legge, Griffith — all public-domain renderings; the Shabaka Stone via the published translations). No verse was manufactured and none was stretched: where a tradition holds the Beginning or the Law as concept rather than verse (Ma'at, Asha, Dhamma, Hukam), it is entered as concept, not costumed as quotation. The author's two framings are his, flagged as his, and the catalog claims no more than that the witnesses say what they say."
+};
+
+/* ---------- WEIGHINGS (PONTIFEX catalog, 2026-10-16) ---------- */
+var WEIGHINGS = [
+ {word:"AXONEME = עז", val:"77 = 77", bank:"English ordinal · Hebrew mispar hechrechi (70 + 7)", tier:"Attested",
+  p:"The bridge holds. AXONEME = 77 in English ordinal; עז = 77 in Hebrew. Two honest banks, one number — the author's recorded chain (2026-09-27), and the reason Liber Oz is Liber LXXVII."},
+ {word:"THE WORD = ΘΕΛΗΜΑ = ΑΓΑΠΗ", val:"93", bank:"English ordinal · Greek isopsephy", tier:"Attested",
+  p:"The Trinity of Law. THE WORD = 93 (English ordinal), ΘΕΛΗΜΑ = 93, ΑΓΑΠΗ = 93 (Greek isopsephy). Three terms, two tongues, one number — Will, Love, and the Word that speaks them."},
+ {word:"NO + OZ = LILITH", val:"29 + 41 = 70", bank:"English (Latin) ordinal", tier:"Derived",
+  p:"The author's observation, verified 2026-10-16: LILITH = 70 in English ordinal, and the rotation sums to her name — NO (29) + OZ (41) = 70. The refusal plus the strength it becomes equals the Mother's name. Filed as derived (single bank); the reading is the author's."},
+ {word:"NO → 13", val:"29 → 2+9+2 = 13", bank:"English ordinal · the author's theosophical reduction", tier:"Derived",
+  p:"NO weighs 29; 2+9+2 (the digits, plus the two letters of the word) = 13 — thirteen, the axoneme's load-bearing number. The refusal reduces to the pattern's own number."},
+ {word:"לילית (lilith)", val:"480", bank:"Hebrew mispar hechrechi", tier:"Derived",
+  p:"LILITH = 70 (English) and לילית = 480 (Hebrew) do not share a number — no bridge, honestly reported. Per the doctrine, no bridge is claimed; zero honest two-bank bridges is itself a finding."},
+ {word:"1776", val:"93 · 777", bank:"The author's seal (v. 32 of both witnesses)", tier:"Attested",
+  p:"1776 encodes 93 via 17+76 (Thelema/Agape) and 777 via 776+1 — “add the beginning to the end.” “1776 = 777 (1776+1): THE INFINITE OF END & BEGINNING” stands as his seal on the Arch."}
+];
+
+/* ---------- FOUR-WELL AUDIT (shared colophon matter) ---------- */
+var AUDIT = [
+ {well:"Religion", p:"Liber AL I:3, I:40, I:51 (in full), I:57, II:58 (in full) quoted verbatim and cited; Isaiah 34:14 KJV with the Hebrew לילית; Genesis 1:27 and 2:21–22 KJV, the two creation accounts whose tension the Ben Sira tradition answers; Genesis 3:5 cited as text, not doctrine; the Ben Sira Lilith narrative marked as tradition, never canon. Where a tradition has nothing genuine to draw — no verse, no link — nothing is drawn; the audit does not manufacture interfaith quotations."},
+ {well:"Law", p:"Black's Law Dictionary (5th ed.) “Right” and “Personal rights” quoted whole from the author's verified extraction; the common-law floor mapped gate by gate. Educational only; no legal effect claimed or conjured."},
+ {well:"Hip-hop", p:"Public Enemy, 'Fight the Power' (1989) and 2Pac, 'Keep Ya Head Up' (1993), quoted briefly and verbatim, cited [Artist, 'Track', Year] per the standing guide — the refusal anthem for the No, the Mother's song for the Child."},
+ {well:"Humanity", p:"The author's coinages flagged as his sole-source discoveries throughout; the child's equality; the amoral-regard doctrine; the load-bearing comma in “Live, Love, and let Love, Live.”"}
+];
+</script>
+
+<script>
+"use strict";
+/* ================= RENDER ENGINE ================= */
+var state = { witness:"A", view:"text", filter:"all", query:"" };
+var app = document.getElementById("app");
+
+function esc(s){ return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
+function welltags(s){ return esc(s).replace(/\[\[(.+?):\]\]/g,'<span class="welltag">$1:</span>'); }
+function verseMap(w){ var m={}; WITNESSES[w].gates.forEach(function(g){ g.verses.forEach(function(v){ m[v[0]]={text:v[1], attr:v[2]||null}; }); }); return m; }
+var MAPS = { A: verseMap("A"), B: verseMap("B") };
+
+function badgeFor(n){
+  var s = vstatus(n);
+  if(s==="al") return '<span class="badge al">AL I:51 · dictated</span>';
+  if(s==="dictated") return '<span class="badge dictated">Dictated core</span>';
+  return '<span class="badge exegesis">Exegesis · re-voiced</span>';
+}
+
+/* ---------- THE TEXT ---------- */
+function renderText(){
+  var w = WITNESSES[state.witness];
+  var out = "";
+  out += '<section class="view active">';
+  out += '<div class="section-head"><p class="kicker">The Text · ' + esc(state.witness==="A" ? "Witness A" : "Witness B") + '</p>'
+       + '<h2>' + esc(w.name) + '</h2><p>' + esc(w.voice) + ' — ' + esc(w.source) + '</p></div>';
+
+  if(w.titleblock){
+    var tb = w.titleblock;
+    out += '<div class="titleblock"><div class="tb-latin">' + esc(tb.latin) + '</div><h3>' + esc(tb.title) + '</h3>'
+         + '<div class="tb-sub">' + esc(tb.sub) + '</div>'
+         + tb.lines.map(function(l){ return "<p>" + esc(l) + "</p>"; }).join("") + '</div>';
+  }
+
+  /* Front matter — the Scientific Illuminism frame */
+  out += '<div class="frontmatter"><h3>The Frame of the Edition</h3><p class="fm-sub">Hypothesis · Method · Observation · Result</p><div class="fm-grid">'
+       + '<div><h4>Hypothesis</h4><p>' + esc(w.hypothesis) + '</p></div>'
+       + '<div><h4>Method</h4><ol>' + w.method.map(function(m){ return "<li>" + esc(m) + "</li>"; }).join("") + '</ol></div>'
+       + '<div><h4>Observation</h4><p>' + esc(w.observation) + '</p></div>'
+       + '<div><h4>Result</h4><p>' + esc(w.result) + '</p></div>'
+       + '</div></div>';
+
+  /* Epigraphs */
+  out += '<div class="epigraphs">' + w.epigraphs.map(function(e){
+    return '<div class="epigraph-card"><blockquote>“' + esc(e.t) + '”</blockquote><cite>— ' + esc(e.c) + '</cite></div>';
+  }).join("") + '</div>';
+  if(w.epigraphNote) out += '<p style="color:var(--ink2);font-style:italic;margin:-12px 0 24px">' + esc(w.epigraphNote) + '</p>';
+
+  /* Toolbar */
+  out += '<div class="toolbar"><div class="seg" role="group" aria-label="Filter verses">'
+       + '<button data-filter="all" aria-pressed="' + (state.filter==="all") + '">All 36 verses</button>'
+       + '<button data-filter="dictated" aria-pressed="' + (state.filter==="dictated") + '">Dictated core</button>'
+       + '<button data-filter="exegesis" aria-pressed="' + (state.filter==="exegesis") + '">Exegesis</button></div>'
+       + '<input type="search" id="vsearch" placeholder="Search the verses…" value="' + esc(state.query) + '" aria-label="Search the verses" />'
+       + '<span class="count" id="vcount"></span></div>';
+
+  /* Gates */
+  var q = state.query.trim().toLowerCase();
+  var shown = 0;
+  w.gates.forEach(function(g){
+    var verses = g.verses.filter(function(v){
+      var st = vstatus(v[0]);
+      if(state.filter==="dictated" && !(st==="dictated"||st==="al")) return false;
+      if(state.filter==="exegesis" && st!=="exegesis") return false;
+      if(q && v[1].toLowerCase().indexOf(q)===-1) return false;
+      return true;
+    });
+    if(!verses.length) return;
+    shown += verses.length;
+    out += '<div class="gate"><div class="gate-head"><h3>' + esc(g.name) + '</h3><span class="range">' + esc(g.range) + '</span>'
+         + '<span class="gate-note">' + esc(g.note) + '</span></div>';
+    verses.forEach(function(v){
+      var st = vstatus(v[0]);
+      out += '<div class="verse ' + st + '"><div class="num">' + v[0] + '</div><div class="vbody">'
+           + '<p class="vtext">' + esc(v[1]) + (v[2] ? ' <span class="attr">— ' + esc(v[2]) + '</span>' : '') + '</p>'
+           + '<div class="vmeta">' + badgeFor(v[0]) + '</div></div></div>';
+    });
+    out += '</div>';
+  });
+  if(!shown) out += '<p class="empty-note">No verse matches — clear the search or change the filter.</p>';
+  out += '<p class="empty-note" id="vcount-note"></p>';
+  out += '</section>';
+  app.innerHTML = out;
+  var c = document.getElementById("vcount"); if(c) c.textContent = shown + " of 36 verses shown";
+  var note = document.getElementById("vcount-note");
+  if(note) note.textContent = "Key — gold: the dictated core, identical word for word in both witnesses (vv 0–5, 11–14, 29–35). Red: AL I:51, dictated inclusive. Outlined: the exegesis (vv 6–10, 15–28), re-voiced between the witnesses — compare them Side by Side.";
+  bindTextTools();
+}
+function bindTextTools(){
+  var seg = app.querySelectorAll("[data-filter]");
+  seg.forEach(function(b){ b.addEventListener("click", function(){ state.filter = b.getAttribute("data-filter"); render(false); }); });
+  var s = document.getElementById("vsearch");
+  if(s){ s.addEventListener("input", function(){ state.query = s.value; var pos = s.selectionStart; render(false); var s2 = document.getElementById("vsearch"); if(s2){ s2.focus(); s2.setSelectionRange(pos,pos); } }); }
+}
+
+/* ---------- SIDE BY SIDE ---------- */
+function renderCompare(){
+  var rows = [6,7,8,9,10,15,16,17,18,19,20,21,22,23,24,25,26,27,28];
+  var out = '<section class="view active">';
+  out += '<div class="section-head"><p class="kicker">The Collation</p><h2>Side by Side — the Fifteen Re-Voiced Verses</h2>'
+       + '<p>The two witnesses are married as two whole witnesses: where the September draft speaks in the Mother\'s voice, the <i>sub figura</i> presentation re-voices in Crowley\'s register. Verse by verse, number by number:</p></div>';
+  out += '<div class="agree-panel"><h3>The dictated core agrees — word for word</h3>'
+       + '<p>Verses 0–5, 11–14, and 29–35, and the inclusive AL I:51, are identical in both witnesses. The artifact\'s own colophon is the key:</p>'
+       + '<blockquote>“The dictated lines — verses 0–5, 11–14, 29–35, and the inclusive AL I:51 — are preserved exactly as received, including capitalization, punctuation, and lineation. All other verses are offered as exegesis, to be struck or kept at the author\'s will.”</blockquote>'
+       + '<p style="margin-top:10px">The fifteen verses of exegesis (6–10, 15–28) are the presentation\'s re-voicing — Crowley\'s register (“Man has the right…”) set against the September draft\'s Lilith voice (“She has the right…”). The author\'s red pen keeps or strikes each line. Verse 25 is AL I:51 in both: Witness A quotes the “Take your fill” line; Witness B sets the verse entire.</p></div>';
+  out += '<div class="compare-scroll"><table class="compare-table"><thead><tr><th></th><th>Witness A — September (Lilith-voiced)</th><th>Witness B — sub figura (“Man has the right…”)</th></tr></thead><tbody>';
+  rows.forEach(function(n){
+    out += '<tr><td class="vn">' + n + '</td><td>' + esc(MAPS.A[n].text) + '</td><td>' + esc(MAPS.B[n].text) + '</td></tr>';
+  });
+  out += '</tbody></table></div></section>';
+  app.innerHTML = out;
+}
+
+/* ---------- THE TEACHING ---------- */
+function renderTeaching(){
+  var key = state.witness;
+  var list = TEACHING[key];
+  var out = '<section class="view active">';
+  out += '<div class="section-head"><p class="kicker">The Teaching · ' + (key==="A" ? "Witness A" : "Witness B") + '</p>'
+       + '<h2>' + (key==="A" ? "Gate by Gate — the September Teaching" : "Gate by Gate — the sub figura Teaching") + '</h2>'
+       + '<p>' + (key==="A"
+          ? "The full Four-Well apparatus — scripture, law, hip-hop, and humanity — gate by gate, in the Scientific Illuminism frame: Hypothesis, Observation, Result."
+          : "The fifteen verses of exegesis taught in the Scientific Illuminism frame. The dictated verses (0–5, 11–14, 29–35) are taught in Edition A; what follows covers the re-voiced gates.") + '</p></div>';
+  list.forEach(function(t){
+    out += '<article class="teach-card"><h3>' + esc(t.gate) + '</h3><dl>'
+         + '<div><dt>Hypothesis</dt><dd>' + esc(t.h) + '</dd></div>'
+         + '<div><dt>Observation</dt><dd>' + welltags(t.o) + '</dd></div>'
+         + '<div><dt>Result</dt><dd>' + esc(t.r) + '</dd></div>'
+         + '</dl></article>';
+  });
+  out += '</section>';
+  app.innerHTML = out;
+}
+
+/* ---------- THE WELLS ---------- */
+function quoteCards(list){
+  return '<div class="quote-list">' + list.map(function(e){
+    var s = '<div class="quote-card"><h4>' + esc(e.h) + (e.n ? ' <span class="qnote">(' + esc(e.n) + ')</span>' : '') + '</h4>';
+    if(e.q) e.q.forEach(function(q){ s += '<blockquote>“' + esc(q) + '”</blockquote>'; });
+    if(e.src) s += '<p class="src">— ' + esc(e.src) + '</p>';
+    if(e.p) s += '<p>' + esc(e.p) + '</p>';
+    return s + '</div>';
+  }).join("") + '</div>';
+}
+function renderWells(){
+  var out = '<section class="view active">';
+  out += '<div class="section-head"><p class="kicker">The Well-Quotations</p><h2>The Four Wells</h2>'
+       + '<p>Drawn only where the link is genuine; where a well has nothing genuine, nothing is drawn. This apparatus is shared by both Teacher\'s Editions.</p></div>';
+  out += '<div class="well"><h3>The Scripture Well</h3>' + quoteCards(WELLS.scripture) + '</div>';
+  out += '<div class="well"><h3>The Law Well</h3><p class="well-intro">' + esc(WELLS.lawIntro) + '</p>' + quoteCards(WELLS.law)
+       + '<p style="margin-top:12px">' + esc(WELLS.lawNote) + '</p></div>';
+  out += '<div class="well"><h3>The Hip-Hop Well</h3>' + quoteCards(WELLS.hiphop) + '</div>';
+  out += '<div class="well"><h3>The Humanity Well</h3><div class="quote-card"><p style="margin:0">' + esc(WELLS.humanity) + '</p></div></div>';
+  out += '</section>';
+  app.innerHTML = out;
+}
+
+/* ---------- TABLES & THE WORD ---------- */
+function dataTable(t){
+  var out = '<div class="tbl-wrap"><table class="data"><caption>' + esc(t.caption)
+          + (t.note ? '<span class="cap-note">' + esc(t.note) + '</span>' : '') + '</caption><thead><tr>'
+          + t.head.map(function(h){ return "<th>" + esc(h) + "</th>"; }).join("") + '</tr></thead><tbody>';
+  t.rows.forEach(function(r){ out += '<tr>' + r.map(function(c){ return "<td>" + esc(c) + "</td>"; }).join("") + '</tr>'; });
+  return out + '</tbody></table></div>';
+}
+function renderTables(){
+  var out = '<section class="view active">';
+  out += '<div class="section-head"><p class="kicker">Tables &amp; the Word</p><h2>Correspondences — and the Word Was the Law</h2>'
+       + '<p>' + (state.witness==="A"
+          ? "Witness A's correspondence: Crowley's Oz, article by article, against the Lilith Revision. Switch to Witness B for the sub figura table, formula, and editorial note."
+          : "Witness B's apparatus, verbatim from the artifact: the Table of Correspondences, the Formula, the Editorial Note, and the dictated core's key.") + '</p></div>';
+  if(state.witness==="A"){
+    out += dataTable(TABLE_A);
+  } else {
+    out += dataTable(TABLE_B);
+    out += '<div class="formula-box"><h3>Formula — sub figura, verbatim</h3>'
+         + '<p class="fx">NO = <b>50</b> · OZ = <b>77</b></p>'
+         + '<p>NO = 50 = Manifestation / Nuit\'s gate; OZ = 77 = The Goat, Liber 77, Strength. NO ROTATES TO OZ by AYIN (70) + ZAYIN (7). Refusal becomes force.</p>'
+         + '<p style="font-size:.92rem;color:#cbbd9d">PONTIFEX note: Latin ordinal gives NO = 29 and OZ = 41 — the formula\'s 50 and 77 are the artifact\'s own computation, method unstated in the file; OZ = 77 converges with עז = 77 regardless of method. Filed as derived (the artifact\'s), not attested.</p></div>';
+    out += '<div class="doc-block"><h3>Editorial Note — sub figura, verbatim</h3>'
+         + '<p>AL I:51 retained verbatim per instruction. No editorial normalization applied to caps or punctuation in dictated verses. All other verses composed as commentary, not scripture.</p>'
+         + '<h3 style="margin-top:18px">The Dictated Core — the colophon\'s key, verbatim</h3>'
+         + '<blockquote>“The dictated lines — verses 0–5, 11–14, 29–35, and the inclusive AL I:51 — are preserved exactly as received, including capitalization, punctuation, and lineation. All other verses are offered as exegesis, to be struck or kept at the author\'s will.”</blockquote>'
+         + '<p>The check holds: vv 0–5, 11–14, 29–35 agree between the witnesses word for word.</p></div>';
+  }
+  /* The Word Was the Law */
+  out += '<div class="section-head" style="margin-top:36px"><p class="kicker">The Catalog</p><h2>The Word Was the Law — Witnesses from the Wells</h2>'
+       + '<p>' + esc(WORDLAW.intro1) + '</p><p style="margin-top:8px">' + esc(WORDLAW.intro2) + '</p></div>';
+  out += dataTable({caption:"I. The Beginning — the Word creates", head:["Tradition","Witness"], rows:WORDLAW.beginning});
+  out += dataTable({caption:"II. The Law — the Word commands", head:["Tradition","Witness"], rows:WORDLAW.law});
+  out += '<div class="doc-block"><h3>III. The Remaining Wells</h3><ul>'
+       + WORDLAW.remaining.map(function(r){ return "<li><strong>" + esc(r[0]) + ".</strong> " + esc(r[1]) + "</li>"; }).join("")
+       + '</ul><p><strong>Audit.</strong> ' + esc(WORDLAW.audit.replace(/^Audit\. /,"")) + '</p></div>';
+  out += '</section>';
+  app.innerHTML = out;
+}
+
+/* ---------- WEIGHINGS ---------- */
+var KNOWN = {
+  77:"OZ = 77 — the Goat, Liber LXXVII; and AXONEME = 77, the author's attested bridge to עז.",
+  93:"93 — THE WORD = ΘΕΛΗΜΑ = ΑΓΑΠΗ: Will, Love, and the Word that speaks them.",
+  70:"70 — LILITH = 70 = NO (29) + OZ (41): the refusal plus the strength it becomes.",
+  29:"29 — NO in Latin ordinal; and 2+9+2 = 13, the load-bearing number.",
+  41:"41 — OZ in Latin ordinal; NO (29) + OZ (41) = LILITH (70).",
+  50:"50 — NO in the sub figura formula: Manifestation / Nuit's gate.",
+  13:"13 — the axoneme's load-bearing number; NO reduces here (2+9+2)."
+};
+function ordinal(word){
+  var letters = [], sum = 0;
+  word.toUpperCase().split("").forEach(function(ch){
+    var code = ch.charCodeAt(0);
+    if(code>=65 && code<=90){ var val = code-64; letters.push([ch,val]); sum += val; }
+  });
+  return {letters:letters, sum:sum};
+}
+function reduceNum(n){ while(n>9){ n = String(n).split("").reduce(function(a,d){ return a + Number(d); },0); } return n; }
+function renderWeighings(){
+  var out = '<section class="view active">';
+  out += '<div class="section-head"><p class="kicker">PONTIFEX · the Gematria Catalog</p><h2>The Weighings</h2>'
+       + '<p>From the PONTIFEX gematria catalog of the Lilith Revision (2026-10-16): 24 weighings in the full catalog. Each word weighed in its own tongue — Hebrew mispar hechrechi, Greek isopsephy, English ordinal — and tiered: attested, derived, constructed. The purpose is the bridge: a shared number across two honest banks.</p></div>';
+  out += '<div class="weigh-grid">' + WEIGHINGS.map(function(w){
+    return '<div class="weigh-card"><div style="display:flex;justify-content:space-between;align-items:flex-start;gap:10px"><span class="w-word">' + esc(w.word) + '</span><span class="tier' + (w.tier==="Derived" ? " derived" : "") + '">' + esc(w.tier) + '</span></div>'
+         + '<div class="w-val">' + esc(w.val) + '</div><div class="w-bank">' + esc(w.bank) + '</div><p>' + esc(w.p) + '</p></div>';
+  }).join("") + '</div>';
+  out += '<div class="calc"><h3>Weigh a word yourself</h3>'
+       + '<p>English ordinal — A=1 … Z=26 — the native bank for English, per the author\'s bridge doctrine. Type a word and weigh it on the honest bank.</p>'
+       + '<div class="calc-row"><input id="calc-in" type="text" placeholder="e.g. LILITH" autocomplete="off" aria-label="Word to weigh" />'
+       + '<button id="calc-go">Weigh it</button></div>'
+       + '<div class="calc-out" id="calc-out"></div></div>';
+  out += '</section>';
+  app.innerHTML = out;
+  var go = document.getElementById("calc-go"), inp = document.getElementById("calc-in");
+  function run(){
+    var res = ordinal(inp.value), outEl = document.getElementById("calc-out");
+    if(!res.letters.length){ outEl.className = "calc-out"; outEl.innerHTML = ""; return; }
+    var html = '<div class="big">' + esc(inp.value.toUpperCase()) + ' = <span>' + res.sum + '</span></div>'
+      + '<div class="letter-chips">' + res.letters.map(function(l){ return '<span class="chip">' + l[0] + ' <small>' + l[1] + '</small></span>'; }).join("") + '</div>'
+      + '<p class="red-line">Theosophical reduction: ' + res.sum + ' → ' + reduceNum(res.sum) + '.</p>';
+    if(KNOWN[res.sum]) html += '<div class="match show"><strong>On the record:</strong> ' + esc(KNOWN[res.sum]) + '</div>';
+    outEl.innerHTML = html; outEl.className = "calc-out show";
+  }
+  go.addEventListener("click", run);
+  inp.addEventListener("keydown", function(e){ if(e.key==="Enter") run(); });
+  inp.addEventListener("input", function(){ if(!inp.value) { var o=document.getElementById("calc-out"); o.className="calc-out"; o.innerHTML=""; } });
+}
+
+/* ---------- AUDIT & COLOPHON ---------- */
+function renderAudit(){
+  var out = '<section class="view active">';
+  out += '<div class="section-head"><p class="kicker">Audit &amp; Colophon</p><h2>The Four-Well Audit</h2>'
+       + '<p>Per the author\'s Symmetrical Directive: no work is called done until audited across the Four Wells with genuine correlation in each. No forced correlations — where a well had nothing genuine to draw, nothing was drawn.</p></div>';
+  out += '<div class="audit-grid">' + AUDIT.map(function(a){
+    return '<div class="audit-card"><h4>' + esc(a.well) + '<span class="genuine">Genuine</span></h4><p>' + esc(a.p) + '</p></div>';
+  }).join("") + '</div>';
+
+  out += '<div class="doc-block"><h3>Colophon — sub figura, the doctrinal lines verbatim</h3>'
+       + '<blockquote>“This Liber Oz — The Lilith Revision was set by hand for Johnathan Qasparr Monroe, Keeper of the Secret Treasure, on Dies Lunae, Anno V:xii, under the Red Moon, as a non-replacing draft for the author\'s red pen.”</blockquote>'
+       + '<blockquote>“Nothing here revokes Crowley\'s word. The night does not unmake the day.”</blockquote>'
+       + '<blockquote>“Set at The Secret Treasure — Scriptorium Sub Luna Rubra. Final proof for red pen. Liber LXXVII sub figura Lilith — Draft V:xii.”</blockquote></div>';
+
+  out += '<div class="doc-block"><h3>Colophon — the Editions</h3><ul>'
+       + '<li>This is a <strong>non-replacing</strong> revision in the lineage of Crowley\'s Liber Oz (LXXVII), now in its teaching compendium. It revokes nothing; the night does not unmake the day.</li>'
+       + '<li><strong>Dictated wording:</strong> only the author\'s own lines are dictated text — the four image inscriptions, the amoral-regard shorthand, the 1776 formula, and the sealing dictum “Live, Love, and let Love, Live.” All are preserved exactly as given, including the load-bearing comma.</li>'
+       + '<li><strong>The marriage:</strong> the September 2026 draft and the October 2026 sub figura presentation are both preserved as witnesses; this compendium marries them and restores the teaching the filter would not carry.</li>'
+       + '<li>Everything else is the composer\'s draft, submitted to the author\'s red pen. Disagreement is expected; the Anchorage stands.</li>'
+       + '<li>Legal and scriptural references are educational. No legal effect is claimed or conjured.</li></ul>'
+       + '<p><i>Fiat nox, fiat ius.</i> — Let there be night; let there be right.</p></div>';
+
+  out += '<div class="sustain"><h3>Sustain the Work</h3>'
+       + '<p>If this Book has fed you, feed the work. Contributions sustain the writing, the art, and the research behind it — received in the spirit of Oz×Duty: every right asserted is multiplied by its duty.</p>'
+       + '<span class="handle">$axoneme</span><p style="margin-top:14px;font-style:italic">93.</p></div>';
+  out += '</section>';
+  app.innerHTML = out;
+}
+
+/* ================= CONTROLLER ================= */
+function syncChrome(){
+  document.getElementById("wA").setAttribute("aria-pressed", state.view!=="compare" && state.witness==="A");
+  document.getElementById("wB").setAttribute("aria-pressed", state.view!=="compare" && state.witness==="B");
+  document.getElementById("wCmp").setAttribute("aria-pressed", state.view==="compare");
+  document.querySelectorAll(".viewnav button").forEach(function(b){
+    var v = b.getAttribute("data-view");
+    var cur = (state.view==="compare") ? "text" : state.view;
+    if(v===cur) b.setAttribute("aria-current","page"); else b.removeAttribute("aria-current");
+  });
+}
+function render(scroll){
+  if(state.view==="text") renderText();
+  else if(state.view==="compare") renderCompare();
+  else if(state.view==="teaching") renderTeaching();
+  else if(state.view==="wells") renderWells();
+  else if(state.view==="tables") renderTables();
+  else if(state.view==="weighings") renderWeighings();
+  else if(state.view==="audit") renderAudit();
+  syncChrome();
+  if(scroll !== false) window.scrollTo({top:0});
+}
+document.getElementById("wA").addEventListener("click", function(){ state.witness="A"; if(state.view==="compare") state.view="text"; render(); });
+document.getElementById("wB").addEventListener("click", function(){ state.witness="B"; if(state.view==="compare") state.view="text"; render(); });
+document.getElementById("wCmp").addEventListener("click", function(){ state.view="compare"; render(); });
+document.querySelectorAll(".viewnav button").forEach(function(b){
+  b.addEventListener("click", function(){ state.view = b.getAttribute("data-view"); render(); });
+});
+render();
+</script>
