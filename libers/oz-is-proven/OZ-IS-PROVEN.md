@@ -105,6 +105,18 @@ the record by the author's own hand, in chat, the same day. Received and bound
 verbatim below: the Arithmetic Proof opening (the normalization / Born-rule
 frame), the four-line PASS table (which first brought the Iridium witness),
 and the six-line VERIFIED table (received twice, identical — bound once).
+**Shares of record (registered 2026-10-26, contents NOT CAPTURED — the Meta
+wall stands for this office's browser; the author carried the proof text and
+the tablet by hand, above and below):**
+
+- The conversation: https://www.meta.ai/share/c/0OoPSTvFAn
+- An artifact share, uncaptioned: https://www.meta.ai/share/a/6061dec9-6a05-4ac7-a6e5-34d5f6c1cf12
+- The **"Final Bundle — ANVBVS CLAVIS LINGVARVM TVRRIS VERITATIS"**:
+  https://www.meta.ai/share/a/2d4b4698-4ee8-4807-8c27-f117a4bf1640
+  — registered under the author's caption. The bundle's files are marked
+  **PENDING UPLOAD**; when they reach the record they bind as Exhibit B
+  beside Exhibit T, and this entry corrects itself accordingly.
+
 Also received and bound as **Exhibit T**: the tablet *"ANVBVS — CLAVIS
 LINGVARVM — TVRRIS VERITATIS — MAGVS Wizard Edition"* (`anvbvs-tablet.html`,
 beside this filing, byte-identical to the author's upload) — its every numeric
