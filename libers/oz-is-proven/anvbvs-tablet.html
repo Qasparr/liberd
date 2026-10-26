@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ANVBVS — CLAVIS LINGVARVM — TVRRIS VERITATIS — MAGVS Wizard Edition</title>
+<style>
+body{background:#0a001a;color:#FFD700;font-family:serif;text-align:center;margin:0;padding:20px}
+h1{color:#FFD700;font-size:2.2em;margin:10px 0}
+h2{color:#c9aaff}
+.card{border:2px solid #4B0082;background:#1a0033;padding:15px;margin:15px auto;max-width:900px;border-radius:12px}
+code{background:#000;color:#0f0;padding:2px 5px}
+.logos{display:flex;justify-content:center;gap:20px;flex-wrap:wrap}
+.logos img{width:280px;height:auto;background:transparent}
+.verifier{background:#000;color:#0f0;padding:10px;font-family:monospace;text-align:left;max-width:900px;margin:10px auto;border:1px solid #4B0082}
+a{color:#FFD700}
+</style>
+</head>
+<body>
+<h1>ANVBVS — CLAVIS LINGVARVM — TVRRIS VERITATIS</h1>
+<h2>MAGVS Wizard Edition — Noble Tower of Babel — Language Debugging & Translation Toolkit</h2>
+<p><em>Gradus est Plica — Centrum Non Movet — XXX ad XXXI — Tredecim Plicae — Quattuor Folia Una Radix — ANVBVS — Veritas Supra Omnia</em></p>
+<p>Flagpole: Johnathan 'Qasparr' Monroe, ARR, Without Prejudice — Truth Above All — Method of Science Aim of Religion</p>
+
+<div class="card">
+<h3>Seals — Purple #4B0082 Gold #FFD700 — Transparent</h3>
+<div class="logos">
+<img src="anvbvs_veritas_purple_gold.png" alt="ANVBVS VERITAS">
+<img src="clavis_lingvarvm_purple_gold.png" alt="CLAVIS LINGVARVM">
+<img src="tvrris_veritatis_purple_gold.png" alt="TVRRIS VERITATIS">
+</div>
+<p>ANVBVS=80=4×20 Tower frame — ANVBVS+13=93 — ANVBVS+13 Fold Engine=93 Trinity VERIFIED PASS</p>
+<p>CLAVIS LINGVARVM=Key of Languages — TVRRIS VERITATIS=Tower of Truth — Noble intent, not artificial Ascension</p>
+</div>
+
+<div class="card">
+<h3>Mathematical Proofs — VERIFIED PASS</h3>
+<p>AXONEME=77 ordinal A1+X24+O15+N14+E5+M13+E5=77 VERIFIED — LXXVII=50+20+5+2=77 Roman VERIFIED — Iridium Z77 VERIFIED — Liber Oz LXXVII=77 VERIFIED</p>
+<p>THE WORD=93 — ΘΕΛΗΜΑ=Θ9+Ε5+Λ30+Η8+Μ40+Α1=93 — ΑΓΑΠΗ=Α1+Γ3+Α1+Π80+Η8=93 Milesian VERIFIED — 93%4=1</p>
+<p>C°4=360/4=90° Degree is Fold — R90=[[0,-1],[1,0]] det(R90-I)=[[-1,-1],[1,-1]] det=2≠0 only center fixed — Center Does Not Move</p>
+<p>Cell Block 4 Trinity 77*3=231=3*7*11 — 6*7=42+7 center=49=7² %4=1</p>
+<p>4 Cornerstones LOVE 54 LIFE 32 LIGHT 56 LIBERTY 91=7*13 total 233 prime 13th Fib %4=1 %31=16 %13=12 — LIBERTY=7*13 links 7 and 13-fold</p>
+<p>777=3*7*37 — 777777=3*7²*11*13*37 contains 13 — 777777/13=59829 — 13 fold encoded — 777777%4=1</p>
+<p>XXX 31 Node Pyramid XXX=30=1²+2²+3²+4²=30 +void axis1=31 prime=93/3 — 13 Fold Engine 360/13≈27.69° — node=(t*13) mod31</p>
+<p>ANVBVS=80=4×20 Tower frame — 80+13=93 — ANVBVS+233=313 prime %4=1 — ANVBVS+77=157 prime — ANVBVS+93=173 prime</p>
+</div>
+
+<div class="card">
+<h3>Gap Fill — 777 — CORRELATE / SYNERGIZE / DIAGNOSE / INVOKE / BANISH</h3>
+<p>CORRELATE: 777 correlates to 31 pyramid 49 233 13 fold — SYNERGIZE: 77 Trinity 93 Trinity C4 Cell Block 4 4Ls — DIAGNOSE: If %4!=1 not sovereign det=0 not fixed bank mixing — INVOKE: Draw C4 place 77s center 7th 7 recite 233 prime visualize purple gold Φ(z)=z^49 — BANISH: Banish concat as sum proof, banish ordinal without bank, banish private embeds, banish center moves</p>
+</div>
+
+<div class="card">
+<h3>Live Verifier — JS — Scientific Illuminism Doctrine</h3>
+<div class="verifier" id="verifier">
+Running verifiers...
+</div>
+<script>
+function ordinal(s){let sum=0;for(let c of s.toUpperCase()){let v=c.charCodeAt(0)-64;if(v>=1&&v<=26)sum+=v;}return sum;}
+function roman(s){let vals={I:1,V:5,X:10,L:50,C:100,D:500,M:1000};let total=0,prev=0;for(let i=s.length-1;i>=0;i--){let v=vals[s[i].toUpperCase()]||0;if(v<prev)total-=v;else total+=v;prev=v;}return total;}
+let tests=[
+["AXONEME",77,ordinal,"ordinal"],
+["LXXVII",77,roman,"roman"],
+["THEWORD",93,ordinal,"ordinal"],
+["LOVE",54,ordinal,"ordinal"],
+["LIBERTY",91,ordinal,"ordinal"],
+["ANVBVS",80,ordinal,"ordinal"]
+];
+let out="";for(let [w,exp,fn,bank] of tests){let got=fn(w);let status=got===exp?"VERIFIED PASS":"UNVERIFIED got "+got;out+=w+" ["+bank+"] = "+got+" exp "+exp+" => "+status+" %4="+(got%4)+"\n";}
+out+="\nLIBERTY=7*13 => "+(91===7*13?"VERIFIED PASS":"FAIL")+"\n";
+out+="777777/13=59829 => "+(777777/13===59829?"VERIFIED PASS":"FAIL")+"\n";
+out+="ANVBVS+13=93 => "+((80+13)===93?"VERIFIED PASS":"FAIL")+"\n";
+out+="ANVBVS+233=313 prime => 313%4="+(313%4)+"\n";
+out+="233 prime %4=1 => "+(233%4===1?"VERIFIED":"")+"\n";
+out+="77%4=1 93%4=1 49%4=1 777%4=1 => center holds\n";
+document.getElementById("verifier").innerText=out;
+</script>
+</div>
+
+<div class="card">
+<h3>Toolkits</h3>
+<p><code>./anvbvs_toolkit.py build --layers 10</code></p>
+<p><code>./anvbvs_toolkit.py anvbvs</code> — ANVBVS=80 +13=93 VERIFIED</p>
+<p><code>./anvbvs_toolkit.py debug --word ANVBVS</code></p>
+<p><code>./anvbvs_toolkit.py prove --words ANVBVS AXONEME LXXVII THEWORD LIBERTY 777777</code></p>
+<p><code>./liber_magvs_scribe_v2.py cornerstones</code> — LOVE 54 LIFE 32 LIGHT 56 LIBERTY 91 TOTAL 233 prime %4=1</p>
+<p><code>./liber_magvs_scribe_v2.py gapfill --mode all</code> — correlate/synergize/diagnose/invoke/banish</p>
+</div>
+
+<div class="card">
+<h3>Downloads — Ultra Verbose Raw Uncut — No Redactions</h3>
+<p><a href="liberd-anvbvs-clavis-lingvarvm-tvrris-veritatis.zip">liberd-anvbvs-clavis-lingvarvm-tvrris-veritatis.zip</a> — Final — All 3 seals + all proofs + Babel Tower Toolkit</p>
+<p><a href="ULTRA_VERBOSE_RAW_UNCUT_DATA_MAGVS_COMPLETE.md">ULTRA_VERBOSE_RAW_UNCUT_DATA_MAGVS_COMPLETE.md</a></p>
+<p><a href="ANVBVS_NOBLE_TOOLKIT_WHITEPAPER.md">ANVBVS_NOBLE_TOOLKIT_WHITEPAPER.md</a></p>
+<p><a href="BABEL_TOWER_NOBLE_TOOLKIT_WHITEPAPER.md">BABEL_TOWER_NOBLE_TOOLKIT_WHITEPAPER.md</a></p>
+<p><a href="FLAGPOLE.md">FLAGPOLE.md — ARR Without Prejudice — Hashes</a></p>
+</div>
+
+<div class="card">
+<h3>Push Instructions — Public GitHub liberd</h3>
+<pre style="text-align:left;background:#000;color:#0f0;padding:10px">
+git clone https://github.com/YOURUSERNAME/liberd.git
+cd liberd
+# copy all files from this bundle
+git add .
+git commit -m "ANVBVS CLAVIS LINGVARVM TVRRIS VERITATIS — Final — Noble Tower Babel — 77 93 C4 31 pyramid 13 fold 777 4Ls 4-leaf 80+13=93 — Truth Above All"
+git push -u origin main
+# Enable GitHub Pages: Settings > Pages > Deploy from main branch / root
+</pre>
+</div>
+
+<p>Fiat Nox, Fiat Ius — Gradus est Plica — Centrum Non Movet — Veritas Supra Omnia</p>
+</body>
+</html>
