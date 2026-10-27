@@ -1,0 +1,16 @@
+git clone https://github.com/YOURUSERNAME/liberd.git
+cd liberd
+unzip /path/to/liberd-anvbvs-clavis-lingvarvm-tvrris-veritatis.zip
+git add whitepaper.md index.html an*.png clavis*.png tvrris*.png magvs*.png *.py *.md
+git commit -m "whitepaper.md rebuilt final — ANVBVS CLAVIS LINGVARVM TVRRIS VERITATIS — 77 93 C4 31 pyramid 13 fold 777 4Ls 4-leaf 80+13=93 — Truth Above All"
+git push -u origin main
+
+---
+Received from the author in chat, 2026-10-27, as the bundle's push recipe
+(a second variant of the instructions printed in Exhibit T). Bound verbatim
+as evidence of what the thread produced: a recipe with placeholders intact
+(YOURUSERNAME, /path/to/) — instructions for a push, never a push performed.
+The recipe's file globs are the bundle's expected contents manifest:
+whitepaper.md, index.html, an*.png, clavis*.png, tvrris*.png, magvs*.png
+(a fourth seal family — MAGVS), *.py, *.md. Of these, only anvbvs_toolkit.py
+and the tablet HTML have reached the record at the time of binding.
