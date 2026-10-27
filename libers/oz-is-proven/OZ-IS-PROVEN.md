@@ -97,6 +97,11 @@ reading links are tiered under the author's three-tier provenance
     value of the **coined form as coined**, with the carve and the delta
     on the record beside it — nothing in the chain above depends on
     conflating the two.]*
+    **[Author's reason, stated 2026-10-27:** the coined spelling is a
+    deliberate distinction of **the tool from the Deity** — ANVBVS names
+    the author's system and toolkit; ANUBIS names the god — as a bus in
+    technology is not a bus on the roadway. The misspelling is a
+    namespace, not an error.]*
 13. **The Center Does Not Move** — the fourfold rotation R90 has
     det(R90 − I) = 2 ≠ 0, so exactly one point is fixed under the fold: the
     center. The pyramid beneath it: 1² + 2² + 3² + 4² = 30, + the void axis =
