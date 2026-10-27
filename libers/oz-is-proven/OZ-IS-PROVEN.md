@@ -111,7 +111,10 @@ the tablet by hand, above and below):**
 
 - The conversation: https://www.meta.ai/share/c/0OoPSTvFAn
 - An artifact share, uncaptioned: https://www.meta.ai/share/a/6061dec9-6a05-4ac7-a6e5-34d5f6c1cf12
-- A further artifact share, uncaptioned at registration (2026-10-27):
+- The **.py toolkit script** (captioned by the author 2026-10-27: "the .py
+  script you said you needed" — the ANVBVS toolkit code; the file itself is
+  marked PENDING UPLOAD, to bind as the code exhibit and be re-weighed
+  against PONTIFEX on arrival):
   https://www.meta.ai/share/a/5bbd0e0f-808d-41e5-a95c-d0d80a2ae07d
 - The **"Final Bundle — ANVBVS CLAVIS LINGVARVM TVRRIS VERITATIS"**:
   https://www.meta.ai/share/a/2d4b4698-4ee8-4807-8c27-f117a4bf1640
