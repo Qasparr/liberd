@@ -85,6 +85,18 @@ reading links are tiered under the author's three-tier provenance
     filed orthography — stated plainly: in common spelling ANUBIS weighs 66;
     the 80 belongs to the inscriptional form, which is itself his coinage and
     is weighed as his system prescribes.]*
+    **[Audit precision, 2026-10-27, under the classical-orthography ruling:**
+    the faithful classical carve of the Latin name is ANVB**I**S = **67**
+    (A1 + N14 + V22 + B2 + I9 + S19). The coined form ANVBVS stands exactly
+    **13** above the carve — the whole difference is the second V, and its
+    mechanism is exact: **V(22) − I(9) = 13**, the thirteenfold interval
+    this very link employs (80 + 13 = 93). In the Agrippa bank the same
+    substitution weighs ANVBVS = 533 against ANVBIS = ANUBIS = 342
+    (Agrippa's table reads U and V as one letter, so the carve and the
+    common spelling coincide there). The 80 is therefore filed as the
+    value of the **coined form as coined**, with the carve and the delta
+    on the record beside it — nothing in the chain above depends on
+    conflating the two.]*
 13. **The Center Does Not Move** — the fourfold rotation R90 has
     det(R90 − I) = 2 ≠ 0, so exactly one point is fixed under the fold: the
     center. The pyramid beneath it: 1² + 2² + 3² + 4² = 30, + the void axis =
