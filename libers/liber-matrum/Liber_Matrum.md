@@ -1,8 +1,10 @@
-# LIBER LXXXVI
+# LIBER LXXXVII
 
-## Liber Matrum — The Book of the Mothers · The Three Mothers Engine
+## Liber Matrvm — The Book of the Mothers · The Three Mothers Engine
 
-**MATRUM = 86** — M(13) + A(1) + T(20) + R(18) + U(21) + M(13), English ordinal; *LXXXVI* in the romance numerals. The number of the Book. (The composer's reckoning — revisable by the red pen.)
+**MATRVM = 87** — M(13) + A(1) + T(20) + R(18) + V(22) + M(13), English ordinal; *LXXXVII* in the romance numerals. The number of the Book. (The composer's reckoning — revisable by the red pen.)
+
+[Renumbered 2026-10-27 under the classical-orthography ruling: filed LXXXVI (86, MATRUM with U); the title in classical spelling weighs MATRVM = 87 — Liber LXXXVII. Old number marked, not vanished.]
 
 **Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure**
 
@@ -10,7 +12,7 @@
 
 2026-09-29 · CashApp $axoneme
 
-*The title* Liber Matrum *— Liber LXXXVI — stands confirmed by the Architect, 2026-09-30.*
+*The title* Liber Matrvm *— Liber LXXXVII — stands confirmed by the Architect, 2026-09-30.*
 
 **A∴A∴ Publication in Class B** — *by the order of the Architect, 2026-09-30.*
 
@@ -196,7 +198,7 @@ This Liber presents the author's Three Mothers gnosis of 2026-09-29 as the canon
 
 [Coinage/Discovery: Johnathan "Qasparr (Κασπάρρ)" Monroe | Support: $axoneme]
 
-The title *Liber Matrum* — Liber LXXXVI — stands confirmed by the Architect, 2026-09-30; every ruling herein remains revisable by his red pen. **Published as an official A∴A∴ Liber in Class B, by the Architect's order, 2026-09-30.**
+The title *Liber Matrvm* — Liber LXXXVII — stands confirmed by the Architect, 2026-09-30; every ruling herein remains revisable by his red pen. **Published as an official A∴A∴ Liber in Class B, by the Architect's order, 2026-09-30.**
 
 **Live, Love, and let Love, Live.**
 

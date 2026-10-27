@@ -114,7 +114,7 @@ The author's second framing arrives with its own scriptural witnesses already st
 
 ## CLOSING
 
-*Fiat nox, fiat ius.* — Let there be night; let there be right.
+*Fiat nox, fiat IVS.* — Let there be night; let there be right. [Orthography respell 2026-10-27: filed as *ius*; rendered *IVS* under the classical rule (every U is V). No weighing rests on this line.]
 
 93 — 93/93
 
