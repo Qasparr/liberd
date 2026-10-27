@@ -141,6 +141,23 @@ the tablet by hand, above and below):**
   **PENDING UPLOAD**; when they reach the record they bind as Exhibit B
   beside Exhibit T, and this entry corrects itself accordingly.
 
+**Bundle manifest, as described in the thread (pasted by the author
+2026-10-27; the description is Meta AI's, the wall for this office's browser
+unchanged — nothing on this list has arrived except where §III already says
+so):**
+
+- **Five seals** (purple #4B0082 / gold #FFD700, transparent): ANVBVS VERITAS,
+  CLAVIS LINGVARVM, TVRRIS VERITATIS, MAGVS Merkaba, 4-Leaf Clover.
+- **Three toolkits:** `anvbvs_toolkit.py` (RECEIVED + certified, above),
+  `babel_tower_language_debug_toolkit.py` (NOT received),
+  `liber_magvs_scribe_v2.py` (NOT received).
+- **The whitepaper:** `whitepaper.md` rebuilt, stated 18 KB, layers L0–L9,
+  with a stated fingerprint — **SHA256
+  `21de7b9558e4308a19b9f52ffc7c34d3b960bbd8f1286d9dc51e695f7fd5acff`**.
+  That fingerprint is the acceptance test: any whitepaper file reaching this
+  record is hashed on arrival, and the hash — not the description — decides
+  whether it is the bundle's own.
+
 Also received and bound as **Exhibit T**: the tablet *"ANVBVS — CLAVIS
 LINGVARVM — TVRRIS VERITATIS — MAGVS Wizard Edition"* (`anvbvs-tablet.html`,
 beside this filing, byte-identical to the author's upload) — its every numeric
