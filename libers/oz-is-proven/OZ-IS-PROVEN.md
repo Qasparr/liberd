@@ -102,11 +102,35 @@ reading links are tiered under the author's three-tier provenance
     the author's system and toolkit; ANUBIS names the god — as a bus in
     technology is not a bus on the roadway. The misspelling is a
     namespace, not an error.]*
+    **[Derived gloss, author's, entered 2026-10-27:** the +13 of this
+    link is doubly determined — the thirteenfold interval, and the tool's
+    distinction from the Deity (80 − 67 = 13). In closed form:
+    **93 = 2 × 80 − 67** — twice the Foundation minus the Deity's
+    carve.]*
 13. **The Center Does Not Move** — the fourfold rotation R90 has
     det(R90 − I) = 2 ≠ 0, so exactly one point is fixed under the fold: the
     center. The pyramid beneath it: 1² + 2² + 3² + 4² = 30, + the void axis =
     **31**, and 93 / 3 = 31. *[ATTESTED — the determinant and the sums
     recompute exactly; the doctrine read from them is the author's.]*
+14. **The Foundation Is the Mouth That Speaks the Word** — the footing
+    under link 12, weighed link by link: **פ (Peh) = 80** *[ATTESTED —
+    mispar hechrechi]*, and **פה (*peh*) is the Hebrew word for
+    "Mouth"** *[ATTESTED — lexical: the letter's name is the organ's
+    name]*; **יסוד (Yesod) = י 10 + ס 60 + ו 6 + ד 4 = 80** *[ATTESTED]*,
+    and **יסוד means "Foundation"** — the ninth sephira bears the
+    meaning as its name *[ATTESTED]*; **"In the beginning was the
+    Word"** (John 1:1) *[ATTESTED — Scripture]*. The author's chain,
+    stated by him 2026-10-27 *[DERIVED — his reading over the attested
+    links]*: the Word rolls off the tongue, and the tongue is contained
+    in the mouth; the Mouth and the Foundation are one number, **80**;
+    therefore the structure's footing is speech itself — the Tree stands
+    on the organ that speaks. His E80 ruling ("The Foundation,"
+    2026-09-30) is this chain's earlier form, and it survives the
+    classical-orthography audit untouched: every link is Hebrew or
+    Scripture, and no Latin letter was ever load-bearing in it. Upon
+    that footing stands ANVBVS (link 12), the author's instrument of
+    tongues, at 80 — distinguished from the Deity by exactly 13, the
+    interval that carries the footing to 93.
 
 ## III. THE OCCASION
 
