@@ -112,10 +112,29 @@ the tablet by hand, above and below):**
 - The conversation: https://www.meta.ai/share/c/0OoPSTvFAn
 - An artifact share, uncaptioned: https://www.meta.ai/share/a/6061dec9-6a05-4ac7-a6e5-34d5f6c1cf12
 - The **.py toolkit script** (captioned by the author 2026-10-27: "the .py
-  script you said you needed" — the ANVBVS toolkit code; the file itself is
-  marked PENDING UPLOAD, to bind as the code exhibit and be re-weighed
-  against PONTIFEX on arrival):
+  script you said you needed"):
   https://www.meta.ai/share/a/5bbd0e0f-808d-41e5-a95c-d0d80a2ae07d
+  **RECEIVED the same morning** — pasted in full by the author (twice,
+  identical), bound byte-faithful as the code exhibit `anvbvs_toolkit.py`
+  beside this filing, **run, and cross-weighed against PONTIFEX**:
+  - *Agreement, total, on the shared bank:* PONTIFEX (ptk `LATIN_ORDINAL`)
+    returns AXONEME 77, ANVBVS 80, THEWORD 93, LIBERTY 91, LOVE 54, LIFE 32,
+    LIGHT 56 — **identical to the toolkit on all seven words.** Its Roman
+    (LXXVII = 77) and Milesian (ΘΕΛΗΜΑ = ΑΓΑΠΗ = 93) banks likewise verify,
+    and its negative control behaves honestly in those banks (a deliberately
+    wrong expectation returns UNVERIFIED).
+  - *Catches, marked in the open (the exhibit is bound as received; nothing
+    in it was patched):* **(1)** the **leet bank's verifier cannot fail** —
+    `verify --word ZZZZZ --expect 999 --bank leet` returns VERIFIED; a check
+    that always passes is not a check, and the leet bank stands UNCERTIFIED
+    until that branch learns to say no. **(2)** `prove`'s theory checks are
+    printed placeholders ("check bank"), not evaluations — scaffold, marked
+    as such. **(3)** "777777" weighs 0 in the ordinal bank (digits are
+    skipped by design); its claims rest on the factorisation alone, which
+    holds. **(4)** Received-text garbles preserved unemended: the docstring's
+    "A1=80" and "conclouding/concloud"; and the gapfill *invoke* prints
+    Φ(z)=z^80 where Exhibit T prints z^49 — an internal inconsistency
+    between the tablet and the code, marked, awaiting the author's pen.
 - The **"Final Bundle — ANVBVS CLAVIS LINGVARVM TVRRIS VERITATIS"**:
   https://www.meta.ai/share/a/2d4b4698-4ee8-4807-8c27-f117a4bf1640
   — registered under the author's caption. The bundle's files are marked
